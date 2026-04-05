@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/PircaIndustries-OpenSource/upc-pre-202610-1asi0729-17952-PircaIndustries-report/blob/main/Resources/UPC_logo_transparente.png" alt="Logo-UPC" width="150">
+  <img src="Resources/UPC_logo_transparente.png" alt="Logo-UPC" width="150">
 
 ## Universidad Peruana de Ciencias Aplicadas
 
