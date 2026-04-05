@@ -17,7 +17,7 @@
 ## Informe de Trabajo Final
 ### SyncedHealth
 
-### Kipu
+### CortiSense
 #### Relación de integrantes 
 | Integrante                  | Código         |
 |---------------------------------|----------------|
