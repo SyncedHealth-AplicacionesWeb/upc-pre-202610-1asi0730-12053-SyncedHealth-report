@@ -153,9 +153,9 @@ https://github.com/SyncedHealth-AplicacionesWeb/upc-pre-202610-1asi0730-12053-Sy
 # Student Outcome
 
 El curso contribuye al cumplimiento del Student Outcome ABET:<br><br>
-**ABET – EAC - Student Outcome 3**<br>
-**Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias.<br><br>
-En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.<br><br>
+**ABET – EAC - Student Outcome 5**<br>
+**Criterio:** La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.<br><br>
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.<br><br>
 
 <table >
   <thead>
@@ -167,7 +167,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
   </thead>
   <tbody>
     <tr>
-	<td colspan="3">Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
+	<td colspan="3">Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
       <td colspan="3" align = "justify">
       <h3>Gutierrez Santillán, Sebastián Augusto</h3>
         <b>AV1</b><p></p>
@@ -204,7 +204,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
       </td>
     </tr>
     <tr>
-      <td colspan="3">Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
+      <td colspan="3">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
       <td colspan="3" align = "justify">
       <h3>Gutierrez Santillán, Sebastián Augusto</h3>
         <b>AV1</b><p></p>
