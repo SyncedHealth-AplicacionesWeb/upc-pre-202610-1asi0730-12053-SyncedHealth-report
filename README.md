@@ -49,7 +49,7 @@
 
 # Project Report Collaboration Insights
 
-URL de Organización de GITHUB del equipo PircaIndustries:
+URL de Organización de GITHUB del equipo SyncedHealth:
 https://github.com/SyncedHealth-AplicacionesWeb
 
 URL de Repositorio del Project Report:
@@ -264,11 +264,11 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
   
 | **Integrante**                         | **Perfil**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **Imagen**                                                                                                       |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Gutierrez Santillán, Sebastián Augusto - u202417329** | | <img src="Resources/Profiles/Manuel.jpeg" alt="Foto de Gutierrez Santillán, Sebastián Augusto" width="150"/> |
-| **León Morales, Johan Yonel - u20231h055** | | <img src="Resources/Profiles/paula.jpg?raw=true" alt="Imagen de León Morales, Johan Yonel"/> |
-| **Mauricio Silva, Guiou Justinn - u20241e242** | | <img src="Resources/Profiles/Diego.jpeg?raw=true" alt="Imagen de Mauricio Silva, Guiou Justinn"/> |
+| **Gutierrez Santillán, Sebastián Augusto - u202417329** | | <img src="Resources/Profiles/sebastian.jpg" alt="Foto de Gutierrez Santillán, Sebastián Augusto" width="150"/> |
+| **León Morales, Johan Yonel - u20231h055** | | <img src="Resources/Profiles/johan.jpg?raw=true" alt="Imagen de León Morales, Johan Yonel"/> |
+| **Mauricio Silva, Guiou Justinn - u20241e242** | | <img src="Resources/Profiles/mauricio.jpg?raw=true" alt="Imagen de Mauricio Silva, Guiou Justinn"/> |
 | **Pareja Calloapaza, Marcelo Fausto - u202411627** |Mi nombre es Marcelo Fausto Pareja Calloapaza, tengo 19 años y curso el 5to ciclo de la carrera de Ingeniería de Software que es identificado mediante el código u202411627. Soy una persona de naturaleza sincera y motivadora, pues siempre me encuentro dispuesto a brindar mi ayuda y colaboración en las diversas situaciones ellas sean requeridas. Algunas de mis mayores fortalezas son mis habilidades relacionadas con la escritura de código, lectura y redacción de textos, las cuales uso activamente para enriquecer múltiples proyectos. El propósito que me guía en cualquiera de ellos es la búsqueda de la perfección de mis habilidades sociales y conocimientos, los cuales se encuentran centrados en un enfoque de crecimiento personal y profesional.| <img src="Resources/Profiles/marcelo.jpg?raw=true" alt="Imagen de Pareja Calloapaza, Marcelo Fausto"/> |
-| **Santiago Atanacio, Jairo Mathias - u202418755** | | <img src="Resources/Profiles/neo.jpg?raw=true" alt="Imagen de Santiago Atanacio, Jairo Mathias"/> |
+| **Santiago Atanacio, Jairo Mathias - u202418755** | | <img src="Resources/Profiles/santiago.jpg?raw=true" alt="Imagen de Santiago Atanacio, Jairo Mathias"/> |
 
 ## 1.2 Solution Profile
 
@@ -464,19 +464,19 @@ En esta sección se realizará el análisis competitivo de los competidores iden
 				<div align="center">Logo</div>
 			</td>
 			<td><div align="center">
-				<img src="Resources/Style%20Guidelines/logo.png?raw=true" alt="Kipu logo"/>
+				<img src="Resources/Style%20Guidelines/logo.png?raw=true" alt="Our logo"/>
 			</div></td>
 			<td><div align="center">
-				<img src="Resources/Competitors/procore.png?raw=true" alt="Procore logo"/>
+				<img src="Resources/Competitors/procore.png?raw=true" alt="C1 logo"/>
 			</div></td>
 			<td><div align="center">
-				<img src="Resources/Competitors/buildertrend.png?raw=true" alt="Buildertrend logo"/>
+				<img src="Resources/Competitors/buildertrend.png?raw=true" alt="C2 logo"/>
 			</div></td>
 			<td><div align="center">
-				<img src="Resources/Competitors/mondaydotcom.png?raw=true" alt="Monday.com logo"/>
+				<img src="Resources/Competitors/mondaydotcom.png?raw=true" alt="C3 logo"/>
 			</div></td>
 			<td><div align="center">
-				<img src="Resources/Competitors/cype-presto.png?raw=true" alt="Cype / Presto logos"/>
+				<img src="Resources/Competitors/cype-presto.png?raw=true" alt="C4 logo"/>
 			</div></td>
 		</tr>
 		<tr>
