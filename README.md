@@ -263,12 +263,12 @@ La misión de SyncedHealth es salvaguardar el bienestar del personal sanitario m
 La visión de SyncedHealth es consolidarse como el estándar global en el monitoreo de la salud ocupacional médica, liderando la transición hacia hospitales inteligentes y proactivos. Nos proyectamos como el aliado tecnológico indispensable para los sistemas de salud en la región, donde la integración de biotecnología e inteligencia de datos permita erradicar el estrés crónico en el personal de salud. Aspiramos a ser la plataforma que no solo gestione horarios, sino que dicte las pautas para una práctica médica sostenible, equilibrada y tecnológicamente optimizada.
 
 * **Valores:**
-- Nos comprometemos con la precisión absoluta de los datos. Valoramos el rigor científico de nuestras mediciones de cortisol y signos vitales, entendiendo que de su exactitud depende la salud de quienes cuidan a los demás.
-- Creemos en la detección temprana antes que en la corrección. Nuestra filosofía se centra en anticipar el agotamiento del personal para evitar consecuencias críticas tanto para el profesional como para el paciente.
-- Buscamos constantemente la mejora de nuestros dispositivos IoT. No nos conformamos con lo existente, sino que adaptamos la tecnología más reciente para solucionar los desafíos más complejos del sector salud.
-- Valoramos la privacidad y el manejo responsable de la información sensible. Garantizamos que el monitoreo de salud se realice bajo estándares éticos, asegurando que la tecnología sea siempre una herramienta de apoyo y protección para el trabajador.
-- Fomentamos un equilibrio donde la tecnología sirve a la humanidad. Entendemos que un sistema de salud eficiente solo es posible cuando el personal médico está en sus plenas capacidades físicas y mentales.
-- Nos enfocamos en resultados tangibles. Nuestra plataforma de pago garantiza un soporte continuo y una actualización constante, asegurando que las instituciones de salud cuenten con una herramienta de alta disponibilidad para la gestión de su capital más valioso: su gente.
+	* Nos comprometemos con la precisión absoluta de los datos. Valoramos el rigor científico de nuestras mediciones de cortisol y signos vitales, entendiendo que de su exactitud depende la salud de quienes cuidan a los demás.
+	* Creemos en la detección temprana antes que en la corrección. Nuestra filosofía se centra en anticipar el agotamiento del personal para evitar consecuencias críticas tanto para el profesional como para el paciente.
+	* Buscamos constantemente la mejora de nuestros dispositivos IoT. No nos conformamos con lo existente, sino que adaptamos la tecnología más reciente para solucionar los desafíos más complejos del sector salud.
+	* Valoramos la privacidad y el manejo responsable de la información sensible. Garantizamos que el monitoreo de salud se realice bajo estándares éticos, asegurando que la tecnología sea siempre una herramienta de apoyo y protección para el trabajador.
+	* Fomentamos un equilibrio donde la tecnología sirve a la humanidad. Entendemos que un sistema de salud eficiente solo es posible cuando el personal médico está en sus plenas capacidades físicas y mentales.
+	* Nos enfocamos en resultados tangibles. Nuestra plataforma de pago garantiza un soporte continuo y una actualización constante, asegurando que las instituciones de salud cuenten con una herramienta de alta disponibilidad para la gestión de su capital más valioso: su gente.
 
   ### 1.1.2 Perfiles de integrantes del equipo
   
