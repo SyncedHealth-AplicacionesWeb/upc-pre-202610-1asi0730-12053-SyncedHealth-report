@@ -251,14 +251,18 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 **Nombre:**  SyncedHealth
 
-**Área:**  
+**Área:**  Innovación tecnológica en Medicina y manejo de niveles de estrés
 
+SyncedHealth es una startup conformada por estudiantes de la facultad de ingeniería de la Universidad Peruana de Ciencias Aplicadas (UPC). La compañía nace con el objetivo de mejorar, optimizar y desarrollar el sistema de salud mediante una correcta gestión de los horarios de trabajo del personal médico. De esa manera, mejorar su desempeño en horas laborales. A través de la integración de dispositivos IoT avanzados, monitoreamos biomarcadores críticos como los niveles de cortisol y la variabilidad de la frecuencia cardíaca para prevenir el agotamiento profesional (burnout). De esa manera, buscamos mejorar su desempeño en horas laborales y garantizar la seguridad del paciente.
 
 * **Misión:**
+La misión de SyncedHealth es salvaguardar el bienestar del personal sanitario mediante la implementación de soluciones tecnológicas de vanguardia que permitan una gestión humana y científica de la carga laboral. Nos dedicamos a transformar la cultura de trabajo en las instituciones de salud, sustituyendo la fatiga crónica por un monitoreo preventivo basado en datos reales. A través de nuestros sistemas de medición IoT, buscamos proporcionar diagnósticos precisos sobre el estado físico y mental del médico en tiempo real, permitiendo que la toma de decisiones administrativas se traduzca en una atención médica de mayor calidad, con menos errores y un personal más resiliente.
 
 * **Visión:**
+La visión de SyncedHealth es consolidarse como el estándar global en el monitoreo de la salud ocupacional médica, liderando la transición hacia hospitales inteligentes y proactivos. Nos proyectamos como el aliado tecnológico indispensable para los sistemas de salud en la región, donde la integración de biotecnología e inteligencia de datos permita erradicar el estrés crónico en el personal de salud. Aspiramos a ser la plataforma que no solo gestione horarios, sino que dicte las pautas para una práctica médica sostenible, equilibrada y tecnológicamente optimizada.
 
-* **Valores:**  
+* **Valores:**
+
 
   ### 1.1.2 Perfiles de integrantes del equipo
   
