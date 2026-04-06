@@ -7,7 +7,7 @@
 
 **Ciclo:** 2026-10
 
-**Curso:** Aplicaciones Web
+**Código y Nombre del Curso:** 1asi0730 - Aplicaciones Web
 
 **Sección:** 12053
 
@@ -34,7 +34,7 @@
 
 <br><br>
 ---
-### Registro de Versiones
+### Registro de Versiones del Informe
 
 <div align="justify">
 
@@ -597,7 +597,6 @@ En esta sección se abordará la investigación en base a la información que se
 ### 2.3.2. User Task Matrix.
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
-### 2.3.5. As-is Scenario Mapping.
 
 ## 2.4. Big Picture Event Storming.
 ## 2.5. Ubiquitous Language
