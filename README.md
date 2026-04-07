@@ -37,6 +37,8 @@
 | - | - | - | - |
 |1\.0|05/04/2026|Marcelo Fausto Pareja Calloapaza|Se agregó la estructura inicial del proyecto|
 |1\.1\.0|06/04/2026|Marcelo Fausto Pareja Calloapaza|Se agregó la Descripción de la StartUp|
+|1\.1\.1|06/04/2026|Marcelo Fausto Pareja Calloapaza, Jairo Mathias Santiago Atanacio|Se agregaron los perfiles de los integrantes del equipo|
+|1\.1\.2|06/04/2026|Jairo Mathias Santiago Atanacio|Se agregó el Lean Ux Process|
 
 </div><br><br>
 
