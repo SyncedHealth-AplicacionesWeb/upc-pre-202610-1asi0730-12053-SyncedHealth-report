@@ -1,23 +1,18 @@
 <div align="center">
-  <img src="Resources/UPC_logo_transparente.png" alt="Logo-UPC" width="150">
+<img src="Resources/UPC_logo_transparente.png"></img><br>
 
-## Universidad Peruana de Ciencias Aplicadas
 
-**Ingeniería de Software**
+<h3>Universidad Peruana de Ciencias Aplicadas</h3>
+<h4>Facultad de Ingeniería</h4>
+<h4>Carrera de Ingeniería de Software</h4>
+<h4>Ciclo: 2026-10</h4>
+<h4>Código y Nombre del Curso: 1asi0730 - Aplicaciones Web</h4>
+<h4>NRC 12053</h4>
+<h4>Docente: Efraín Ricardo Bautista Ubillús</h4>
+<h4>Informe del Trabajo Final</h4>
+<h4>Startup: SyncedHealth</h4>
+<h4>Producto: CortiSense</h4>
 
-**Ciclo:** 2026-10
-
-**Código y Nombre del Curso:** 1asi0730 - Aplicaciones Web
-
-**Sección:** 12053
-
-**Profesor:** Efraín Ricardo Bautista Ubillús
-
-----
-## Informe de Trabajo Final
-### SyncedHealth
-
-### CortiSense
 #### Relación de integrantes 
 | Integrante                  | Código         |
 |---------------------------------|----------------|
@@ -33,7 +28,7 @@
 <div style="text-align: justify;">
 
 <br><br>
----
+
 ### Registro de Versiones del Informe
 
 <div align="justify">
@@ -45,7 +40,7 @@
 
 </div><br><br>
 
----
+
 <div align="justify">
 
 # Project Report Collaboration Insights
@@ -59,7 +54,7 @@ https://github.com/SyncedHealth-AplicacionesWeb/upc-pre-202610-1asi0730-12053-Sy
 <strong>*Entrega TB1:*</strong>
 
 
----
+
 
 # Contenido
 
@@ -149,7 +144,7 @@ https://github.com/SyncedHealth-AplicacionesWeb/upc-pre-202610-1asi0730-12053-Sy
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
----
+
 
 # Student Outcome
 
@@ -244,7 +239,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
   </tbody>
 </table>
 
----
+
 
 # Capítulo I: Introducción
 ## 1.1 Startup Profile
@@ -278,7 +273,7 @@ La visión de SyncedHealth es consolidarse como el estándar global en el monito
 | **León Morales, Johan Yonel - u20231h055** | | <img src="Resources/Profiles/johan.jpg?raw=true" alt="Imagen de León Morales, Johan Yonel"/> |
 | **Mauricio Silva, Guiou Justinn - u20241e242** | | <img src="Resources/Profiles/mauricio.jpg?raw=true" alt="Imagen de Mauricio Silva, Guiou Justinn"/> |
 | **Pareja Calloapaza, Marcelo Fausto - u202411627** |Mi nombre es Marcelo Fausto Pareja Calloapaza, tengo 19 años y curso el 5to ciclo de la carrera de Ingeniería de Software que es identificado mediante el código u202411627. Soy una persona de naturaleza sincera y motivadora, pues siempre me encuentro dispuesto a brindar mi ayuda y colaboración en las diversas situaciones ellas sean requeridas. Algunas de mis mayores fortalezas son mis habilidades relacionadas con la escritura de código, lectura y redacción de textos, las cuales uso activamente para enriquecer múltiples proyectos. El propósito que me guía en cualquiera de ellos es la búsqueda de la perfección de mis habilidades sociales y conocimientos, los cuales se encuentran centrados en un enfoque de crecimiento personal y profesional.| <img src="Resources/Profiles/marcelo.jpg?raw=true" alt="Imagen de Pareja Calloapaza, Marcelo Fausto"/> |
-| **Santiago Atanacio, Jairo Mathias - u202418755** | | <img src="Resources/Profiles/santiago.jpg?raw=true" alt="Imagen de Santiago Atanacio, Jairo Mathias"/> |
+| **Santiago Atanacio, Jairo Mathias - u202418755** | | <img src="Resources/Profiles/Jairo_Santiago.jpeg?raw=true" alt="Imagen de Santiago Atanacio, Jairo Mathias"/> |
 
 ## 1.2 Solution Profile
 
@@ -313,62 +308,99 @@ La visión de SyncedHealth es consolidarse como el estándar global en el monito
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statement
-**Problem Statement 1:**
-<br>
-..
-<br>
+El personal sanitario en el Perú y el mundo enfrenta niveles críticos de estrés crónico y agotamiento profesional, fenómeno conocido como burnout. Actualmente, la gestión de horarios en hospitales y clínicas se realiza de forma administrativa y estática, sin considerar el estado físico o mental del médico. Esta falta de monitoreo preventivo no solo deteriora la salud de los profesionales, sino que incrementa exponencialmente el riesgo de errores médicos, mermando la seguridad del paciente y la calidad del servicio de salud.
 
-**Problem Statement 2:**
-<br>
-..
-<br>
+El problema central es que las instituciones de salud carecen de herramientas tecnológicas que vinculen la carga laboral con datos fisiológicos reales. Aunque existen dispositivos de consumo masivo, estos no están integrados a sistemas de gestión hospitalaria que permitan una toma de decisiones basada en biomarcadores críticos como el cortisol y la variabilidad de la frecuencia cardíaca (HRV). La ausencia de una solución preventiva genera una cultura de trabajo basada en la fatiga, lo que se traduce en una alta rotación de personal y costos operativos elevados por negligencias o bajas médicas.
+
+SyncedHealth  responde a esta problemática mediante una plataforma de monitoreo IoT avanzada que sincroniza el bienestar del médico con la gestión de su jornada laboral. Al integrar dispositivos de medición en tiempo real con algoritmos de optimización de horarios, permitimos que los administradores identifiquen síntomas de agotamiento antes de que ocurra una crisis. De esta manera, transformamos los hospitales en centros proactivos e inteligentes, garantizando un personal resiliente y una atención médica humana, segura y científicamente respaldada.
+
 
 #### 1.2.2.2 Lean UX Assumptions
 
  + **User Assumptions:** 
 
-    + **¿Quién es el usuario?** <br> ..<br><br>
+    + **¿Quién es el usuario?** <br> Los usuarios se dividen en dos grupos: el personal médico y de enfermería (usuarios operativos) que visten los dispositivos IoT para monitorear su salud, y los directivos o administradores de hospitales (usuarios estratégicos) que utilizan el dashboard para optimizar turnos y proteger a su personal.<br><br>
 
-    + **¿Dónde encaja nuestro producto en su trabajo o en su vida?** <br>.. <br><br>
+    + **¿Dónde encaja nuestro producto en su trabajo o en su vida?** <br>SyncedHealth se integra directamente en el entorno clínico y la jornada laboral. Es una herramienta de salud ocupacional que acompaña al médico durante sus guardias y procedimientos, asegurando que su rendimiento se mantenga en niveles óptimos para la seguridad propia y del paciente. <br><br>
 
-    + **¿Cuándo y cómo se utiliza nuestro producto?** <br>.. <br><br>
+    + **¿Cuándo y cómo se utiliza nuestro producto?** <br>Resolvemos el agotamiento extremo (burnout) y la falta de datos objetivos sobre el estrés médico. Nuestra solución previene errores fatales causados por la fatiga y optimiza la distribución de la carga de trabajo basándose en ciencia y biotecnología. <br><br>
 
-    + **¿Qué problemas resuelve nuestro producto?** <br>.. <br><br>
+    + **¿Qué problemas resuelve nuestro producto?** <br> Se utiliza de manera permanente durante las horas de servicio. El personal sanitario utiliza el wearable IoT de forma discreta, mientras que el sistema procesa los datos de cortisol y frecuencia cardíaca para generar alertas automáticas a los administradores si se detectan niveles críticos de estrés.<br><br>
 
-    + **¿Qué características son importantes?** <br>.. <br><br>
+    + **¿Qué características son importantes?** <br>
+  
+  - Monitoreo preciso de biomarcadores (Cortisol y HRV) mediante sensores IoT.
+    
+-   Algoritmo de gestión y reprogramación de horarios basado en niveles de fatiga.
+    
+-   Dashboard administrativo para la visualización de la salud del capital humano.
+    
+-   Sistema de alertas preventivas en tiempo real para evitar crisis de burnout. <br><br>
 
-    + **¿Cómo debe verse y comportarse nuestro producto?** <br>.. <br><br>
+    + **¿Cómo debe verse y comportarse nuestro producto?** <br>
+   Debe transmitir rigor científico, confianza y ética. La interfaz debe ser limpia, de grado médico y profesional, asegurando la privacidad de los datos sensibles y funcionando de manera fluida para no añadir carga cognitiva adicional al médico.
+ <br><br>
 
  + **Business Outcomes:** 
 
-    1. **Creo que nuestros usuarios necesitan** 
+    1. **Creo que nuestros usuarios necesitan** Una herramienta objetiva para prevenir el burnout y reducir errores médicos por fatiga.
 
-    2. **Estas necesidades se pueden resolver con** 
+    2. **Estas necesidades se pueden resolver con** Una plataforma IoT que monitoree biomarcadores de estrés y optimice los horarios laborales.
 
-    3. **Nuestros usuarios iniciales son** 
+    3. **Nuestros usuarios iniciales son** Clínicas privadas y hospitales de alta complejidad en Lima con personal en áreas críticas (UCI, Emergencias).
 
-    4. **El valor #1 que un cliente quiere de nuestro servicio es que** 
+    4. **El valor #1 que un cliente quiere de nuestro servicio es que** Reducción de riesgos médicos y mejora en el bienestar y retención de su personal.
 
-    5. **El usuario también puede obtener beneficios adicionales como** 
+    5. **El usuario también puede obtener beneficios adicionales como** Optimización de costos operativos y cumplimiento de normativas de salud ocupacional.
 
-    6. **Vamos a adquirir la mayoría de nuestros clientes a través de** 
+    6. **Vamos a adquirir la mayoría de nuestros clientes a través de** Congresos de gestión hospitalaria, marketing B2B y demostraciones directas a directores médicos.
 
-    7. **Haremos dinero a través de** 
+    7. **Haremos dinero a través de** Venta de dispositivos IoT y una suscripción mensual por el software de gestión (SaaS).
 
-    8. **Nuestras competencias principales son** 
+    8. **Nuestras competencias principales son** Sistemas de RR.HH. tradicionales y aplicaciones de bienestar de consumo (Fitbit, Apple Health).
 
-    9. **Los venceremos debido a** 
+    9. **Los venceremos debido a** Nuestra especialización en biomarcadores médicos (cortisol) y la integración directa con la gestión de horarios.
 
-    11. **Nuestro mayor riesgo es** 
+    10. **Nuestro mayor riesgo es** a resistencia del personal médico a ser monitoreado constantemente por temor a la vigilancia administrativa.
 
-    12. **Resolveremos esto a través de** 
+    11. **Resolveremos esto a través de** Una política de privacidad estricta y demostrando que el sistema busca proteger su salud, no castigar su rendimiento.
+    
+    13. **¿Qué otras suposiciones tenemos?**Suponemos que las instituciones de salud están dispuestas a invertir en biotecnología para mejorar su seguridad clínica.
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
-**Creemos que**  **sabremos que es cierto** 
+###### Hipótesis 1:
+ Creemos que al monitorear los niveles de cortisol y HRV en tiempo real, lograremos reducir los casos de burnout en un 20% durante el primer año. Esto será posible mediante el uso de wearables IoT que envíen alertas preventivas antes de que el médico alcance un estado de agotamiento crítico.
 
-**Creemos que**  **sabremos que es cierto** 
+-   **Business Outcome:** Reducción de bajas médicas por estrés y mejora en la tasa de retención de especialistas.
+    
+-   **Users:** Médicos residentes y especialistas en áreas de alta intensidad (Emergencias/Cirugía).
+    
+-   **User Outcome:** Mejora en el bienestar físico y mental durante las guardias.
+    
+-   **Feature:** Wearable IoT con sensores de biomarcadores de estrés.
 
-**Creemos que**  **sabremos que es cierto** 
+###### Hipótesis 2:
+Consideramos que si automatizamos la gestión de horarios basándonos en datos fisiológicos reales, la incidencia de errores médicos disminuirá significativamente. Esto se logrará permitiendo que el sistema sugiera descansos o rotaciones cuando detecte fatiga acumulada.
+
+-   **Business Outcome:** Incremento en la seguridad del paciente y reducción de costos por negligencias médicas.
+    
+-   **Users:** Directores médicos y administradores de clínicas.
+    
+-   **User Outcome:** Capacidad de gestionar el personal de manera humana y basada en evidencia científica.
+    
+-   **Feature:** Algoritmo de optimización de turnos impulsado por datos biométricos.
+
+
+###### Hipótesis 3:
+Suponemos que si garantizamos un manejo ético y privado de la información de salud del trabajador, la aceptación del sistema por parte del personal médico superará el 80%.
+
+-   **Business Outcome:** Alta tasa de adopción de la tecnología dentro de la institución hospitalaria.
+    
+-   **Users:** Todo el personal sanitario de la red hospitalaria.
+    
+-   **User Outcome:** Sentimiento de protección y respaldo por parte de la institución.
+    
+-   **Feature:** Protocolo de cifrado de datos y perfiles de acceso restringido.
 
 
 #### 1.2.2.4 Lean UX Canvas
@@ -376,46 +408,44 @@ La visión de SyncedHealth es consolidarse como el estándar global en el monito
 <table>
     <tr>
         <td valign="top" >
-            <div align="center"> <br><b>Problema de negocios</b> </div><br>
-            <p>Las PYMES constructoras pierden dinero y reputación por falta de control de KPIs y trazabilidad, generando errores estructurales y multas.</p><br>
+            <div align="center"> <br><b>Buiness Problem</b> </div><br>
+            <p>- Burnout crónico por horarios estáticos que ignoran el estado físico del médico<br> - Incremento de errores médicos y costos operativos por fatiga no monitoreada.</p><br>
         </td>
         <td rowspan="2" valign="top">
-            <div align="center"><br><b>Ideas de las soluciones</b> </div><br>
-            <p>Plataforma web "Kipu" para gestión centralizada, dashboards de control de inventarios, seguimiento de PPC y registro histórico de decisiones.
+            <div align="center"><br><b>Solutions</b> </div><br>
+            <p>- Wearables IoT para monitoreo de cortisol y plataforma de gestión de turnos.<br> - Alertas automáticas de descanso basadas en niveles de fatiga en tiempo real.
             </p><br>
         </td>
             <td valign="top">
-            <div align="center"> <br><b>Resultados Comerciales</b> </div><br>
-            <p>1. Reducción de RNC. 
-			<br>2. Incremento en la retención de clientes (suscripción SaaS).
-			<br>3. Posicionamiento como estándar tecnológico local.</p><br>
+            <div align="center"> <br><b>Business Outcomes</b> </div><br>
+            <p>- Reducción del 20% en casos de agotamiento y del 15% en errores clínicos.<br>- Mayor retención de especialistas y optimización de la seguridad del paciente.</p><br>
             </td>
         </tr>
     <tr>
         <td valign="top">
-            <div align="center"><br><b>Usuarios y Clientes</b></div><br>
-            <p>Ingenieros civiles, arquitectos residentes y dueños de PYMES constructoras (sector privado).</p><br>
+            <div align="center"><br><b>Users</b></div><br>
+            <p>-Personal sanitario operativo (médicos residentes, enfermeras y especialistas) que laboran en áreas de alta intensidad.<br> - Administradores y Directores Médicos de hospitales y clínicas de alta complejidad que gestionan el capital humano.</p><br>
         </td>
         <td valign="top">
-            <div align="center"><br><b>Beneficios del usuario</b></div><br>
-            <p>	1. Control total de costos.
-			<br>2. Reducción de riesgos legales mediante trazabilidad.
-			<br>3. Toma de decisiones basada en datos reales.</p><br>
+            <div align="center"><br><b>User Outcomes & Benefits</b></div><br>
+            <p>- Obtención de datos objetivos sobre su propia salud física (cortisol y HRV) para prevenir colapsos. <br> - Jornadas laborales equilibradas y prevención de crisis físicas mediante biometría. <br> - Mayor seguridad y plenitud de capacidades durante la atención al paciente.</p><br>
         </td>
     </tr>
     <tr>
         <td valign="top">
-            <div align="center"> <br><b>Hipótesis</b> </div><br>
-            <p>Creemos que al digitalizar el control de obra (PPC e Inventarios), los gestores reducirán sobrecostos y mejorarán la precisión de entrega de sus proyectos.</p> <br>
+            <div align="center"> <br><b>Hypotheses</b> </div><br>
+            <p>- El monitoreo de biomarcadores facilitará la prevención temprana del burnout.<br> - La gestión de horarios por bio-datos reducirá los errores en el servicio médico.</p> <br>
         </td>
         <td valign="top">
-            <div align="center"> <br><b>¿Qué es lo más importante que necesitamos aprender primero? </b> </div><br><p>¿Están los usuarios dispuestos a abandonar el registro manual por una app en obra para evitar multas y pérdidas?</p> <br>
+            <div align="center"> <br><b>What’s the most important thing we
+need to learn first?  </b> </div><br><p>- ¿Las clínicas rotarán personal basándose en alertas biotecnológicas automáticas? <br> - ¿La precisión de los sensores IoT cumple con el estándar de rigor médico?</p> <br>
         </td>
         <td valign="top">
-            <div align="center">  <br><b>¿Cuál es la menor cantidad de trabajo que necesitamos hacer para resolver las dudas y para hacer lo siguiente más importante?</b> </div><br><p>Crear un prototipo funcional que permita registrar el avance diario (PPC) y el uso de materiales clave, testeándolo con 2 constructoras locales.</p> <br>
+            <div align="center">  <br><b>What's the least amount of work we need to do to learn the next most important thing?</b> </div><br><p>Entrevistas con directores médicos y prototipo de baja fidelidad del dashboard. <br> - Pruebas de laboratorio del hardware para validar la lectura de cortisol y HRV.</p> <br>
         </td>
     </tr>
 </table>
+
 
 ## 1.3 Segmentos Objetivo
 
