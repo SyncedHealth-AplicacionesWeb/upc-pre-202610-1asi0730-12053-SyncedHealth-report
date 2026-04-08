@@ -641,6 +641,17 @@ En esta sección se abordará la investigación en base a la información que se
 ### 2.3.4. Empathy Mapping.
 
 ## 2.4. Big Picture Event Storming.
+
+Según Qlerify (s.f.), el Big Picture Event Storming constituye una de las metodologías esenciales dentro de las variantes del Event Storming. Esta técnica se fundamenta en talleres colaborativos destinados al análisis y diseño de dominios de negocio complejos. El Event Storming fue concebido originalmente por Alberto Brandolini como un método para extraer y socializar el conocimiento sobre un dominio de forma rápida, siendo una herramienta clave para la implementación del Domain-Driven Design (DDD). En este sentido, el Big Picture Event Storming actúa como un punto de partida estratégico para una aplicación efectiva del DDD, ya que, como señala Chatuev (2020), resulta prioritario comenzar priorizando el descubrimiento del dominio, el intercambio de saberes y la consolidación del Lenguaje Ubicuo.
+
+**Metodología aplicada**
+
+**Big Picture Event Storming - Leyenda**
+
+**Big Picture Event Storming - Mapa**
+
+**Interpretación de hallazgos clave**
+
 ## 2.5. Ubiquitous Language
 
 ---
