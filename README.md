@@ -472,10 +472,13 @@ En esta sección se identificarán los mejores referentes para posteriormente re
 
 Según la investigación, se descubrieron apps webs y/o aplicaciones similares. Sin embargo, estamos considerando cinco competidores directos o indirectos que se parezcan más a nuestra startup.
 
-* **C1**<br>
+* **FirstBeat**<br>
+En cuanto a rigor científico, FirstBeat es el producto más cercano. Incorpora en sus productos sensores de un alto grado de profesionalismo que son diseñados para escalar la Variabilidad de la Frecuencia Cardiaca (HRV). Además, proporciona datos vinculados al nivel de estrés y recuperación de sueño del usuario, lo que demuestra un enfoque operativo y de salud ocupacional muy fuerte. A pesar de no tener el mismo sector demográfico al que brindar necesidades, su plataforma de análisis para empresas busca objetivos similares: identificar empleados en riesgo de burnout mediante biometría científica.
 
+* **Dropstat**<br>
+Dropstat es una aplicación que fue desarrollada para su uso en el sector salud. Se trata de un software de análisis predictivo que ayuda a los administradores de salud a cubrir turnos de manera segura. Se centra en la seguridad del personal. Mediante el uso de la Inteligencia Artificial, la aplicación predice cúando una unidad está en riesgo de agotamiento y sugiere la ejecución de rotaciones con el objetivo de evitar fatiga. Es un competidor directo frente a nuestro software en el ámbito de gestión de horarios. Su ventaja es la adaptabilidad en el flujo de trabajo administrativo hospitalario, aunque aún no emplean el uso de wearables.
 
-* **C2**<br>
+* **Oura Bussiness / Oura Teams**<br>
 
 
 ### 2.1.1 Análisis Competitivo
