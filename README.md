@@ -470,7 +470,7 @@ need to learn first?  </b> </div><br><p>- ¿Las clínicas rotarán personal bas�
 
 En esta sección se identificarán los mejores referentes para posteriormente realizar un análisis competitivo que nos ayudará a saber nuestro posicionamiento y el valor agregado que ofreceremos en el mercado. 
 
-Según la investigación, se descubrieron apps webs y/o aplicaciones similares. Sin embargo, estamos considerando cinco competidores directos o indirectos que se parezcan más a nuestra startup.
+Según la investigación, se descubrieron apps webs y/o aplicaciones similares. Sin embargo, estamos considerando cuatro competidores directos o indirectos que se parezcan más a nuestra startup.
 
 * **FirstBeat**<br>
 Firstbeat es el líder mundial en análisis de la Variabilidad de la Frecuencia Cardíaca (HRV) con un enfoque de alto rigor científico. Su modelo de negocio es del tipo SaaS corporativo, donde proporcionan un sensor de grado profesional y una plataforma de análisis para empresas. Su similitud con CortiSense reside en la identificación de estados de estrés y recuperación; sin embargo, se centran en el bienestar corporativo general y carecen de una integración directa con la gestión de horarios críticos o la medición de cortisol que SyncedHealth propone.
@@ -483,9 +483,6 @@ Oura es el referente en wearables de formato discreto (anillos inteligentes) que
 
 * **UKG (Kronos) - Healthcare Solutions**
 UKG es un gigante global en software de gestión de capital humano (HCM) y control de horarios a gran escala. Su nicho es la eficiencia administrativa y el cumplimiento de normativas laborales en instituciones masivas. Si bien es el estándar en muchos hospitales para marcar asistencia, carece de la capa de biotecnología aplicada que ofrece SyncedHealth; es decir, gestiona horarios de forma estática sin considerar el estado fisiológico real del médico.
-
-* **Fibit Health Solutions**
-Es la rama corporativa de Fitbit que ofrece programas de bienestar para hospitales y dispositivos de bajo costo. Su ventaja competitiva es la facilidad de implementación y el reconocimiento de marca. Aunque permiten monitorear la salud general del personal, su precisión no es de "grado clínico" y su plataforma es demasiado genérica para las necesidades de alta intensidad de una UCI o una sala de emergencias, donde el algoritmo de CortiSense busca especializarse.
 
 ### 2.1.1 Análisis Competitivo
 
