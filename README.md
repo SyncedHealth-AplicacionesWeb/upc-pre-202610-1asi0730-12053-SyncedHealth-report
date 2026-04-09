@@ -495,129 +495,129 @@ En esta sección se realizará el análisis competitivo de los competidores iden
 	<tbody>
 		<tr>
 			<td colspan="2">¿Por qué llevar a cabo este análisis?</td>
-			<td colspan="5"></td>
+			<td colspan="5">Para identificar las brechas tecnológicas en el monitoreo de estrés médico y posicionar a CortiSense como la única solución que integra biomarcadores clínicos (Cortisol) con la gestión operativa de turnos.</td>
 		</tr>
 		<tr>
 			<td colspan="2">
 				<div align="center">Nombre</div>
 			</td>
-			<td><div align="center"><b>Nuestro</b></div></td>
-			<td><div align="center"><b>C1</b></div></td>
-			<td><div align="center"><b>C2</b></div></td>
-			<td><div align="center"><b>C3</b></div></td>
-			<td><div align="center"><b>C4</b></div></td>
+			<td><div align="center"><b>CortiSense</b></div></td>
+			<td><div align="center"><b>Firstbeat Life</b></div></td>
+			<td><div align="center"><b>Dropstat</b></div></td>
+			<td><div align="center"><b>Oura Business</b></div></td>
+			<td><div align="center"><b>UKG Healthcare</b></div></td>
 		</tr>
 		<tr>
 			<td colspan="2">
 				<div align="center">Logo</div>
 			</td>
 			<td><div align="center">
-				<img src="Resources/Style%20Guidelines/logo.png?raw=true" alt="Our logo"/>
+				<img src="Resources/Style%20Guidelines/logo.png?raw=true" alt="CortiSense logo"/>
 			</div></td>
 			<td><div align="center">
-				<img src="Resources/Competitors/procore.png?raw=true" alt="C1 logo"/>
+				<img src="Resources/Competitors/firstbeat.png?raw=true" alt="Firstbeat logo"/>
 			</div></td>
 			<td><div align="center">
-				<img src="Resources/Competitors/buildertrend.png?raw=true" alt="C2 logo"/>
+				<img src="Resources/Competitors/dropstat.png?raw=true" alt="Dropstat logo"/>
 			</div></td>
 			<td><div align="center">
-				<img src="Resources/Competitors/mondaydotcom.png?raw=true" alt="C3 logo"/>
+				<img src="Resources/Competitors/oura.png?raw=true" alt="Oura logo"/>
 			</div></td>
 			<td><div align="center">
-				<img src="Resources/Competitors/cype-presto.png?raw=true" alt="C4 logo"/>
+				<img src="Resources/Competitors/ukg.png?raw=true" alt="UKG logo"/>
 			</div></td>
 		</tr>
 		<tr>
 			<td rowspan="2">Perfil</td>
 			<td>Overview</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Ecosistema IoT que mide cortisol y HRV para optimizar horarios médicos y prevenir burnout.</td>
+			<td>Plataforma de análisis fisiológico basada en HRV para bienestar corporativo y alto rendimiento.</td>
+			<td>Software de análisis predictivo para cubrir turnos y reducir la fatiga en enfermería.</td>
+			<td>Wearable en formato de anillo para monitorear recuperación, sueño y estrés en equipos.</td>
+			<td>Solución masiva de gestión de capital humano y control de asistencia hospitalaria.</td>
 		</tr>
 		<tr>
 			<td>Ventaja Competitiva</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Medición directa de cortisol y reprogramación automática de turnos basada en fatiga real.</td>
+			<td>Rigor científico extremo en el análisis de la Variabilidad Cardíaca (HRV).</td>
+			<td>Algoritmo especializado en la escasez de personal y seguridad de la unidad médica.</td>
+			<td>Hardware discreto y alta tasa de adopción por comodidad del usuario.</td>
+			<td>Dominio del mercado administrativo e integración con nóminas y recursos humanos.</td>
 		</tr>
 		<tr>
 			<td rowspan="2">Marketing</td>
 			<td>Mercado Objetivo</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Clínicas privadas y hospitales de alta complejidad (UCI, Emergencias) en Perú.</td>
+			<td>Empresas corporativas y atletas de élite interesados en rendimiento físico.</td>
+			<td>Redes hospitalarias y administradores de enfermería (principalmente EE.UU.).</td>
+			<td>Empresas tecnológicas y personal sanitario en busca de bienestar preventivo.</td>
+			<td>Grandes instituciones de salud y organismos gubernamentales.</td>
 		</tr>
 		<tr>
 			<td>Estrategias</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>B2B directo a directores médicos, participación en congresos de salud ocupacional.</td>
+			<td>Marketing de contenido científico y alianzas con centros de alto rendimiento.</td>
+			<td>Marketing de datos sobre seguridad del paciente y ahorro en costos de rotación.</td>
+			<td>Branding de estilo de vida premium y estudios clínicos de validación.</td>
+			<td>Venta consultiva a gran escala y relaciones gubernamentales.</td>
 		</tr>
 		<tr>
 			<td rowspan="3">Producto</td>
 			<td>Servicios</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Wearable IoT + Dashboard de gestión de horarios + Alertas en tiempo real.</td>
+			<td>Sensor ECG profesional + App de reporte de salud trimestral.</td>
+			<td>Plataforma SaaS de programación de turnos y comunicación de personal.</td>
+			<td>Anillo inteligente + Dashboard de preparación del equipo (Readiness).</td>
+			<td>Software de marcado, nómina y gestión de cumplimiento laboral.</td>
 		</tr>
 		<tr>
 			<td>Precios</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Suscripción mensual (SaaS) + Venta inicial de dispositivos.</td>
+			<td>Costo por evaluación o suscripción anual por empleado.</td>
+			<td>Suscripción por número de camas o personal activo en el sistema.</td>
+			<td>Costo por anillo (~$299) + Membresía mensual por usuario.</td>
+			<td>Licenciamiento empresarial por volumen de empleados.</td>
 		</tr>
 		<tr>
 			<td>Canales</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Venta directa B2B y soporte técnico especializado.</td>
+			<td>Web oficial, distribuidores autorizados y consultores de salud.</td>
+			<td>Plataforma Web y aplicaciones móviles para el personal.</td>
+			<td>E-commerce directo y canal corporativo (Oura for Business).</td>
+			<td>Consultores de implementación y fuerza de ventas global.</td>
 		</tr>
 		<tr>
 			<td rowspan="4">SWOT</td>
 			<td>Fortalezas</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Unicidad en el uso de cortisol. Integración directa con el flujo de trabajo (horarios).</td>
+			<td>Precisión de grado médico. Base de datos fisiológicos masiva para comparativa.</td>
+			<td>Enfoque profundo en la retención de personal y seguridad clínica.</td>
+			<td>Diseño superior y gran autonomía de batería del dispositivo.</td>
+			<td>Presencia global y robustez en procesos administrativos legales.</td>
 		</tr>
 		<tr>
 			<td>Debilidades</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Marca nueva en el mercado. Resistencia inicial al monitoreo constante.</td>
+			<td>No soluciona el problema de los horarios; solo entrega el diagnóstico.</td>
+			<td>No utiliza datos biométricos en tiempo real, solo datos históricos.</td>
+			<td>Menor precisión en actividades de alta intensidad comparado con sensores de pecho.</td>
+			<td>Sistema rígido y "antiguo" que no prioriza la salud mental del médico.</td>
 		</tr>
 		<tr>
 			<td>Oportunidades</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Creciente legislación sobre salud ocupacional y prevención de estrés en Perú.</td>
+			<td>Expansión a mercados de salud pública post-pandemia.</td>
+			<td>Integración con dispositivos médicos de terceros para enriquecer su IA.</td>
+			<td>Nuevos sensores de temperatura para detección temprana de enfermedades.</td>
+			<td>Adquisición de startups de biometría para modernizar su oferta.</td>
 		</tr>
 		<tr>
 			<td>Amenazas</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Gigantes tecnológicos (Apple/Google) lanzando funciones de estrés médico.</td>
+			<td>Saturación del mercado de wearables de bienestar corporativo.</td>
+			<td>Competidores locales que ofrecen gestión de turnos a precios muy bajos.</td>
+			<td>Problemas de privacidad de datos sensibles a nivel internacional (GDPR).</td>
+			<td>Cambios bruscos en las leyes laborales que afecten el control de horarios.</td>
 		</tr>
 	</tbody>
 </table>
