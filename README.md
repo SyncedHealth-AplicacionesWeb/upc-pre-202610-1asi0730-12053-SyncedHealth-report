@@ -473,13 +473,19 @@ En esta sección se identificarán los mejores referentes para posteriormente re
 Según la investigación, se descubrieron apps webs y/o aplicaciones similares. Sin embargo, estamos considerando cinco competidores directos o indirectos que se parezcan más a nuestra startup.
 
 * **FirstBeat**<br>
-En cuanto a rigor científico, FirstBeat es el producto más cercano. Incorpora en sus productos sensores de un alto grado de profesionalismo que son diseñados para escalar la Variabilidad de la Frecuencia Cardiaca (HRV). Además, proporciona datos vinculados al nivel de estrés y recuperación de sueño del usuario, lo que demuestra un enfoque operativo y de salud ocupacional muy fuerte. A pesar de no tener el mismo sector demográfico al que brindar necesidades, su plataforma de análisis para empresas busca objetivos similares: identificar empleados en riesgo de burnout mediante biometría científica.
+Firstbeat es el líder mundial en análisis de la Variabilidad de la Frecuencia Cardíaca (HRV) con un enfoque de alto rigor científico. Su modelo de negocio es del tipo SaaS corporativo, donde proporcionan un sensor de grado profesional y una plataforma de análisis para empresas. Su similitud con CortiSense reside en la identificación de estados de estrés y recuperación; sin embargo, se centran en el bienestar corporativo general y carecen de una integración directa con la gestión de horarios críticos o la medición de cortisol que SyncedHealth propone.
 
 * **Dropstat**<br>
-Dropstat es una aplicación que fue desarrollada para su uso en el sector salud. Se trata de un software de análisis predictivo que ayuda a los administradores de salud a cubrir turnos de manera segura. Se centra en la seguridad del personal. Mediante el uso de la Inteligencia Artificial, la aplicación predice cúando una unidad está en riesgo de agotamiento y sugiere la ejecución de rotaciones con el objetivo de evitar fatiga. Es un competidor directo frente a nuestro software en el ámbito de gestión de horarios. Su ventaja es la adaptabilidad en el flujo de trabajo administrativo hospitalario, aunque aún no emplean el uso de wearables.
+Dropstat es una plataforma de gestión de personal diseñada específicamente para el sector salud y la retención de personal en hospitales. Su modelo de negocio se basa en una suscripción institucional por centro médico. Es un competidor directo frente a nuestra aplicación en el ámbito operativo, ya que utiliza IA para predecir cuándo una unidad hospitalaria está en riesgo de fatiga y sugiere rotaciones de turnos. A diferencia de CortiSense, Dropstat se apoya más en datos administrativos e históricos que en biomarcadores fisiológicos en tiempo real (IoT).
 
 * **Oura Bussiness / Oura Teams**<br>
+Oura es el referente en wearables de formato discreto (anillos inteligentes) que monitorean sueño, temperatura y HRV. A través de su división corporativa, ofrecen dashboards para que administradores vean el estado de preparación ("Readiness") de sus miembros. Es un competidor fuerte por la comodidad de su hardware. No obstante, su enfoque es de bienestar preventivo general y no está optimizado para la gestión técnica de guardias médicas ni posee la especificidad química para medir cortisol que caracteriza a CortiSense.
 
+* **UKG (Kronos) - Healthcare Solutions**
+UKG es un gigante global en software de gestión de capital humano (HCM) y control de horarios a gran escala. Su nicho es la eficiencia administrativa y el cumplimiento de normativas laborales en instituciones masivas. Si bien es el estándar en muchos hospitales para marcar asistencia, carece de la capa de biotecnología aplicada que ofrece SyncedHealth; es decir, gestiona horarios de forma estática sin considerar el estado fisiológico real del médico.
+
+* **Fibit Health Solutions**
+Es la rama corporativa de Fitbit que ofrece programas de bienestar para hospitales y dispositivos de bajo costo. Su ventaja competitiva es la facilidad de implementación y el reconocimiento de marca. Aunque permiten monitorear la salud general del personal, su precisión no es de "grado clínico" y su plataforma es demasiado genérica para las necesidades de alta intensidad de una UCI o una sala de emergencias, donde el algoritmo de CortiSense busca especializarse.
 
 ### 2.1.1 Análisis Competitivo
 
