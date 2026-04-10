@@ -634,7 +634,7 @@ En esta sección, se llevará a cabo el análisis de las estrategias y tácticas
 **Estrategia de Liderazgo en Costos:**
 * Como resultado de la busqueda de la complacencia de los Médicos, se ofrecerán modelos de implementación por niveles críticos. Ello permitirá que hospitales adopten CortiSense de manera inicial en sectores donde se evidencia un alto riesgo (UCI, Emergencia, Cirugía) sin la necesidad de comprometer el presupuesto de dichas instituciones. Al demostrar una reducción significativa de los costos operativos derivados de bajas médicas o errores clínicos en dichas áreas. De esa manera, facilitaremos el escalamiento de la solución a toda la red hospitalaria de manera orgánica.
 
-* 
+* A manera de buscar la satisfacción de las instituciones, la estrategia empleada se basará en el ROI por reducción de riesgos. En lugar de competir únicamente por el precio del hardware, nuestra monetización se enfocará en el valor del software de gestión (SaaS) que previene pérdidas económicas masivas por negligencias médicas. Proveemos una plataforma de alta disponibilidad cuya inversión se recupera mediante la retención de especialistas y la optimización de la productividad del personal, eliminando sobrecostos por rotación de talento.
 
 **Estrategia de Marketing:**
 
