@@ -624,9 +624,14 @@ En esta sección se realizará el análisis competitivo de los competidores iden
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
+En esta sección, se llevará a cabo el análisis de las estrategias y tácticas que serán usadas con el objetivo de buscar provecho a las debilidades de la competencia y afrontar sus fortalezas. Además, gracias al analisis FODA, se lograron identificar las oportunidades y amenazas de mercado presentes, debido a la evaluación de las fortalezas que ofrece nuestro software y las debilidades frente a empresas con un mayor control en la industria y trayectoria empresarial. De esa manera, este enfoque nos permite concebir estrategias adecuadas para nuestros segmentos objetivos en el sector salud.
+
 **Estrategia de Diferenciación:**
+
 **Estrategia de Liderazgo en Costos:**
+
 **Estrategia de Marketing:**
+
 **Tácticas:**
 
 ## 2.2 Entrevistas
