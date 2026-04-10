@@ -642,7 +642,7 @@ Para ambos segmentos, la estrategia estará centrada en la "Seguridad Clínica b
 
 **Tácticas:**
 
-
+Establecer convenios con aseguradoras de salud en Perú para explorar cómo la implementación de CortiSense puede reducir las primas de seguros de responsabilidad civil médica para las clínicas que utilicen nuestra plataforma.
 
 ## 2.2 Entrevistas
 
