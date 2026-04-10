@@ -627,6 +627,7 @@ En esta sección se realizará el análisis competitivo de los competidores iden
 En esta sección, se llevará a cabo el análisis de las estrategias y tácticas que serán usadas con el objetivo de buscar provecho a las debilidades de la competencia y afrontar sus fortalezas. Además, gracias al analisis FODA, se lograron identificar las oportunidades y amenazas de mercado presentes, debido a la evaluación de las fortalezas que ofrece nuestro software y las debilidades frente a empresas con un mayor control en la industria y trayectoria empresarial. De esa manera, este enfoque nos permite concebir estrategias adecuadas para nuestros segmentos objetivos en el sector salud.
 
 **Estrategia de Diferenciación:**
+* Con el propósito de satisfacer las necesidades del Personal Sanitario Operativo (Médicos y Enfermeros), es imperante la búsqueda de un enfoque orientado al rigor clínico y la protección del trabajador. Contraria a las perspectivas que ofrecen productos de consumo masivo como Oura con manejo de datos generales de bienestar, CortiSense se desasemeja de sus pares gracias a su monitoreo especializado como cortisol y HRV. Ello garantiza que el personal médico no sea solo tratado como un recurso humano, sino como un verdadero profesional cuya integridad física y mental es de valor y se encuentra monitoreada científicamente con el propósito de prevenir colapsos. De esa manera, se eliminará la percepción de "vigilancia administrativa" por una de verdadero respaldo.
 
 **Estrategia de Liderazgo en Costos:**
 
