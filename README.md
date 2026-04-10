@@ -632,6 +632,9 @@ En esta sección, se llevará a cabo el análisis de las estrategias y tácticas
 * En vista de enriquecer la experiencia de usuario de los Administradores y Directores Médicos, es importante hacernos percibir mediante la gestión dinámica basada en evidencias. Mientras la competencia impone módulos de horarios estáticos que pasan por alto la fatiga acumulada. CortiSense apuesta por el fomento de una toma de decisiones inteligente. De esa manera, nuestra plataforma permite la reprogramación de turnos en tiempo real que se encuentran basados en biomarcadores. En consecuencia, nuestra plataforma brinda una gestión proactiva que reduce de manera drástica el riesgo de la negligencia médica producto de errores médicos o agotamiento.
 
 **Estrategia de Liderazgo en Costos:**
+* Como resultado de la busqueda de la complacencia de los Médicos, se ofrecerán modelos de implementación por niveles críticos. Ello permitirá que hospitales adopten CortiSense de manera inicial en sectores donde se evidencia un alto riesgo (UCI, Emergencia, Cirugía) sin la necesidad de comprometer el presupuesto de dichas instituciones. Al demostrar una reducción significativa de los costos operativos derivados de bajas médicas o errores clínicos en dichas áreas. De esa manera, facilitaremos el escalamiento de la solución a toda la red hospitalaria de manera orgánica.
+
+* 
 
 **Estrategia de Marketing:**
 
