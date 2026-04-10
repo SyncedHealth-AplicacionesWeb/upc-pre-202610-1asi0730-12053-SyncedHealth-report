@@ -638,7 +638,11 @@ En esta sección, se llevará a cabo el análisis de las estrategias y tácticas
 
 **Estrategia de Marketing:**
 
+Para ambos segmentos, la estrategia estará centrada en la "Seguridad Clínica basada en la Resiliencia del Personal". Teniendo esa visión como eje central, nosotros desarrollaremos casos de estudio enfocados en instituciones de salud en Lima Metropolitana; así, demostraremos cómo el monitoreo de CortiSense reduce la fatiga crónica y, por consecuencia, mejora los indicadores de seguridad del paciente. El mensaje central será que un médico sano es la mejor garantía para un hospital eficiente.
+
 **Tácticas:**
+
+
 
 ## 2.2 Entrevistas
 
