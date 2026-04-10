@@ -629,6 +629,8 @@ En esta sección, se llevará a cabo el análisis de las estrategias y tácticas
 **Estrategia de Diferenciación:**
 * Con el propósito de satisfacer las necesidades del Personal Sanitario Operativo (Médicos y Enfermeros), es imperante la búsqueda de un enfoque orientado al rigor clínico y la protección del trabajador. Contraria a las perspectivas que ofrecen productos de consumo masivo como Oura con manejo de datos generales de bienestar, CortiSense se desasemeja de sus pares gracias a su monitoreo especializado como cortisol y HRV. Ello garantiza que el personal médico no sea solo tratado como un recurso humano, sino como un verdadero profesional cuya integridad física y mental es de valor y se encuentra monitoreada científicamente con el propósito de prevenir colapsos. De esa manera, se eliminará la percepción de "vigilancia administrativa" por una de verdadero respaldo.
 
+* En vista de enriquecer la experiencia de usuario de los Administradores y Directores Médicos, es importante hacernos percibir mediante la gestión dinámica basada en evidencias. Mientras la competencia impone módulos de horarios estáticos que pasan por alto la fatiga acumulada. CortiSense apuesta por el fomento de una toma de decisiones inteligente. De esa manera, nuestra plataforma permite la reprogramación de turnos en tiempo real que se encuentran basados en biomarcadores. En consecuencia, nuestra plataforma brinda una gestión proactiva que reduce de manera drástica el riesgo de la negligencia médica producto de errores médicos o agotamiento.
+
 **Estrategia de Liderazgo en Costos:**
 
 **Estrategia de Marketing:**
