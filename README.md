@@ -785,6 +785,12 @@ El uso de estos colores permite mantener una estética moderna, amigable y profe
 
 <div align="center"> <img src="Resources/Images/colors.png?raw=true" alt="Imagen de la paleta de colores de CortiSense"/> <br> </div> <div align="justify"><br>
 
+**Spacing** <br><br>
+Para el diseño de CortiSense, se ha definido un sistema de espaciado basado en una escala consistente, con el objetivo de mantener una interfaz más ordenada, limpia y fácil de usar.<br>
+El sistema de spacing sigue una progresión que permite mantener uniformidad en todos los elementos de la interfaz.<br>
+
+<div align="center"> <img src="Resources/Images/spacing.png?raw=true" alt="Imagen de los spacing referenciales"/> </div> <div align="justify"><br>
+
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
