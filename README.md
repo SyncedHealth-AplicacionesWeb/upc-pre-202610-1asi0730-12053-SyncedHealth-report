@@ -733,10 +733,43 @@ En esta sección se abordará la investigación en base a la información que se
 Según Qlerify (s.f.), el Big Picture Event Storming constituye una de las metodologías esenciales dentro de las variantes del Event Storming. Esta técnica se fundamenta en talleres colaborativos destinados al análisis y diseño de dominios de negocio complejos. El Event Storming fue concebido originalmente por Alberto Brandolini como un método para extraer y socializar el conocimiento sobre un dominio de forma rápida, siendo una herramienta clave para la implementación del Domain-Driven Design (DDD). En este sentido, el Big Picture Event Storming actúa como un punto de partida estratégico para una aplicación efectiva del DDD, ya que, como señala Chatuev (2020), resulta prioritario comenzar priorizando el descubrimiento del dominio, el intercambio de saberes y la consolidación del Lenguaje Ubicuo.
 
 **Metodología aplicada**
+La sesión fue desarrollada mediante el uso de la *Step by Step Guide to run your Big Picture Event Storming* de Philippe Bourgau (2022), coach de desarrollo de software, que fue adaptada al contexto del proyecto. También se recurrió a *EventStorming* de la compañía Draft.io. (s.f.) para la consulta de teoría referente a los Event Storming.
 
 **Big Picture Event Storming - Leyenda**
+* **Eventos del dominio:** Ellos representan un cambio de estado dentro de un objeto de dominio. Deben ser nombrados mediante el uso del nombre del objeto seguido de un verbo en pasado participio. Son representados con notas anaranjadas.
+* **Objetos del dominio:** Son usados para visualizar de mejor manera el proceso. Se simbolizan mediante notas rectangulares o cuadradas de color amarillo claro.
+* **Sistemas externos:** Plasman a aquellos sistemas externos involucrados en desencadenar ciertos eventos. Las notas rectangulares o cuadradas de color rosa son usadas para describirlas.
+* **Comandos:** Describen las acciones del usuario en el sistema. Son comunmente asociadas con notas de color amarillo oscuro, que representan al usuario involucrado en el comando. Se usa el color azul para retratarlos en el esquema.
+* **Políticas:** Retratan las reglas que provocan que un evento ocurra o que sean lanzadas por la ocurrencia de un evento. Para manifestarlas en el esquema, se usan notas rectangulares o cuadradas de de color lila.
+* **Preguntas:** Cuando alguna nota requiere ser profundizada o clarificada. Son de color rojo.
+* **Vistas:** Son una representación del estado de la pantalla o documento. Son de color verde claro.
 
-**Big Picture Event Storming - Mapa**
+**Big Picture Event Storming - Mapas**
+
+* **Health Analytics Bounded Context**
+<div align="center">
+  <img src="Resources/Bounded-Contexts/healthanalytics.png?raw=true" alt="health-analytics-bc">
+</div>
+
+* **IoT Telematry Bounded Context**
+<div align="center">
+  <img src="Resources/Bounded-Contexts/iottelematry.png?raw=true" alt="iot-telematry-bc">
+</div>
+
+* **Procurement & Supply Chain Bounded Context**
+<div align="center">
+  <img src="Resources/Event%20Storming%20BC's/procurement%26supplychainBC.png?raw=true" alt="cost-management-BC">
+</div>
+
+* **Shift Orchestrator Bounded Context**
+<div align="center">
+  <img src="Resources/Bounded-Contexts/shiftorchestrator.png?raw=true" alt="shift-orchestrator-bc">
+</div>
+
+* **Identity Access Management (IAM) Bounded Context**
+<div align="center">
+  <img src="Resources/Bounded-Contexts/identityaccessmanagement.png?raw=true" alt="iam-bc">
+</div>
 
 **Interpretación de hallazgos clave**
 
