@@ -767,6 +767,17 @@ El logotipo está compuesto por un ícono representativo de salud, el cual integ
 
 <div align="center"> <img src="Resources/Images/banner.png?raw=true" alt="Imagen del diseño del banner de CortiSense"/> </div> <div align="justify"><br>
 
+**Typography** <br><br>
+Para el desarrollo de CortiSense, se ha seleccionado la tipografía Plus Jakarta Sans, una fuente sans-serif moderna y legible que se adapta a la estética digital del producto. Esta tipografía permite mantener una apariencia limpia, profesional y fácil de leer en diferentes dispositivos.<br>
+Para la jerarquía visual, se utilizan distintos pesos de la fuente con el fin de resaltar la información:
++ **Bold - ExtraBold:** para títulos y encabezados
++ **SemiBold:** para subtítulos
++ **Regular - Medium:** para texto general
++ **Light:** para contenido secundario <br>
+
+A continuación, se presentan los estilos tipográficos utilizados en CortiSense:
+
+<div align="center"> <img src="Resources/Images/typography.png?raw=true" alt="Imagen de los estilos de la tipografía Plus Jakarta Sans"/> </div> <div align="justify"><br>
 
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
