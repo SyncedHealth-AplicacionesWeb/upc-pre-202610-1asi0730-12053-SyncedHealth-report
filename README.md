@@ -791,6 +791,15 @@ El sistema de spacing sigue una progresión que permite mantener uniformidad en 
 
 <div align="center"> <img src="Resources/Images/spacing.png?raw=true" alt="Imagen de los spacing referenciales"/> </div> <div align="justify"><br>
 
+**Communication Style** <br><br>
+El estilo de comunicación de CortiSense se define como:
++ **Serio:** por el contexto relacionado al bienestar y monitoreo del personal de salud.
++ **Formal:** debido a que está dirigido a instituciones y profesionales del sector salud.
++ **Respetuoso:** para transmitir confianza y cercanía con los usuarios.
++ **Sereno:** evitando elementos visuales o comunicativos agresivos, priorizando una experiencia calmada y profesional. <br>
+
+Este enfoque permite proyectar una identidad visual coherente con el propósito del sistema, centrado en el monitoreo inteligente para un bienestar seguro.
+
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
