@@ -779,6 +779,12 @@ A continuación, se presentan los estilos tipográficos utilizados en CortiSense
 
 <div align="center"> <img src="Resources/Images/typography.png?raw=true" alt="Imagen de los estilos de la tipografía Plus Jakarta Sans"/> </div> <div align="justify"><br>
 
+**Colors** <br><br>
+Para CortiSense, se ha definido una paleta de colores basada en tonos turquesa y celeste, los cuales transmiten calma, bienestar, tecnología y confianza. <br>
+El uso de estos colores permite mantener una estética moderna, amigable y profesional dentro de la plataforma. <br>
+
+<div align="center"> <img src="Resources/Images/colors.png?raw=true" alt="Imagen de la paleta de colores de CortiSense"/> <br> </div> <div align="justify"><br>
+
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
