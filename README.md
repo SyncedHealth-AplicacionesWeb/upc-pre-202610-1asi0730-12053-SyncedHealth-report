@@ -758,9 +758,16 @@ Según Qlerify (s.f.), el Big Picture Event Storming constituye una de las metod
 
 ---
 # Capítulo IV: Product Design
-
 ## 4.1. Style Guidelines.
+
 ### 4.1.1. General Style Guidelines.
+**Branding** <br><br>
+Para la identidad visual de CortiSense, se ha desarrollado un logotipo moderno y minimalista que refleja el enfoque tecnológico y de bienestar de la plataforma. El diseño busca transmitir confianza, monitoreo continuo y seguridad en el cuidado del personal.<br>
+El logotipo está compuesto por un ícono representativo de salud, el cual integra un corazón con una línea de pulso y un símbolo de atención médica, representando el monitoreo del bienestar. Este elemento visual refuerza la funcionalidad principal del sistema, orientada a la supervisión del estado físico y emocional del personal de salud.<br>
+
+<div align="center"> <img src="Resources/Images/banner.png?raw=true" alt="Imagen del diseño del banner de CortiSense"/> </div> <div align="justify"><br>
+
+
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
