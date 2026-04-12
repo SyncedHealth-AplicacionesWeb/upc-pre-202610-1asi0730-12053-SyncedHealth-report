@@ -756,14 +756,14 @@ La sesión fue desarrollada mediante el uso de la *Step by Step Guide to run you
   <img src="Resources/Bounded-Contexts/iottelematry.png?raw=true" alt="iot-telematry-bc">
 </div>
 
-* **Procurement & Supply Chain Bounded Context**
-<div align="center">
-  <img src="Resources/Event%20Storming%20BC's/procurement%26supplychainBC.png?raw=true" alt="cost-management-BC">
-</div>
-
 * **Shift Orchestrator Bounded Context**
 <div align="center">
   <img src="Resources/Bounded-Contexts/shiftorchestrator.png?raw=true" alt="shift-orchestrator-bc">
+</div>
+
+* **Notification Engine Bounded Context**
+<div align="center">
+  <img src="Resources/Bounded-Contexts/notificationengine.png?raw=true" alt="notification-engine-bc">
 </div>
 
 * **Identity Access Management (IAM) Bounded Context**
@@ -772,6 +772,9 @@ La sesión fue desarrollada mediante el uso de la *Step by Step Guide to run you
 </div>
 
 **Interpretación de hallazgos clave**
+* **Interpretación por función de notas:** Las notas anaranjadas nos permitieron la definición de los eventos del dominio, los cuales constituyen el registro histórico del estado biométrico del personal médico. En CortiSense destaca el intercontexto entre el monitoreo de salud y la gestión de turnos, formando un flujo de información continuo que vincula la fatiga con la operación. Gracias a las notas lilas, que definen las acciones automatizadas (como la generación de alertas preventivas), se ejecuta un valor diferencial frente a la observación manual subjetiva, evitando crisis de burnout. Estas reglas, basadas en el rigor científico del cortisol y HRV, pueden ser auditadas y ajustadas según protocolos médicos actualizados. Por otro lado, gracias a las notas rosadas, el software funciona como un hub tecnológico capaz de integrarse con los Sistemas de Información Hospitalaria (HIS) existentes, aprovechando la infraestructura de la clínica. Finalmente, las notas amarillas y azules permiten identificar la división de responsabilidades entre el personal operativo (médicos) y los gestores estratégicos (directores).
+* **Hallazgos clave del análisis:** Gracias a las notas verdes, es posible visualizar la transparencia operativa en cuanto a la salud del capital humano unida a los eventos de dominio. Ello permitió el descubrimiento de zonas de fricción críticas mediante las notas rojas, como los dilemas éticos sobre la privacidad de datos biométricos o la precisión de los sensores en entornos de alta interferencia. Estos hallazgos servirán para mejorar iterativamente la arquitectura del sistema y los protocolos de consentimiento. Además, mediante las notas lilas y rosadas, CortiSense establece políticas claras de respuesta automática que garantizan que el monitoreo no sea solo diagnóstico, sino una herramienta de intervención inmediata ante riesgos de salud ocupacional.
+* **Conclusiones:** El Big Picture Event Storming revela a CortiSense no solo como una aplicación de monitoreo, sino como un mecanismo de sincronización vital entre el bienestar biológico y la logística administrativa de los hospitales inteligentes. Este mapeo permitió ordenar los comportamientos del software, donde cada nota azul se convierte en una funcionalidad del sistema y cada nota lila en una regla de negocio clínica que protege tanto al profesional sanitario como la seguridad del paciente.
 
 ## 2.5. Ubiquitous Language
 
