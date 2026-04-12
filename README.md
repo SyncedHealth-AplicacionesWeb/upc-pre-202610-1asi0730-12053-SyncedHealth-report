@@ -794,9 +794,48 @@ La sesión fue desarrollada mediante el uso de la *Step by Step Guide to run you
 
 ---
 # Capítulo IV: Product Design
-
 ## 4.1. Style Guidelines.
+
 ### 4.1.1. General Style Guidelines.
+**Branding** <br><br>
+Para la identidad visual de CortiSense, se ha desarrollado un logotipo moderno y minimalista que refleja el enfoque tecnológico y de bienestar de la plataforma. El diseño busca transmitir confianza, monitoreo continuo y seguridad en el cuidado del personal.<br>
+El logotipo está compuesto por un ícono representativo de salud, el cual integra un corazón con una línea de pulso y un símbolo de atención médica, representando el monitoreo del bienestar. Este elemento visual refuerza la funcionalidad principal del sistema, orientada a la supervisión del estado físico y emocional del personal de salud.<br>
+
+<div align="center"> <img src="Resources/Images/banner.png?raw=true" alt="Imagen del diseño del banner de CortiSense"/> </div> <div align="justify"><br>
+
+**Typography** <br><br>
+Para el desarrollo de CortiSense, se ha seleccionado la tipografía Plus Jakarta Sans, una fuente sans-serif moderna y legible que se adapta a la estética digital del producto. Esta tipografía permite mantener una apariencia limpia, profesional y fácil de leer en diferentes dispositivos.<br>
+Para la jerarquía visual, se utilizan distintos pesos de la fuente con el fin de resaltar la información:
++ **Bold - ExtraBold:** para títulos y encabezados
++ **SemiBold:** para subtítulos
++ **Regular - Medium:** para texto general
++ **Light:** para contenido secundario <br>
+
+A continuación, se presentan los estilos tipográficos utilizados en CortiSense:
+
+<div align="center"> <img src="Resources/Images/typography.png?raw=true" alt="Imagen de los estilos de la tipografía Plus Jakarta Sans"/> </div> <div align="justify"><br>
+
+**Colors** <br><br>
+Para CortiSense, se ha definido una paleta de colores basada en tonos turquesa y celeste, los cuales transmiten calma, bienestar, tecnología y confianza. <br>
+El uso de estos colores permite mantener una estética moderna, amigable y profesional dentro de la plataforma. <br>
+
+<div align="center"> <img src="Resources/Images/colors.png?raw=true" alt="Imagen de la paleta de colores de CortiSense"/> <br> </div> <div align="justify"><br>
+
+**Spacing** <br><br>
+Para el diseño de CortiSense, se ha definido un sistema de espaciado basado en una escala consistente, con el objetivo de mantener una interfaz más ordenada, limpia y fácil de usar.<br>
+El sistema de spacing sigue una progresión que permite mantener uniformidad en todos los elementos de la interfaz.<br>
+
+<div align="center"> <img src="Resources/Images/spacing.png?raw=true" alt="Imagen de los spacing referenciales"/> </div> <div align="justify"><br>
+
+**Communication Style** <br><br>
+El estilo de comunicación de CortiSense se define como:
++ **Serio:** por el contexto relacionado al bienestar y monitoreo del personal de salud.
++ **Formal:** debido a que está dirigido a instituciones y profesionales del sector salud.
++ **Respetuoso:** para transmitir confianza y cercanía con los usuarios.
++ **Sereno:** evitando elementos visuales o comunicativos agresivos, priorizando una experiencia calmada y profesional. <br>
+
+Este enfoque permite proyectar una identidad visual coherente con el propósito del sistema, centrado en el monitoreo inteligente para un bienestar seguro.
+
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
