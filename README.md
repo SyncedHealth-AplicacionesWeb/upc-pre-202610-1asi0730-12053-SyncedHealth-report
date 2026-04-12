@@ -451,15 +451,15 @@ need to learn first?  </b> </div><br><p>- ¿Las clínicas rotarán personal bas�
 
 ## 1.3 Segmentos Objetivo
 
-+ **S1**<br>
++ **Personal Sanitario Operativo**<br>
 
-    + **Características demográficas:** <br>
-    + **Características geográficas:** <br><br>
+    + **Características demográficas:** Médicos residentes, especialistas y enfermeros de entre 24 y 50 años, con jornadas laborales extensas y rotativas en áreas de alta intensidad clínica como UCI, Emergencias y Cirugía. Son profesionales con formación universitaria avanzada, alto nivel de responsabilidad y exposición constante a situaciones de estrés agudo y crónico. En su mayoría utilizan dispositivos móviles y plataformas digitales institucionales en su rutina laboral. <br>
+    + **Características geográficas:** Profesionales que ejercen principalmente en hospitales públicos de alta complejidad y clínicas privadas especializadas ubicadas en Lima Metropolitana, con potencial de expansión hacia otras ciudades con infraestructura hospitalaria desarrollada como Arequipa, Trujillo y Cusco.<br><br>
 
-+ **S2**<br>
++ **Administradores y Directores Médicos**<br>
 
-    + **Características demográficas:** <br>
-    + **Características geográficas:** <br><br>
+    + **Características demográficas:** Directores médicos, jefes de departamento y coordinadores de recursos humanos de entre 35 y 60 años, con formación en medicina, administración en salud o gestión hospitalaria. Son tomadores de decisión con experiencia en planificación de turnos, gestión de personal y cumplimiento de normativas laborales del sector salud. Utilizan habitualmente computadoras de escritorio o laptops y software de gestión institucional en su trabajo diario.<br>
+    + **Características geográficas:** Se desempeñan en clínicas privadas de mediana y alta complejidad, redes hospitalarias y centros médicos corporativos concentrados en Lima Metropolitana, particularmente en distritos con alta densidad de infraestructura sanitaria privada como Miraflores, San Isidro, Surco y San Borja.<br><br>
 
 ---
 
