@@ -284,29 +284,49 @@ La visión de SyncedHealth es consolidarse como el estándar global en el monito
 
 
 **5W's y 2H's**
-<br>
 
-* **What?**
+* **What?**  
+¿Qué problema se está presentando?  
+Falta de monitoreo del estado físico y mental del personal médico, lo que puede generar errores o negligencias durante la atención de pacientes.
 
-<br><br>
-* **Why?**
+* **Why?**  
+¿Por qué sucede el problema?  
+El problema ocurre debido a la sobrecarga laboral del personal médico, la falta de monitoreo de su estado físico y mental, y la ausencia de herramientas tecnológicas que permitan evaluar su condición en tiempo real. Además, la alta demanda de pacientes y la limitada disponibilidad de personal incrementan la fatiga y reducen la capacidad de respuesta del profesional.
 
-<br><br>
-* **Who?**
+* **Who?**  
+¿A quién le sucede el problema?  
+El problema afecta principalmente a médicos y personal de salud, quienes experimentan fatiga y disminución en su rendimiento durante la atención de pacientes.    
+  
+  ¿Está relacionado con las habilidades de las personas?  
+  Este problema está relacionado con las personas, ya que son quienes ejecutan directamente las actividades médicas; sin embargo, no se origina por una falta de conocimientos o habilidades, sino por condiciones de trabajo exigentes que afectan su estado físico y mental.
 
-<br><br>
-* **When?**
+* **When?**  
+¿En qué momento del día ocurre el problema?  
+Ocurre principalmente durante turnos nocturnos y jornadas laborales prolongadas, especialmente al final del turno cuando el médico presenta mayor fatiga  
+  
+  ¿En qué momento del proceso ocurre?  
+  Se evidencia durante el proceso de atención en situaciones de alta demanda o emergencias críticas.
 
-<br><br>
-* **Where?**
+* **Where?**  
+¿Dónde estamos viendo el problema (lugar)?  
+El problema se presenta en hospitales, clínicas y centros de atención de emergencias.  
+    
+  ¿En qué parte del proceso se observa?  
+  Se manifiesta en áreas críticas como las Unidades de Cuidados Intensivos (UCI) y los servicios de emergencia, donde el personal médico brinda atención directa a pacientes en contextos de alta exigencia, presión asistencial y toma constante de decisiones críticas.
 
-<br><br>
-* **How?**
+* **How?**  
+¿Cómo se diferencia el problema del estado óptimo?  
+El problema se diferencia del estado óptimo en que el personal médico presenta fatiga, estrés y disminución del rendimiento, lo que afecta su capacidad de concentración, análisis y toma de decisiones. En un estado óptimo, el profesional mantiene atención sostenida, precisión diagnóstica y respuesta eficiente. Sin embargo, bajo condiciones de sobrecarga laboral y falta de descanso, estas capacidades se ven deterioradas, incrementando la probabilidad de errores durante la atención médica.  
+  
+  ¿La tendencia del problema es aleatoria o sigue un patrón?  
+  El problema no es aleatorio, sino que sigue un patrón identificable, presentándose con mayor frecuencia en turnos prolongados, horarios nocturnos y contextos de alta demanda. Diversos estudios han demostrado que los médicos que trabajan jornadas extendidas, especialmente en turnos de 24 horas o más, cometen significativamente más errores que aquellos con horarios reducidos (The New England Journal of Medicine).
 
-<br><br>
-* **How much?**
-
-<br><br>
+* **How much?**  
+¿Cuántos problemas se dan en un día, semana o mes?  
+El problema se presenta de manera frecuente y recurrente en entornos hospitalarios. A nivel diario, un médico en áreas críticas puede atender entre 20 y 40 pacientes por turno, lo que incrementa la carga cognitiva y el riesgo de errores durante la atención. A nivel semanal y mensual, la exposición continua a jornadas prolongadas y alta demanda genera una acumulación progresiva de fatiga, aumentando la probabilidad de errores médicos y eventos adversos.  
+  
+  ¿Cuánto dinero está implicado?  
+  Los eventos adversos en la atención sanitaria representan un alto impacto económico a nivel global. Según la World Health Organization, los daños a los pacientes derivados de errores en la atención generan costos de miles de millones de dólares anuales, debido a tratamientos adicionales, prolongación de hospitalizaciones y procesos legales.
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statement
