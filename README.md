@@ -883,7 +883,15 @@ El sistema de etiquetado de CortiSense busca eliminar la carga cognitiva del per
 
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems.
+El sistema de búsqueda de CortiSense está diseñado para encontrar información en milisegundos, especialmente útil para administradores que gestionan cientos de especialistas:
+- **Búsqueda por Personal:** Campo diseñado para localizar rápidamente a un médico específico y verificar su estado de fatiga actual antes de ser asignado a una emergencia.
+- **Filtros de Riesgo:** Opción de filtrar al personal por "Nivel de Estrés" (Bajo, Medio, Crítico), lo que permitirá identificar aquellos que requieren de un descanso inmediato.
+- **Filtros por Unidad:** Capacidad de segmentar los datos por áreas del hospital. Por ejemplo: Pabellón de Cirugía Cardiovascular o Triaje.
+- **Búsqueda de Eventos:** Filtro cronológico cuyo fin será buscar incidentes de fatiga en fechas y horas específicas de guardias pasadas.
+- **Sugerencias Inteligentes:** Al escribir un nombre, el sistema sugiere automáticamente el estado actual. Por ejemplo: Dr. García - En zona de fatiga crítica.
+
 ### 4.2.5. Navigation Systems.
+
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 ### 4.3.2. Landing Page Mock-up.
