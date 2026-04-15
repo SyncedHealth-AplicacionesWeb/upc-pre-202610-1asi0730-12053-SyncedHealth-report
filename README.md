@@ -891,6 +891,12 @@ El sistema de búsqueda de CortiSense está diseñado para encontrar informació
 - **Sugerencias Inteligentes:** Al escribir un nombre, el sistema sugiere automáticamente el estado actual. Por ejemplo: Dr. García - En zona de fatiga crítica.
 
 ### 4.2.5. Navigation Systems.
+Debido al entorno con el que CortiSense trabaja, su navegación ha de ser directa y eficiente, mientras minimiza los clics para evitar interacciones innecesarias.
+Barra de Navegación Persistente: Menú lateral (App) y superior (Landing) que permite saltar entre el Dashboard y las Alertas de forma instantánea.
+- **Navegación por Contexto:** Si un médico recibe una alerta háptica en su wearable, al abrir la app será dirigido automáticamente a la sección de "Recomendación de Recuperación".
+- **Indicadores de Estado Global:** Un ícono persistente en la interfaz mostrará siempre el estado de conexión del wearable IoT (conectado/desconectado).
+- **Botones de Acción Rápida:** Son necesarias para buscar la eficiencia de protocolos regularizados. Acciones como "Solicitar Relevo" o "Marcar Incidencia" estarán siempre al alcance de un clic.
+- **Breadcrumbs:** Utilizadas en multiples áreas, sin embargo, destacan en la administrativa. Un ejemplo es la sección de reportes complejos, para que el administrador pueda retroceder fácilmente entre niveles siguiendo una ruta estable (Hospital > Área > Médico > Reporte).
 
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
