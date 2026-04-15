@@ -865,8 +865,22 @@ En CortiSense, aplicaremos diversos sistemas de organización de información pa
 **Organización Visual de Contanido:**
 - **Jerárquica:** Utilizaremos dicho sistema con el objetivo de destacar las alertas críticas de fatiga sobre las métricas de rutina. En el dashboard de cada médico, el lugar central será ocupado por el nivel de cortisol actual y el estado de "resiliencia". Los mismos serán fáciles de identificar mediante el uso de indicadores de color para facilitar la velocidad de lectura.
 - **Secuencial:** Será rigurosamente empleada en el flujo de calibración inicial, la sincronización de la línea base biológica y el proceso de solicitud de reemplazo de turno tras jornadas de alta fatiga.
+**Esquemas de categorización de contenido:**
+- **Según usuario:** Esta es nuestra categorización principal. El Personal Médico visualizará datos privados de salud y recomendaciones de autocuidado, mientras que los Directores Médicos accederán a mapas de calor de estrés por áreas (UCI, Emergencias) y herramientas de gestión de personal.
+- **Por tópicos:** La información ha de ser agrupada mediante el uso de módulos, los cuales poseerán objetos cuyas caracterísitcas son similares entre sí. Por ejemplo: Gestión de Guardias o Biometría y Reportes.
+- **Cronológico:** Será de gran vitalidad para el análisis de tendencias. Debido a que permite la evaluación de los niveles de cortisol al inicio de una guardia frente a su final, será de gran valor al momento de identificar patrones de agotamiento en la semana.
+- **Alfabético:** Será usado de manera secundaria en el directorio del personal médico para usuarios administradores y el la sección destinada como glosario para médicos y biomarcadores.
 
 ### 4.2.2. Labeling Systems.
+El sistema de etiquetado de CortiSense busca eliminar la carga cognitiva del personal sanitario mediante términos precisos y de grado médico.
+- **Inicio / Dashboard:** Pantalla principal con el resumen del estado biológico actual y la guardia en curso.
+- **Ciencia de Datos / Science:** Sección que explica el sustento clínico de la medición de cortisol y HRV para generar confianza en el usuario.
+- **Mi Salud / My Health:** Espacio privado del médico para ver sus métricas históricas y evolución de fatiga.
+- **Gestión de Turnos / Shift Manager:** Módulo para administradores donde se visualiza la disponibilidad y carga laboral del equipo.
+- **Alertas / Critical Alerts:** Centro de notificaciones sobre niveles de estrés que requieren intervención inmediata.
+- **Soporte Técnico / Support:** Información para la resolución de problemas con los dispositivos IoT.
+- **Ingresar / Log In:** Acceso seguro para usuarios registrados con protocolos de privacidad hospitalaria.
+
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems.
 ### 4.2.5. Navigation Systems.
