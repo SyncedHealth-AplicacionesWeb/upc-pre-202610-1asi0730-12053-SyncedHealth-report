@@ -882,6 +882,60 @@ El sistema de etiquetado de CortiSense busca eliminar la carga cognitiva del per
 - **Ingresar / Log In:** Acceso seguro para usuarios registrados con protocolos de privacidad hospitalaria.
 
 ### 4.2.3. SEO Tags and Meta Tags
+Para mejorar el posicionamiento en motores de búsqueda y brindar una experiencia optimizada a los usuarios, aquí están los SEO Tags y Meta Tags que se utilizarán en las plataformas de SyncedHealth:
+
+**Encabezado (Title):** Es vital en el encabezado del HTML ya que proporciona el título de la página web. Los motores de búsqueda lo utilizan para encabezar las entradas en los resultados de búsqueda, siendo fundamental para la visibilidad del sitio.
+
+**Descripción (Description):** Este campo permite ofrecer una descripción breve y clara del contenido del sitio web. Se muestra como un fragmento debajo de la URL en los resultados de búsqueda, resultando crucial para atraer la atención de los usuarios y mejorar el CTR (Click Through Rate).
+
+**Palabras clave (Keywords):** Se utiliza para proporcionar términos clave relevantes para el contenido del sitio, enfocándose en la especialización de salud ocupacional y tecnología IoT.
+
+**Autor y Derechos de Autor:** Estas etiquetas identifican a SyncedHealth como el creador de la página y propietario de los derechos de propiedad intelectual, asegurando la autoría del código y la solución.
+
+**Landing Page:**
+- **Título:**
+```html
+<title>CortiSense - Prevención de Burnout Médico mediante Monitoreo de Cortisol e IoT</title>
+```
+- **Descripción:**
+```html
+<meta name="description" content="Protege al personal sanitario con CortiSense. Monitoreo en tiempo real de cortisol y estrés para prevenir el agotamiento profesional y mejorar la seguridad del paciente."/>
+```
+- **Palabras clave (Keywords):**
+```html
+<meta name="keywords" content="Burnout médico, monitoreo de cortisol, estrés hospitalario, salud ocupacional, IoT médica, gestión de turnos médicos, seguridad del paciente, SyncedHealth."/>
+```
+- **Autor (author):**
+```
+<meta name="author" content="SyncedHealth Startup" />
+```
+- **Copyright:**
+```
+<meta name="copyright" content="© SyncedHealth, 2026" />
+```
+
+**Web Application:**
+- **Título:**
+```html
+<title>CortiSense Portal - Gestión de Resiliencia y Turnos Médicos</title>
+```
+- **Descripción:**
+```html
+<meta name="description" content="Plataforma operativa para la visualización de biomarcadores de estrés y optimización de guardias médicas basada en datos biológicos reales de CortiSense."/>
+```
+- **Palabras clave (Keywords):**
+```html
+<meta name="keywords" content="Dashboard médico, métricas de fatiga, HRV médico, optimización de guardias, telemetría de salud, control de cortisol."/>
+```
+- **Autor (author):**
+```
+<meta name="author" content="SyncedHealth Startup" />
+```
+- **Copyright:**
+```
+<meta name="copyright" content="© SyncedHealth, 2026" />
+```
+
 ### 4.2.4. Searching Systems.
 El sistema de búsqueda de CortiSense está diseñado para encontrar información en milisegundos, especialmente útil para administradores que gestionan cientos de especialistas:
 - **Búsqueda por Personal:** Campo diseñado para localizar rápidamente a un médico específico y verificar su estado de fatiga actual antes de ser asignado a una emergencia.
