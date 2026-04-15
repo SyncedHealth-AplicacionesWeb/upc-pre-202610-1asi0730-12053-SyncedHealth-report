@@ -858,7 +858,14 @@ Este enfoque permite proyectar una identidad visual coherente con el propósito 
 
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
+En CortiSense, la arquitectura de la información se ha diseñado para priorizar la rapidez y la precisión, factores críticos en entornos hospitalarios de alta intensidad. Organizamos el contenido de manera que tanto el personal médico como los administradores puedan acceder a indicadores biométricos y alertas de estrés sin fricciones. Implementamos sistemas de organización basados en la urgencia y la jerarquía visual, facilitando la interpretación de datos complejos de cortisol y HRV. Con una navegación estructurada y sistemas de búsqueda optimizados para la gestión de turnos, CortiSense garantiza que la toma de decisiones para prevenir el burnout sea inmediata, fluida y basada en evidencia científica.
+
 ### 4.2.1. Organization Systems.
+En CortiSense, aplicaremos diversos sistemas de organización de información para garantizar que la fatiga no sea un obstáculo en el uso de la plataforma:
+**Organización Visual de Contanido:**
+- **Jerárquica:** Utilizaremos dicho sistema con el objetivo de destacar las alertas críticas de fatiga sobre las métricas de rutina. En el dashboard de cada médico, el lugar central será ocupado por el nivel de cortisol actual y el estado de "resiliencia". Los mismos serán fáciles de identificar mediante el uso de indicadores de color para facilitar la velocidad de lectura.
+- **Secuencial:** Será rigurosamente empleada en el flujo de calibración inicial, la sincronización de la línea base biológica y el proceso de solicitud de reemplazo de turno tras jornadas de alta fatiga.
+
 ### 4.2.2. Labeling Systems.
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems.
