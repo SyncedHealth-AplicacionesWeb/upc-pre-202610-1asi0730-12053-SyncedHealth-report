@@ -765,27 +765,27 @@ La sesión fue desarrollada mediante el uso de la *Step by Step Guide to run you
 
 * **Health Analytics Bounded Context**
 <div align="center">
-  <img src="Resources/big-picture-event-storming/BPEShealthanalytics.png?raw=true" alt="health-analytics-bc">
+  <img src="Resources/big-picture-event-storming/BPEShealthanalyticsBC.png?raw=true" alt="health-analytics-bc">
 </div>
 
 * **IoT Telematry Bounded Context**
 <div align="center">
-  <img src="Resources/big-picture-event-storming/BPESiottelematry.png?raw=true" alt="iot-telematry-bc">
+  <img src="Resources/big-picture-event-storming/BPESiottelematryBC.png?raw=true" alt="iot-telematry-bc">
 </div>
 
 * **Shift Orchestrator Bounded Context**
 <div align="center">
-  <img src="Resources/big-picture-event-storming/BPESshiftorchestrator.png?raw=true" alt="shift-orchestrator-bc">
+  <img src="Resources/big-picture-event-storming/BPESshiftorchestratorBC.png?raw=true" alt="shift-orchestrator-bc">
 </div>
 
 * **Notification Engine Bounded Context**
 <div align="center">
-  <img src="Resources/big-picture-event-storming/BPESnotificationengine.png?raw=true" alt="notification-engine-bc">
+  <img src="Resources/big-picture-event-storming/BPESnotificationengineBC.png?raw=true" alt="notification-engine-bc">
 </div>
 
 * **Identity Access Management (IAM) Bounded Context**
 <div align="center">
-  <img src="Resources/big-picture-event-storming/BPESidentityaccessmanagement.png?raw=true" alt="iam-bc">
+  <img src="Resources/big-picture-event-storming/BPESidentityaccessmanagementBC.png?raw=true" alt="iam-bc">
 </div>
 
 **Interpretación de hallazgos clave**
