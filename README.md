@@ -759,41 +759,38 @@ La sesión fue desarrollada mediante el uso de la *Step by Step Guide to run you
 * **Eventos del dominio:** Ellos representan un cambio de estado dentro de un objeto de dominio. Deben ser nombrados mediante el uso del nombre del objeto seguido de un verbo en pasado participio. Son representados con notas anaranjadas.
 * **Objetos del dominio:** Son usados para visualizar de mejor manera el proceso. Se simbolizan mediante notas rectangulares o cuadradas de color amarillo claro.
 * **Sistemas externos:** Plasman a aquellos sistemas externos involucrados en desencadenar ciertos eventos. Las notas rectangulares o cuadradas de color rosa son usadas para describirlas.
-* **Comandos:** Describen las acciones del usuario en el sistema. Son comunmente asociadas con notas de color amarillo oscuro, que representan al usuario involucrado en el comando. Se usa el color azul para retratarlos en el esquema.
-* **Políticas:** Retratan las reglas que provocan que un evento ocurra o que sean lanzadas por la ocurrencia de un evento. Para manifestarlas en el esquema, se usan notas rectangulares o cuadradas de de color lila.
 * **Preguntas:** Cuando alguna nota requiere ser profundizada o clarificada. Son de color rojo.
-* **Vistas:** Son una representación del estado de la pantalla o documento. Son de color verde claro.
 
 **Big Picture Event Storming - Mapas**
 
 * **Health Analytics Bounded Context**
 <div align="center">
-  <img src="Resources/Bounded-Contexts/healthanalytics.png?raw=true" alt="health-analytics-bc">
+  <img src="Resources/big-picture-event-storming/BPEShealthanalytics.png?raw=true" alt="health-analytics-bc">
 </div>
 
 * **IoT Telematry Bounded Context**
 <div align="center">
-  <img src="Resources/Bounded-Contexts/iottelematry.png?raw=true" alt="iot-telematry-bc">
+  <img src="Resources/big-picture-event-storming/BPESiottelematry.png?raw=true" alt="iot-telematry-bc">
 </div>
 
 * **Shift Orchestrator Bounded Context**
 <div align="center">
-  <img src="Resources/Bounded-Contexts/shiftorchestrator.png?raw=true" alt="shift-orchestrator-bc">
+  <img src="Resources/big-picture-event-storming/BPESshiftorchestrator.png?raw=true" alt="shift-orchestrator-bc">
 </div>
 
 * **Notification Engine Bounded Context**
 <div align="center">
-  <img src="Resources/Bounded-Contexts/notificationengine.png?raw=true" alt="notification-engine-bc">
+  <img src="Resources/big-picture-event-storming/BPESnotificationengine.png?raw=true" alt="notification-engine-bc">
 </div>
 
 * **Identity Access Management (IAM) Bounded Context**
 <div align="center">
-  <img src="Resources/Bounded-Contexts/identityaccessmanagement.png?raw=true" alt="iam-bc">
+  <img src="Resources/big-picture-event-storming/BPESidentityaccessmanagement.png?raw=true" alt="iam-bc">
 </div>
 
 **Interpretación de hallazgos clave**
-* **Interpretación por función de notas:** Las notas anaranjadas nos permitieron la definición de los eventos del dominio, los cuales constituyen el registro histórico del estado biométrico del personal médico. En CortiSense destaca el intercontexto entre el monitoreo de salud y la gestión de turnos, formando un flujo de información continuo que vincula la fatiga con la operación. Gracias a las notas lilas, que definen las acciones automatizadas (como la generación de alertas preventivas), se ejecuta un valor diferencial frente a la observación manual subjetiva, evitando crisis de burnout. Estas reglas, basadas en el rigor científico del cortisol y HRV, pueden ser auditadas y ajustadas según protocolos médicos actualizados. Por otro lado, gracias a las notas rosadas, el software funciona como un hub tecnológico capaz de integrarse con los Sistemas de Información Hospitalaria (HIS) existentes, aprovechando la infraestructura de la clínica. Finalmente, las notas amarillas y azules permiten identificar la división de responsabilidades entre el personal operativo (médicos) y los gestores estratégicos (directores).
-* **Hallazgos clave del análisis:** Gracias a las notas verdes, es posible visualizar la transparencia operativa en cuanto a la salud del capital humano unida a los eventos de dominio. Ello permitió el descubrimiento de zonas de fricción críticas mediante las notas rojas, como los dilemas éticos sobre la privacidad de datos biométricos o la precisión de los sensores en entornos de alta interferencia. Estos hallazgos servirán para mejorar iterativamente la arquitectura del sistema y los protocolos de consentimiento. Además, mediante las notas lilas y rosadas, CortiSense establece políticas claras de respuesta automática que garantizan que el monitoreo no sea solo diagnóstico, sino una herramienta de intervención inmediata ante riesgos de salud ocupacional.
+* **Interpretación por función de notas:** Las notas anaranjadas nos permitieron la definición de los eventos del dominio, los cuales constituyen el registro histórico del estado biométrico del personal médico. En CortiSense destaca el intercontexto entre el monitoreo de salud y la gestión de turnos, formando un flujo de información continuo que vincula la fatiga con la operación. Por otro lado, gracias a las notas rosadas, el software funciona como un hub tecnológico capaz de integrarse con los Sistemas de Información Hospitalaria (HIS) existentes, aprovechando la infraestructura de la clínica. Finalmente, las notas amarillas permiten identificar la división de responsabilidades entre el personal operativo (médicos) y los gestores estratégicos (directores).
+* **Hallazgos clave del análisis:** Gracias a las notas rojas, es posible el descubrimiento de zonas de fricción críticas, como los dilemas éticos sobre la privacidad de datos biométricos o la precisión de los sensores en entornos de alta interferencia. Estos hallazgos servirán para mejorar iterativamente la arquitectura del sistema y los protocolos de consentimiento. Además, mediante las notas rosadas, CortiSense garantiza que el monitoreo no sea solo diagnóstico, sino una herramienta de intervención inmediata ante riesgos de salud ocupacional.
 * **Conclusiones:** El Big Picture Event Storming revela a CortiSense no solo como una aplicación de monitoreo, sino como un mecanismo de sincronización vital entre el bienestar biológico y la logística administrativa de los hospitales inteligentes. Este mapeo permitió ordenar los comportamientos del software, donde cada nota azul se convierte en una funcionalidad del sistema y cada nota lila en una regla de negocio clínica que protege tanto al profesional sanitario como la seguridad del paciente.
 
 ## 2.5. Ubiquitous Language
