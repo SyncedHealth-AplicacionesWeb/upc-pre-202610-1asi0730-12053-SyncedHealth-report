@@ -738,6 +738,75 @@ En esta sección se abordará la investigación en base a la información que se
 ---
 
 ### 2.2.2 Registro de entrevistas
+En esta sección presentamos los registros de las entrevistas realizadas para cada segmento objetivo de nuestra aplicación.
+
+**Segmento #1: Personal Sanitario Operativo**<br>
+
+<table>
+<colgroup></colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Ricardo</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Huamán</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>50 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Lince</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones y Canales Utilizados</td>
+    <td>Zoom, WhatsApp</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Preferencias Visuales</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="Resources/Interview-evidences/interview-ricardo-huaman-proof.png" alt="Entrevista Ricardo Huamán"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank" href="https://drive.google.com/file/d/19Fxu5Uje6tJ5yvmaLG-n29ecyy0aN1oS/view?usp=sharing" title="Title">Google Drive file</a></p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>00:00 min - 25:13 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
 
 ### 2.2.3 Análisis de entrevistas
 
