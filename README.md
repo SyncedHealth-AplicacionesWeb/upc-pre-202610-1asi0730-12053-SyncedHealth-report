@@ -756,7 +756,7 @@ En esta sección presentamos los registros de las entrevistas realizadas para ca
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Huamán</td>
+    <td>Huamán Ochoa</td>
   </tr>
   <tr>
     <td>Edad</td>
@@ -787,12 +787,20 @@ En esta sección presentamos los registros de las entrevistas realizadas para ca
     <td>La falta de mecanismos ágiles para la detección de casos de estrés laboral en el área médica es algo que le preocupa. Menciona la existencia del programa de Salud Ocupacional, que se encarga de generar tamizajes con el propósito de evitar ausentismo en los médicos, sin embargo, también menciona que dicho tamizaje demora días en enviar resultados concretos. Explica que aquellos médicos con dichos cuadros suelen ser complicados de tratar a nivel de colega debido a estar en un estado de presencia física pero no mental y emocional, lo que perjudica gravemente el flujo de trabajo. Añade que problemas anímicos pueden resultar en mayor carga externa, lo que genera menor desempeño.</td>
   </tr>
   <tr>
-    <td>Tecnologias</td>
-    <td></td>
+    <td>Sistemas que usa para detectar o reducir el impacto de la carga laboral</td>
+    <td>Seguimiento y seminarios de Salud Ocupacional, uso de wearables (relojes)</td>
   </tr>
   <tr>
     <td>Preferencias</td>
-    <td></td>
+    <td>
+		<ul>
+			<li>Dispositivos tipo wearable (relojes digitales) que sean portátiles y accesibles.</li>
+			<li>Hardware con batería de larga duración (prolongada).</li>
+			<li>Software eficiente que no se "cuelgue" y que asegure el guardado de datos.</li>
+			<li>Alta prioridad en la privacidad y anonimización de datos personales y médicos.</li>
+			<li>Soluciones que reduzcan tiempos de espera y costos en comparación con los tamizajes actuales.</li>
+		</ul>
+	</td>
   </tr>
   <tr>
     <td>Evidencia</td>
@@ -808,7 +816,7 @@ En esta sección presentamos los registros de las entrevistas realizadas para ca
   </tr>
   <tr>
     <td>Resumen</td>
-    <td></td>
+    <td>Médico de emergencias con 150 horas mensuales de labor (incluyendo guardias de 12h). Identifica la fatiga y el estrés como factores que afectan el desempeño y generan ausentismo (aprox. 8-10% del personal). Valora positivamente el monitoreo biométrico (ritmo cardíaco, saturación de oxígeno) mediante tecnología portátil, siempre que sea rápida, segura y respete la confidencialidad de la información.</td>
   </tr>
 </tbody>
 </table>
