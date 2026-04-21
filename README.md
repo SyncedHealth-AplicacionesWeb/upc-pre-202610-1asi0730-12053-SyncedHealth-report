@@ -776,7 +776,7 @@ En esta sección presentamos los registros de las entrevistas realizadas para ca
   </tr>
   <tr>
     <td>Tecnologías usadas en su campo laboral</td>
-    <td>Monitores cardiacos, desfribiladores, ventiladores mecánicos oxímetros</td>
+    <td>Gmail, Google como navegador, monitores cardiacos, desfribiladores, ventiladores mecánicos y oxímetros</td>
   </tr>
   <tr>
     <td>Motivación</td>
@@ -788,7 +788,7 @@ En esta sección presentamos los registros de las entrevistas realizadas para ca
   </tr>
   <tr>
     <td>Sistemas que usa para detectar o reducir el impacto de la carga laboral</td>
-    <td>Seguimiento y seminarios de Salud Ocupacional, uso de wearables (relojes)</td>
+    <td>Seguimiento y seminarios de Salud Ocupacional, uso de wearables (relojes), Ceprit de EsSalud</td>
   </tr>
   <tr>
     <td>Preferencias</td>
