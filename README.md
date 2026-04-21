@@ -766,24 +766,32 @@ En esta sección presentamos los registros de las entrevistas realizadas para ca
     <td>Distrito</td>
     <td>Lince</td>
   </tr>
+	<tr>
+    <td>Centro de trabajo</td>
+    <td>Hospital paraestatal</td>
+  </tr>
+<tr>
+    <td>Área</td>
+    <td>Emergencias</td>
+  </tr>
   <tr>
-    <td>Aplicaciones y Canales Utilizados</td>
-    <td>Zoom, WhatsApp</td>
+    <td>Tecnologías usadas en su campo laboral</td>
+    <td>Monitores cardiacos, desfribiladores, ventiladores mecánicos oxímetros</td>
   </tr>
   <tr>
     <td>Motivación</td>
-    <td></td>
+    <td>El deseo de mejorar y acelerar los procesos de detección y atención de casos extremos de agotamiento por horas repetidas continuas o factores externos es un factor que lo motiva a buscar una solución. Manifiesta la necesidad de que dicha solución sea rápida, segura y eficaz, que puede ser útil sobre todo para aquel personal novato que puede resultar afectado por su inexperiencia en el manejo de estrés o aquel médico que se encuentre presionado por agentes externos. De esta manera, busca reducir los casos de somatización en sus colegas y mejorar el desempeño del cuerpo médico.</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td></td>
+    <td>La falta de mecanismos ágiles para la detección de casos de estrés laboral en el área médica es algo que le preocupa. Menciona la existencia del programa de Salud Ocupacional, que se encarga de generar tamizajes con el propósito de evitar ausentismo en los médicos, sin embargo, también menciona que dicho tamizaje demora días en enviar resultados concretos. Explica que aquellos médicos con dichos cuadros suelen ser complicados de tratar a nivel de colega debido a estar en un estado de presencia física pero no mental y emocional, lo que perjudica gravemente el flujo de trabajo. Añade que problemas anímicos pueden resultar en mayor carga externa, lo que genera menor desempeño.</td>
   </tr>
   <tr>
     <td>Tecnologias</td>
     <td></td>
   </tr>
   <tr>
-    <td>Preferencias Visuales</td>
+    <td>Preferencias</td>
     <td></td>
   </tr>
   <tr>
