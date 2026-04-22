@@ -1196,8 +1196,12 @@ A continuación, se describe cada bounded context de manera individual.
   * **Subscription and Payment Management:** Este bounded context gestiona los planes de suscripción, pagos y el acceso a funcionalidades del sistema según el estado de la suscripción. <br><br>
   <img src="Resources/Images/Desing-Level-Event-Storming/subscription_and_payment.jpg" alt="Event Storming del bounded context de Suscripciones y Gestión de Pagos">
 
-
 ### 4.6.2. Software Architecture Context Diagram.
+
+<img src="Resources/Images/C4-Diagrams/context_diagram.png" alt="Diseño del diagrama de contexto."> <br>
+
+El diagrama de contexto muestra a CortiSense como el sistema central y permite ver, de forma general, con quiénes interactúa y de qué servicios externos depende. En este caso, se observa la relación con el personal administrativo y el personal médico, así como con herramientas externas como Auth0, FCM, SendGrid, Google Calendar y Stripe, que apoyan funciones clave del sistema como autenticación, notificaciones, gestión de eventos y pagos.
+
 ### 4.6.3. Software Architecture Container Diagrams.
 ### 4.6.4. Software Architecture Components Diagrams.
 ## 4.7. Software Object-Oriented Design.
