@@ -823,6 +823,83 @@ En esta sección presentamos los registros de las entrevistas realizadas para ca
 
 <br>
 
+<table>
+<colgroup></colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Maribel</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Fernandez Chauca</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>38 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Huanta - Ayacucho</td>
+  </tr>
+	<tr>
+    <td>Centro de trabajo</td>
+    <td>Hospital de Apoyo Huanta</td>
+  </tr>
+<tr>
+    <td>Área</td>
+    <td>Laboratorio Clínico</td>
+  </tr>
+  <tr>
+    <td>Tecnologías usadas en su campo laboral</td>
+    <td>Google como navegador, equipos de laboratorio integrados con el sistema LIS</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td>Su motivación es mejorar la atención a los pacientes, cuidando su bienestar físico y emocional para trabajar mejor. También busca visibilizar los riesgos laborales del personal de salud y que esto ayude a contratar más personal, reducir el estrés y distribuir mejor la carga de trabajo.</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td>Su principal frustración proviene del estrés emocional constante con el que trabaja, debido a la presión de atender emergencias y dar resultados inmediatos. A esto se suma la falta de personal, especialmente en las tardes y noches, lo que genera una gran sobrecarga laboral. Además, experimenta un agotamiento físico y mental extremo, y le frustra que la institución no brinde suficiente atención ni apoyo al bienestar emocional del personal.</td>
+  </tr>
+  <tr>
+    <td>Sistemas que usa para detectar o reducir el impacto de la carga laboral</td>
+    <td>No cuentan con un sistema formal para detectar o prevenir el agotamiento laboral. Antes recibían horas de salud mental, actualmente solo dependen del apoyo mutuo y el trabajo en equipo para sobrellevar la carga laboral.</td>
+  </tr>
+  <tr>
+    <td>Preferencias</td>
+    <td>
+		<ul>
+			<li>Dispositivos móviles pequeños y discretos, como relojes inteligentes o celulares.</li>
+			<li>Monitoreo de estado emocional, fatiga, estrés y presión laboral.</li>
+			<li>Confidencialidad total de la información personal.</li>
+			<li>Datos no públicos, usados solo en entornos cerrados de la clínica para estadísticas y mejora.</li>
+		</ul>
+	</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="Resources/Interview-evidences/interview-maribel-fernandez-chauca.png" alt="Entrevista MaribelFernandez Chauca"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231h055_upc_edu_pe/IQD9tsnTkZMFSaHIhyzRkJJQAU37_QdwuOtgMt3qLLnsloE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=tx72Ux" title="Title">Ver grabación aquí</a></p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>11:57 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Maribel Fernández trabaja en un laboratorio clínico de un hospital público, donde enfrenta largas jornadas y una fuerte presión laboral. En la entrevista comenta que la falta de personal y la exigencia de resultados inmediatos generan un gran desgaste físico y emocional. También señala que no existen medidas formales para prevenir este agotamiento, por lo que el apoyo entre compañeros se vuelve fundamental. Además, considera útil el uso de tecnología para monitorear fatiga y estrés, siempre que se garantice la privacidad de los datos.</td>
+  </tr>
+</tbody>
+</table>
 
 ### 2.2.3 Análisis de entrevistas
 
