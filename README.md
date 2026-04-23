@@ -1156,6 +1156,13 @@ El wireframe define la estructura básica de la landing page en bloques principa
 
 ### 4.3.2. Landing Page Mock-up.
 
+<img src="Resources/landing-page-mock-up/landing-page-mock-up1.png">
+<img src="Resources/landing-page-mock-up/landing-page-mock-up2.png">
+<img src="Resources/landing-page-mock-up/landing-page-mock-up3.png">
+<img src="Resources/landing-page-mock-up/landing-page-mock-up4.png">
+<img src="Resources/landing-page-mock-up/landing-page-mock-up5.png">
+<img src="Resources/landing-page-mock-up/landing-page-mock-up6.png">
+<img src="Resources/landing-page-mock-up/landing-page-mock-up7.png">
 
 
 ## 4.4. Web Applications UX/UI Design.
