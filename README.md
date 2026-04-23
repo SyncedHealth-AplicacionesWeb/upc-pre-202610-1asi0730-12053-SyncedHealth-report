@@ -1085,11 +1085,11 @@ Para mejorar el posicionamiento en motores de búsqueda y brindar una experienci
 **Landing Page:**
 - **Título:**
 ```html
-<title>CortiSense - Prevención de Burnout Médico mediante Monitoreo de Cortisol e IoT</title>
+<title>CortiSense - Monitoreo inteligente para un bienestar seguro</title>
 ```
 - **Descripción:**
 ```html
-<meta name="description" content="Protege al personal sanitario con CortiSense. Monitoreo en tiempo real de cortisol y estrés para prevenir el agotamiento profesional y mejorar la seguridad del paciente."/>
+<meta name="description" content="Protegiendo a quienes nos protegen. El primer sistema de monitoreo de estrés y burnout eb tienpo real para profesionales de salud."/>
 ```
 - **Palabras clave (Keywords):**
 ```html
@@ -1144,7 +1144,20 @@ Barra de Navegación Persistente: Menú lateral (App) y superior (Landing) que p
 
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
+El wireframe define la estructura básica de la landing page en bloques principales:
+<img src="resources/landing-page-wireframe/Landing-Page-Wireframe1.png">
+<img src="resources/landing-page-wireframe/Landing-Page-Wireframe2.png">
+<img src="resources/landing-page-wireframe/Landing-Page-Wireframe3.png">
+<img src="resources/landing-page-wireframe/Landing-Page-Wireframe4.png">
+<img src="resources/landing-page-wireframe/Landing-Page-Wireframe5.png">
+<img src="resources/landing-page-wireframe/Landing-Page-Wireframe6.png">
+<img src="resources/landing-page-wireframe/Landing-Page-Wireframe7.png">
+
+
 ### 4.3.2. Landing Page Mock-up.
+
+
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 ### 4.4.2. Web Applications Wireflow Diagrams.
