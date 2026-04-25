@@ -1246,9 +1246,123 @@ El wireframe define la estructura básica de la landing page en bloques principa
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level Event Storming.
+
+En esta sección se presenta el Design-Level Event Storming desarrollado para CortiSense, con el objetivo de refinar el dominio del problema e identificar con mayor nivel de detalle los eventos, comandos, políticas, agregados y bounded contexts del sistema. Esta etapa permitió mejorar la comprensión de los principales procesos y definir con mayor precisión las responsabilidades de cada parte del sistema.
+
+La sesión fue realizada de manera colaborativa en el programa Miro a partir del Big Picture Event Storming previamente elaborado. Durante el proceso se identificaron los flujos principales del sistema, se definieron comandos, eventos de dominio y políticas, y posteriormente se agruparon en bounded contexts. Para mantener consistencia con los artefactos de arquitectura, la nomenclatura utilizada en los diagramas se encuentra en inglés.
+
+A continuación, se muestra la representación general del Design-Level Event Storming del sistema:
+
+<img src="Resources/Images/Desing-Level-Event-Storming/desing_level_event_storming.jpg" alt="Design level event storming del funcionamiento de CortiSense">
+<br><br>
+
+En conjunto, estos bounded contexts permiten representar el flujo completo del sistema, desde la captura y almacenamiento de datos biométricos, su análisis y detección de estados, hasta la generación de alertas y la gestión operativa y administrativa de la plataforma.
+
+A partir del análisis realizado, se identificaron bounded contexts que cumplen distintos roles dentro del sistema. Algunos representan el núcleo funcional de la solución, como Stress and Fatigue Analysis y Medical Rest Management, mientras que otros cumplen funciones de soporte, como Identity and Access Management y Subscription and Payment Management.
+
+A continuación, se describe cada bounded context de manera individual.
+
+  * **Stress and Fatigue Analysis:** Este bounded context se encarga de analizar los datos biométricos capturados por los dispositivos, con el fin de identificar si el estado del médico se encuentra dentro de niveles normales o si presenta valores críticos.<br><br>
+  <img src="Resources/Images/Desing-Level-Event-Storming/stress_and_fatigue.jpg" alt="Event Storming del bounded context de Análisis de Estado">
+
+  * **Biometric Data Management:** Este bounded context gestiona el almacenamiento, actualización y respaldo de los datos biométricos obtenidos desde los dispositivos, asegurando su persistencia y disponibilidad para su posterior análisis. <br><br>
+  <img src="Resources/Images/Desing-Level-Event-Storming/biometric_data.jpg" alt="Event Storming del bounded context de Gestión de Datos Biométricos">
+
+  * **Alerting and Notification Management:** Este bounded context se encarga de generar y enviar alertas y notificaciones cuando se detectan condiciones relevantes, permitiendo informar tanto al médico como a los administradores del sistema. <br><br>
+  <img src="Resources/Images/Desing-Level-Event-Storming/alerting_and_notification.jpg" alt="Event Storming del bounded context de Gestión de Alertas y Notificaciones">
+
+  * **Medical Rest Management:** Este bounded context gestiona la programación, modificación y validación de los periodos de descanso del personal médico, incluyendo recomendaciones basadas en el estado del usuario. <br><br>
+  <img src="Resources/Images/Desing-Level-Event-Storming/medical_rest.jpg" alt="Event Storming del bounded context de Gestión de Descansos Médicos">
+
+  * **Medical Shift Management:** Este bounded context administra la asignación, validación y reprogramación de turnos médicos, asegurando la disponibilidad del personal. <br><br>
+  <img src="Resources/Images/Desing-Level-Event-Storming/medical_shift.jpg" alt="Event Storming del bounded context de Gestión de Turnos Médicos">
+
+  * **Medical Device Management:** Este bounded context gestiona la vinculación de dispositivos médicos con las cuentas de usuario, así como la configuración de umbrales para el monitoreo. <br><br>
+  <img src="Resources/Images/Desing-Level-Event-Storming/medical_device.jpg" alt="Event Storming del bounded context de Gestión de Dispositivos Médicos">
+
+  * **Medical Staff Management:** Este bounded context permite la gestión del personal médico, incluyendo su registro y búsqueda dentro del sistema. <br><br>
+  <img src="Resources/Images/Desing-Level-Event-Storming/medical_staff.jpg" alt="Event Storming del bounded context de Gestión de Personal Médico">
+
+  * **Identity and Access Management:** Este bounded context se encarga de la creación, verificación y control de acceso de las cuentas de usuario dentro de la plataforma. <br><br>
+  <img src="Resources/Images/Desing-Level-Event-Storming/identity_and_access.jpg" alt="Event Storming del bounded context de Gestión de Identidad y Acceso">
+
+  * **Subscription and Payment Management:** Este bounded context gestiona los planes de suscripción, pagos y el acceso a funcionalidades del sistema según el estado de la suscripción. <br><br>
+  <img src="Resources/Images/Desing-Level-Event-Storming/subscription_and_payment.jpg" alt="Event Storming del bounded context de Suscripciones y Gestión de Pagos">
+
 ### 4.6.2. Software Architecture Context Diagram.
+
+<img src="Resources/Images/C4-Diagrams/Context_Diagram.png" alt="Diseño del diagrama de contexto."> <br>
+
+El diagrama de contexto presenta a CortiSense como el sistema central. En este se muestran los usuarios principales, personal administrativo y personal médico, junto con los servicios externos que apoyan funciones como autenticación, notificaciones, programación de descansos y pagos.
+
 ### 4.6.3. Software Architecture Container Diagrams.
+
+<img src="Resources/Images/C4-Diagrams/Container_Diagram.png" alt="Diseño del diagrama de contenedores."> <br>
+
+El diagrama de contenedores muestra la organización general de CortiSense. Se observa la Web App, encargada de servir el contenido estático y la landing page, y la Single Page Application, que representa la aplicación interactiva usada por el personal médico y administrativo.
+
 ### 4.6.4. Software Architecture Components Diagrams.
+
+### CortiSense Single Page Application
+
+<img src="Resources/Images/C4-Diagrams/Spa_Diagram.png" alt="Diseño del diagrama de componentes de CortiSense Single Page Application."> <br>
+
+Este diagrama muestra la relación entre la Single Page Application, la API Application y la base de datos. Dentro de la API Application se representan los bounded contexts identificados para organizar la lógica principal del backend.
+
+### Stress and Fatigue Analysis
+
+<img src="Resources/Images/C4-Diagrams/Stress_Components.png" alt="Diseño del diagrama de componentes de Stress and Fatigue Analysis."> <br>
+
+Este diagrama muestra cómo se analiza la información biométrica para determinar los niveles de estrés y fatiga del personal médico.
+
+### Biometric Data Management
+
+<img src="Resources/Images/C4-Diagrams/Data_Components.png" alt="Diseño del diagrama de componentes de Biometric Data Management."> <br>
+
+Este diagrama muestra cómo se registran, consultan y almacenan los datos biométricos provenientes de los dispositivos médicos.
+
+### Alerting and Notification Management
+
+<img src="Resources/Images/C4-Diagrams/Alerting_Components.png" alt="Diseño del diagrama de componentes de Alerting and Notification Management."> <br>
+
+Este diagrama muestra cómo se generan alertas y se gestionan las notificaciones del sistema.
+
+### Identity and Access Management
+
+<img src="Resources/Images/C4-Diagrams/Identity_Components.png" alt="Diseño del diagrama de componentes de Identity and Access Management."> <br>
+
+Este diagrama muestra cómo se gestiona la autenticación, validación de usuarios y control de acceso.
+
+### Medical Staff Management
+
+<img src="Resources/Images/C4-Diagrams/Staff_Components.png" alt="Diseño del diagrama de componentes de Medical Staff Management."> <br>
+
+Este diagrama muestra cómo se administra la información del personal médico, incluyendo registro, consulta y búsqueda.
+
+### Medical Device Management
+
+<img src="Resources/Images/C4-Diagrams/Device_Components.png" alt="Diseño del diagrama de componentes de Medical Device Management."> <br>
+
+Este diagrama muestra cómo se gestiona la vinculación, sincronización y configuración de dispositivos médicos.
+
+### Medical Rest Management
+
+<img src="Resources/Images/C4-Diagrams/Rest_Components.png" alt="Diseño del diagrama de componentes de Medical Rest Management."> <br>
+
+Este diagrama muestra cómo se administran los descansos médicos, incluyendo programación, modificación y recomendaciones.
+
+### Medical Shift Management
+
+<img src="Resources/Images/C4-Diagrams/Shift_Components.png" alt="Diseño del diagrama de componentes de Medical Shift Management."> <br>
+
+Este diagrama muestra cómo se gestionan los turnos médicos, incluyendo asignación, validación y reprogramación.
+
+### Subscription and Payment Management
+
+<img src="Resources/Images/C4-Diagrams/Subscription_Components.png" alt="Diseño del diagrama de componentes de Subscription and Payment Management."> <br>
+
+Este diagrama muestra cómo se administran las suscripciones, pagos y acceso a funcionalidades de la plataforma.
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 ## 4.8. Database Design.
