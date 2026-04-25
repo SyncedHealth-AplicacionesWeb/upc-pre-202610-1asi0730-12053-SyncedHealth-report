@@ -1198,77 +1198,77 @@ A continuación, se describe cada bounded context de manera individual.
 
 ### 4.6.2. Software Architecture Context Diagram.
 
-<img src="Resources/Images/C4-Diagrams/context_diagram.png" alt="Diseño del diagrama de contexto."> <br>
+<img src="Resources/Images/C4-Diagrams/Context_Diagram.png" alt="Diseño del diagrama de contexto."> <br>
 
-El diagrama de contexto muestra a CortiSense como el sistema central y permite ver, de forma general, con quiénes interactúa y de qué servicios externos depende. En este caso, se observa la relación con el personal administrativo y el personal médico, así como con herramientas externas como Auth0, FCM, SendGrid, Google Calendar y Stripe, que apoyan funciones clave del sistema como autenticación, notificaciones, gestión de eventos y pagos.
+El diagrama de contexto presenta a CortiSense como el sistema central. En este se muestran los usuarios principales, personal administrativo y personal médico, junto con los servicios externos que apoyan funciones como autenticación, notificaciones, programación de descansos y pagos.
 
 ### 4.6.3. Software Architecture Container Diagrams.
 
-<img src="Resources/Images/C4-Diagrams/container_diagram.png" alt="Diseño del diagrama de contenedores."> <br>
+<img src="Resources/Images/C4-Diagrams/Container_Diagram.png" alt="Diseño del diagrama de contenedores."> <br>
 
-El diagrama de contenedores muestra cómo está organizado internamente el sistema CortiSense, identificando sus principales componentes y cómo se comunican entre sí. Se puede ver que los usuarios interactúan a través de la Landing Page y la Web Application, las cuales consumen los servicios de la REST API, donde se concentra la lógica del negocio. A su vez, la API se encarga de comunicarse con la base de datos y con servicios externos para funcionalidades como autenticación, notificaciones, calendario y pagos.
+El diagrama de contenedores muestra la organización general de CortiSense. Se observa la Web App, encargada de servir el contenido estático y la landing page, y la Single Page Application, que representa la aplicación interactiva usada por el personal médico y administrativo.
 
 ### 4.6.4. Software Architecture Components Diagrams.
 
-### REST API
+### CortiSense Single Page Application
 
-<img src="Resources/Images/C4-Diagrams/api_rest_component_diagram.png" alt="Diseño del diagrama de componentes de la Rest Api"> <br>
+<img src="Resources/Images/C4-Diagrams/Spa_Diagram.png" alt="Diseño del diagrama de componentes de CortiSense Single Page Application."> <br>
 
-El diagrama muestra la organización interna de la REST API, donde cada componente representa un bounded context del sistema. Se puede observar cómo interactúan entre sí y con servicios externos para implementar la lógica del negocio.
+Este diagrama muestra la relación entre la Single Page Application, la API Application y la base de datos. Dentro de la API Application se representan los bounded contexts identificados para organizar la lógica principal del backend.
 
-### State Analysis
+### Stress and Fatigue Analysis
 
-<img src="Resources/Images/C4-Diagrams/state_component_diagram.png" alt="Diseño del diagrama de componentes del bounded context de Análisis de estado"> <br>
+<img src="Resources/Images/C4-Diagrams/Stress_Components.png" alt="Diseño del diagrama de componentes de Stress and Fatigue Analysis."> <br>
 
-El diagrama de componentes de Análisis de estado muestra cómo se estructura este módulo para procesar los datos biométricos y determinar los niveles de estrés y fatiga del personal médico.
-
-### Medical Rest Management
-
-<img src="Resources/Images/C4-Diagrams/rest_component_diagram.png" alt="Diseño del diagrama de componentes del bounded context de Gestión del descanso médico"> <br>
-
-El diagrama de componentes de Gestión del descanso médico muestra cómo se administran los descansos del personal médico, incluyendo su programación, modificación y validación.
-
-### Alerting and Notification Management
-
-<img src="Resources/Images/C4-Diagrams/alerting_component_diagram.png" alt="Diseño del diagrama de componentes del bounded context de Gestión de alertas y notificaciones"> <br>
-
-El diagrama de componentes de Gestión de alertas y notificaciones muestra cómo el sistema genera y envía alertas a partir de los eventos detectados en otros módulos.
+Este diagrama muestra cómo se analiza la información biométrica para determinar los niveles de estrés y fatiga del personal médico.
 
 ### Biometric Data Management
 
-<img src="Resources/Images/C4-Diagrams/biometric_component_diagram.png" alt="Diseño del diagrama de componentes del bounded context de Gestión de datos biométricos"> <br>
+<img src="Resources/Images/C4-Diagrams/Data_Components.png" alt="Diseño del diagrama de componentes de Biometric Data Management."> <br>
 
-El diagrama de componentes de Gestión de datos biométricos muestra cómo se almacenan, actualizan y gestionan los datos provenientes de los dispositivos médicos.
+Este diagrama muestra cómo se registran, consultan y almacenan los datos biométricos provenientes de los dispositivos médicos.
+
+### Alerting and Notification Management
+
+<img src="Resources/Images/C4-Diagrams/Alerting_Components.png" alt="Diseño del diagrama de componentes de Alerting and Notification Management."> <br>
+
+Este diagrama muestra cómo se generan alertas y se gestionan las notificaciones del sistema.
 
 ### Identity and Access Management
 
-<img src="Resources/Images/C4-Diagrams/identity_component_diagram.png" alt="Diseño del diagrama de componentes del bounded context de Gestión de identidad y acceso"> <br>
+<img src="Resources/Images/C4-Diagrams/Identity_Components.png" alt="Diseño del diagrama de componentes de Identity and Access Management."> <br>
 
-El diagrama de componentes de Gestión de identidad y acceso muestra cómo se gestionan la autenticación, verificación y control de acceso dentro del sistema.
+Este diagrama muestra cómo se gestiona la autenticación, validación de usuarios y control de acceso.
 
 ### Medical Staff Management
 
-<img src="Resources/Images/C4-Diagrams/staff_component_diagram.png" alt="Diseño del diagrama de componentes del bounded context de Gestión de personal médico"> <br>
+<img src="Resources/Images/C4-Diagrams/Staff_Components.png" alt="Diseño del diagrama de componentes de Medical Staff Management."> <br>
 
-El diagrama de componentes de Gestión de personal médico muestra cómo se administra la información del personal médico, incluyendo su registro y búsqueda.
+Este diagrama muestra cómo se administra la información del personal médico, incluyendo registro, consulta y búsqueda.
 
 ### Medical Device Management
 
-<img src="Resources/Images/C4-Diagrams/device_component_diagram.png" alt="Diseño del diagrama de componentes del bounded context de Gestión de dispositivos médicos"> <br>
+<img src="Resources/Images/C4-Diagrams/Device_Components.png" alt="Diseño del diagrama de componentes de Medical Device Management."> <br>
 
-El diagrama de componentes de Gestión de dispositivos médicos muestra cómo se realiza la vinculación y configuración de los dispositivos utilizados por el sistema.
+Este diagrama muestra cómo se gestiona la vinculación, sincronización y configuración de dispositivos médicos.
 
-### Subscription and Payment Management
+### Medical Rest Management
 
-<img src="Resources/Images/C4-Diagrams/subscription_component_diagram.png" alt="Diseño del diagrama de componentes del bounded context de Suscripciones y gestión de pagos"> <br>
+<img src="Resources/Images/C4-Diagrams/Rest_Components.png" alt="Diseño del diagrama de componentes de Medical Rest Management."> <br>
 
-El diagrama de componentes de Suscripciones y gestión de pagos muestra cómo se gestionan los planes, pagos y el acceso a funcionalidades de la plataforma.
+Este diagrama muestra cómo se administran los descansos médicos, incluyendo programación, modificación y recomendaciones.
 
 ### Medical Shift Management
 
-<img src="Resources/Images/C4-Diagrams/shift_component_diagram.png" alt="Diseño del diagrama de componentes del bounded context de Gestión de turnos médicos"> <br>
+<img src="Resources/Images/C4-Diagrams/Shift_Components.png" alt="Diseño del diagrama de componentes de Medical Shift Management."> <br>
 
-El diagrama de componentes de Gestión de turnos médicos muestra cómo se administran los horarios del personal médico, incluyendo asignación, validación y reprogramación.
+Este diagrama muestra cómo se gestionan los turnos médicos, incluyendo asignación, validación y reprogramación.
+
+### Subscription and Payment Management
+
+<img src="Resources/Images/C4-Diagrams/Subscription_Components.png" alt="Diseño del diagrama de componentes de Subscription and Payment Management."> <br>
+
+Este diagrama muestra cómo se administran las suscripciones, pagos y acceso a funcionalidades de la plataforma.
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
