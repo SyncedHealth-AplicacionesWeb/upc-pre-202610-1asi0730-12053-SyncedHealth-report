@@ -535,16 +535,16 @@ En esta sección se realizará el análisis competitivo de los competidores iden
 				<img src="Resources/Images/Style-Guidelines/logo.png?raw=true" alt="CortiSense logo"/>
 			</div></td>
 			<td><div align="center">
-				<img src="Resources/Competitors/firstbeat.png?raw=true" alt="Firstbeat logo"/>
+				<img src="Resources/rivals/firstbeatlife.png?raw=true" alt="Firstbeat logo"/>
 			</div></td>
 			<td><div align="center">
-				<img src="Resources/Competitors/dropstat.png?raw=true" alt="Dropstat logo"/>
+				<img src="Resources/rivals/dropstat.png?raw=true" alt="Dropstat logo"/>
 			</div></td>
 			<td><div align="center">
-				<img src="Resources/Competitors/oura.png?raw=true" alt="Oura logo"/>
+				<img src="Resources/rivals/oura.png?raw=true" alt="Oura logo"/>
 			</div></td>
 			<td><div align="center">
-				<img src="Resources/Competitors/ukg.png?raw=true" alt="UKG logo"/>
+				<img src="Resources/rivals/ukg.png?raw=true" alt="UKG logo"/>
 			</div></td>
 		</tr>
 		<tr>
