@@ -962,15 +962,15 @@ En esta sección presentamos los registros de las entrevistas realizadas para ca
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="Resources/Interview-evidences/interview-rusbel-proof.png" alt="Entrevista Rusbel Cajaleón"></div></td>
+    <td><div align="center"><img src="Resources/Interview-evidences/entrevista-seg1.jpg" alt="Entrevista Rusbel Cajaleón"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank" href="#" title="Title">Enlace de la entrevista</a></p></td>
+<td><p><a target="_blank" href="https://drive.google.com/file/d/1UQImqgqti3vEYj3E6a5n4xnxFt9Vop8O/view?usp=sharing" title="Title">Link del video</a></p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>06:00 min</td>
+    <td>07:24 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
