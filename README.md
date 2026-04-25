@@ -1169,8 +1169,8 @@ A partir del análisis realizado, se identificaron bounded contexts que cumplen 
 
 A continuación, se describe cada bounded context de manera individual.
 
-  * **State Analysis:** Este bounded context se encarga de analizar los datos biométricos capturados por los dispositivos, con el fin de identificar si el estado del médico se encuentra dentro de niveles normales o si presenta valores críticos.<br><br>
-  <img src="Resources/Images/Desing-Level-Event-Storming/state_analysis.jpg" alt="Event Storming del bounded context de Análisis de Estado">
+  * **Stress and Fatigue Analysis:** Este bounded context se encarga de analizar los datos biométricos capturados por los dispositivos, con el fin de identificar si el estado del médico se encuentra dentro de niveles normales o si presenta valores críticos.<br><br>
+  <img src="Resources/Images/Desing-Level-Event-Storming/stress_and_fatigue.jpg" alt="Event Storming del bounded context de Análisis de Estado">
 
   * **Biometric Data Management:** Este bounded context gestiona el almacenamiento, actualización y respaldo de los datos biométricos obtenidos desde los dispositivos, asegurando su persistencia y disponibilidad para su posterior análisis. <br><br>
   <img src="Resources/Images/Desing-Level-Event-Storming/biometric_data.jpg" alt="Event Storming del bounded context de Gestión de Datos Biométricos">
