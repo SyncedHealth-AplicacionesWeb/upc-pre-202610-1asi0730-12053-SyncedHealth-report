@@ -900,7 +900,84 @@ En esta sección presentamos los registros de las entrevistas realizadas para ca
   </tr>
 </tbody>
 </table>
-
+<table>
+<colgroup></colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Rusbel Arnaldo</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Cajaleón Gámez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>28 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Borja - Lima</td>
+  </tr>
+  <tr>
+    <td>Centro de trabajo</td>
+    <td>Clínica privada</td>
+  </tr>
+  <tr>
+    <td>Área</td>
+    <td>Emergencias</td>
+  </tr>
+  <tr>
+    <td>Tecnologías usadas en su campo laboral</td>
+    <td>Celular, computadora del área, monitores de signos vitales</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td>Busca mejorar las condiciones de trabajo del personal de salud, reduciendo el impacto del agotamiento físico y mental durante las guardias, con el fin de evitar errores y brindar una mejor atención a los pacientes.</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td>La falta de descanso adecuado y la sobrecarga laboral generan un alto nivel de estrés y fatiga, lo que afecta el rendimiento del personal. Además, no existen protocolos estructurados ni sistemas formales para detectar o prevenir estos estados.</td>
+  </tr>
+  <tr>
+    <td>Sistemas que usa para detectar o reducir el impacto de la carga laboral</td>
+    <td>No cuenta con sistemas formales, solo pausas ocasionales y apoyo entre compañeros de trabajo.</td>
+  </tr>
+  <tr>
+    <td>Preferencias</td>
+    <td>
+      <ul>
+        <li>Dispositivos tipo wearable, como relojes o pulseras.</li>
+        <li>Monitoreo en tiempo real del nivel de fatiga o estrés.</li>
+        <li>Sistemas que generen alertas tempranas.</li>
+        <li>Privacidad y control total de sus datos personales.</li>
+        <li>Dispositivos pequeños, ligeros y no invasivos.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="Resources/Interview-evidences/interview-rusbel-proof.png" alt="Entrevista Rusbel Cajaleón"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank" href="#" title="Title">Enlace de la entrevista</a></p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>06:00 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Profesional de salud del área de emergencias que trabaja jornadas prolongadas de entre 12 y 24 horas, con alta frecuencia semanal. Identifica el agotamiento físico y mental como un problema crítico que afecta directamente su capacidad de concentración y desempeño, describiéndolo como un estado de “fatiga extrema” o “estar quemado”. Señala que, ante estos casos, no existe un protocolo estructurado, sino que el equipo actúa de manera reactiva redistribuyendo la carga laboral. Asimismo, menciona que no existen sistemas formales de monitoreo o prevención del agotamiento, lo que genera mayor riesgo de errores clínicos. Considera que la principal dificultad es la falta de descanso adecuado y la sobrecarga de trabajo. Valora positivamente la implementación de soluciones tecnológicas como dispositivos wearables que permitan detectar el nivel de fatiga en tiempo real, siempre que sean discretos, no interfieran con sus funciones y garanticen la privacidad de la información.</td>
+  </tr>
+</tbody>
+</table>
 ### 2.2.3 Análisis de entrevistas
 
 ## 2.3 Needfinding
