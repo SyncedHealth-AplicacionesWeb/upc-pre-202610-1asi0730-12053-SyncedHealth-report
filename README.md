@@ -1000,31 +1000,10 @@ La sesión fue desarrollada mediante el uso de la *Step by Step Guide to run you
 * **Sistemas externos:** Plasman a aquellos sistemas externos involucrados en desencadenar ciertos eventos. Las notas rectangulares o cuadradas de color rosa son usadas para describirlas.
 * **Preguntas:** Cuando alguna nota requiere ser profundizada o clarificada. Son de color rojo.
 
-**Big Picture Event Storming - Mapas**
+**Big Picture Event Storming - Mapa**
 
-* **Health Analytics Bounded Context**
 <div align="center">
-  <img src="Resources/big-picture-event-storming/BPEShealthanalyticsBC.png?raw=true" alt="health-analytics-bc">
-</div>
-
-* **IoT Telematry Bounded Context**
-<div align="center">
-  <img src="Resources/big-picture-event-storming/BPESiottelematryBC.png?raw=true" alt="iot-telematry-bc">
-</div>
-
-* **Shift Orchestrator Bounded Context**
-<div align="center">
-  <img src="Resources/big-picture-event-storming/BPESshiftorchestratorBC.png?raw=true" alt="shift-orchestrator-bc">
-</div>
-
-* **Notification Engine Bounded Context**
-<div align="center">
-  <img src="Resources/big-picture-event-storming/BPESnotificationengineBC.png?raw=true" alt="notification-engine-bc">
-</div>
-
-* **Identity Access Management (IAM) Bounded Context**
-<div align="center">
-  <img src="Resources/big-picture-event-storming/BPESidentityaccessmanagementBC.png?raw=true" alt="iam-bc">
+  <img src="Resources/big-picture-event-storming/big-picture-event-storming.png?raw=true" alt="iam-bc">
 </div>
 
 **Interpretación de hallazgos clave**
