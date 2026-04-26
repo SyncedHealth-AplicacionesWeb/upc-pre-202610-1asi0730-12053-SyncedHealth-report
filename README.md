@@ -1864,7 +1864,11 @@ Repositorio GitHub de la Landing Page: https://github.com/SyncedHealth-Aplicacio
     <img src="/Resources/Code_Management/landing-repositorio.png"  alt="Repositorio landing page">
 </div><br>
 
-Repositorio GitHub de los archivos feature:
+Repositorio GitHub de los archivos feature: https://github.com/PircaIndustries-OpenSource/Acceptance-Test-OpenSource <br><br> 
+
+<div align="center">
+    <img src="/Resources/Code_Management/acceptance-tests-repositorio.png"  alt="Repositorio landing page">
+</div><br>
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
