@@ -1062,7 +1062,7 @@ En esta sección presentamos los registros de las entrevistas realizadas para ca
 <colgroup></colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #1 - Segmento #2: Administradores y Directores Médicos<br></th>
+   <th colspan="2">Entrevista #5<br></th>
   </tr>
 </thead>
 <tbody>
@@ -1757,6 +1757,17 @@ El wireframe define la estructura básica de la landing page en bloques principa
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 ### 4.4.2. Web Applications Wireflow Diagrams.
+**Flujo desde landing page a la página de login o register**
+<img src="Resources/Images/Wireflows/login_from_landing_page.png?raw=true" alt=""/>
+<br>
+
+**Flujo desde login hasta la página principal de la app**
+<img src="Resources/Images/Wireflows/login_to_app.png?raw=true" alt=""/>
+<br>
+
+**Flujo desde la página principal hacia la sección de alertas**
+<img src="Resources/Images/Wireflows/principal_menu_to_alerts.png?raw=true" alt=""/>
+<br>
 ### 4.4.3. Web Applications Mock-ups.
 ### 4.4.4. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
