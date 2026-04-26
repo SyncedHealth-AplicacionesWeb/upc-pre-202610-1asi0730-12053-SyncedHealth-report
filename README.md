@@ -1627,10 +1627,10 @@ Se adopta CSS con enfoque mantenible, predecible y escalable.
 
 ##### 5.1.3.3.2 Reglas de estilo
 
-- Un espacio después de `:` en cada declaración.
-- Finalizar cada declaración con `;`.
-- Llave de apertura en la misma línea del selector.
-- Evitar `!important` salvo justificación técnica documentada.
+- Se requiere del uso de un espacio después de `:` en cada declaración.
+- Se necesita finalizar cada declaración con `;`.
+- Se sugiere de usar las llaves de apertura en la misma línea del selector.
+- Se recomienda evitar la sentencia `!important` salvo justificación técnica documentada.
 
 Ejemplo recomendado:
 
@@ -1646,6 +1646,122 @@ Ejemplo recomendado:
 }
 ```
 
+Complementación conveniente:
+
+- Se recomienda el uso de unidades relativas (`rem`, `%`) con el propósito de mejorar la escalabilidad y accesibilidad.
+- Se sugiere realizar la estandarización de la paleta de colores y espaciados mediante variables CSS (`:root { --color-primary: ... }`).
+
+#### 5.1.3.4 Convenciones para JavaScript y TypeScript
+
+Se adopta JavaScript moderno (ES202x) y TypeScript como lenguaje principal del frontend Angular.
+
+##### 5.1.3.4.1 Nomenclatura y estructura
+
+- Se exige el uso de identificadores en inglés.
+- Se sugiere la denominación de variables y funciones en `camelCase`.
+- Se sugiere la denominación de clases, componentes y constructores en `PascalCase`.
+- Se recomienda la denominación de constantes de módulo en `UPPER_SNAKE_CASE` solo cuando representen valores invariantes globales.
+
+##### 5.1.3.4.2 Reglas de codificación
+
+- Preferir el uso de la igualdad estricta (`===`, `!==`).
+- Dejar espacios alrededor de operadores y después de comas.
+- Incorporar el uso del punto y coma al final de sentencias.
+- Usar comillas simples por defecto; reservar template literals para interpolación.
+- Manejar errores de forma explícita (`try/catch` o propagación controlada).
+
+##### 5.1.3.4.3 Reglas específicas para TypeScript y Angular
+
+- Buscar el tipado de parámetros, retornos y estructuras de datos cuando el tipo no sea obvio.
+- Preferir `interface` para contratos de datos y `type` para composiciones puntuales.
+- Mantener el uso de componentes con una sola responsabilidad.
+- Nombrar archivos de Angular siguiendo la convención del framework (`feature.component.ts`, `feature.service.ts`, `feature.module.ts`).
+- Evitar lógica compleja en templates; mover cálculo y transformación a componentes, servicios o pipes.
+
+Ejemplo recomendado:
+
+```ts
+const MAX_RETRY_ATTEMPTS = 3;
+
+function calculateSquare(value: number): number {
+  return value * value;
+}
+
+function getGreeting(hour: number): string {
+  if (hour < 20) {
+    return 'Good day';
+  }
+
+  return 'Good evening';
+}
+```
+
+#### 5.1.3.5 Convenciones para Java
+
+Se adoptan las convenciones oficiales de Java y buenas prácticas compatibles con Spring Boot.
+
+##### 5.1.3.5.1 Nomenclatura
+
+Todos los nombres serán escritos en el idioma inglés.
+
+- Los tipos, métodos, propiedades, eventos y constantes serán denominados bajo el `PascalCase`.
+- Las variables locales y parámetros serán nombradas bajo el `camelCase`.
+- Los campos privados serán nombrados mediante el `camelCase` con prefijo solo cuando sea necesario por compatibilidad del equipo.
+- En las interfaces, el prefijo `I` no es obligatorio; se prefiere `PascalCase` descriptivo (`OrderRepository`, `PaymentService`).
+
+##### 5.1.3.5.2 Formato y prácticas
+
+- Se recomienda el uso de llaves en la misma línea del bloque.
+- Se exige que los métodos posean una responsabilidad clara.
+- Las clases de servicio requieren nombres funcionales y orientados al dominio.
+- Los métodos asíncronos o de integración requieren sufijo descriptivo cuando aplique.
+
+Ejemplo recomendado:
+
+```java
+public class OrderService {
+    private final OrderRepository orderRepository;
+
+    public OrderService(OrderRepository orderRepository) {
+        this.orderRepository = orderRepository;
+    }
+
+    public Order findById(UUID orderId) {
+        if (orderId == null) {
+            return null;
+        }
+
+        return orderRepository.findById(orderId);
+    }
+}
+```
+
+#### 5.1.3.6 Convenciones para Gherkin
+
+Gherkin se utiliza para especificaciones legibles por negocio y equipo técnico.
+
+##### 5.1.3.6.1 Reglas de legibilidad
+
+- Los escenarios presentan estructura clara, mendiante la denominación `Given-When-Then`.
+- La sentencia `And` se usa para continuidad lógica dentro del mismo bloque.
+- Se exige steps concretos, observables y sin ruido irrelevante.
+- Cuando un step requiere tabla, finalizar con `:`.
+- Se recomienda dejar líneas en blanco entre escenarios para facilitar lectura.
+
+Ejemplo recomendado:
+
+```gherkin
+Feature: Contact channels
+
+  Scenario: Visitor sends a contact form request
+    Given the visitor provides the following data:
+      | field   | value               |
+      | name    | Ana Torres          |
+      | email   | ana@example.com     |
+      | message | I need more details |
+    When the visitor submits the form
+    Then the system confirms the request was received
+```
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 ### 5.1.4. Software Deployment Configuration.
