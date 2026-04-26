@@ -1616,61 +1616,61 @@ Este diagrama muestra cómo se administran las suscripciones, pagos y acceso a f
 
 ### CortiSense Single Page Application
 
-<img src="Resources/Images/C4-Diagrams/Spa_Diagram.png" alt="Diseño del diagrama frontend de CortiSense Single Page Application."> <br>
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/SPA_Diagram.png" alt="Diseño del diagrama frontend de CortiSense Single Page Application."> <br>
 
-Este diagrama muestra la relación entre la Single Page Application, la API Application y la base de datos. Dentro de la API Application se representan los bounded contexts identificados para organizar la lógica principal del backend.
+Este diagrama muestra la relación entre la Single Page Application y la Rest API. Dentro del SPA se representan los bounded contexts identificados para organizar la lógica principal del fronted.
 
 ### Stress and Fatigue Analysis
 
-<img src="Resources/Images/Frontend-Diagrams/StressAndFatigueAnalysis.png" alt="Diseño del diagrama frontend de Stress and Fatigue Analysis."> <br>
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Stress_Diagram.png" alt="Diseño del diagrama frontend de Stress and Fatigue Analysis."> <br>
 
 Este diagrama detalla los componentes de la interfaz encargados de la visualización de datos críticos. Incluye la lógica de los servicios de consumo de API que obtienen los resultados del análisis de estrés y los módulos de visualización (gráficos y medidores) que permiten al personal médico interpretar su estado de fatiga en tiempo real.
 
 ### Biometric Data Management
 
-<img src="Resources/Images/Frontend-Diagrams/BiometricDataManagement.png" alt="Diseño del diagrama frontend de Biometric Data Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Data_Diagram.png" alt="Diseño del diagrama frontend de Biometric Data Management."> <br>
 
 Representa la lógica de presentación para los datos biométricos. Se enfoca en la gestión del flujo de datos desde los servicios de API hacia el State Store de la aplicación, permitiendo que la información de ritmo cardíaco y otros indicadores se actualicen dinámicamente en la UI sin recargar la página.
 
 ### Alerting and Notification Management
 
-<img src="Resources/Images/Frontend-Diagrams/AlertingAndNotificationManagement.png" alt="Diseño del diagrama frontend de Alerting and Notification Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Alerting_Diagram.png" alt="Diseño del diagrama frontend de Alerting and Notification Management."> <br>
 
 Muestra los componentes encargados de la experiencia de notificación. Incluye el manejador de Service Workers para notificaciones push, el componente de "Feed de Alertas" y los interceptores que reaccionan a eventos críticos del backend para mostrar avisos visuales inmediatos al usuario.
 
 ### Identity and Access Management
 
-<img src="Resources/Images/Frontend-Diagrams/IdentityAccessManagement.png" alt="Diseño del diagrama frontend de Identity and Access Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Indentity_Diagram.png" alt="Diseño del diagrama frontend de Identity and Access Management."> <br>
 
 Este diagrama ilustra la integración con el proveedor de identidad (Auth0) desde la perspectiva del cliente. Detalla la gestión de tokens JWT, la persistencia de la sesión en el navegador y los "Guards" o protectores de rutas que restringen el acceso a vistas específicas según el rol del usuario.
 
 ### Medical Staff Management
 
-<img src="Resources/Images/Frontend-Diagrams/MedicalStaffManagement.png" alt="Diseño del diagrama frontend de Medical Staff Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Staff_Diagram.png" alt="Diseño del diagrama frontend de Medical Staff Management."> <br>
 
 Describe los componentes de interfaz para la gestión del personal. Se centra en los módulos de filtrado dinámico, formularios de registro con validación en el lado del cliente y la sincronización con el servicio de búsqueda del backend.
 
 ### Medical Device Management
 
-<img src="Resources/Images/Frontend-Diagrams/MedicalDeviceManagement.png" alt="Diseño del diagrama frontend de Medical Device Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Device_Diagram.png" alt="Diseño del diagrama frontend de Medical Device Management."> <br>
 
 Muestra la lógica necesaria para la vinculación de hardware. Incluye los pasos de configuración guiada (wizards), la visualización del estado de conexión de los dispositivos IoT y la interfaz para el ajuste de umbrales de alerta personalizados.
 
 ### Medical Rest Management
 
-<img src="Resources/Images/Frontend-Diagrams/MedicalRestManagement.png" alt="Diseño del diagrama frontend de Medical Rest Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Rest_Diagram.png" alt="Diseño del diagrama frontend de Medical Rest Management."> <br>
 
 Representa la interfaz de calendario y el sistema de recomendaciones. Detalla cómo los componentes de UI transforman las sugerencias del backend en elementos visuales interactivos para que el personal pueda programar y confirmar sus descansos médicos.
 
 ### Medical Shift Management
 
-<img src="Resources/Images/Frontend-Diagrams/MedicalShiftManagement.png" alt="Diseño del diagrama frontend de Medical Shift Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Shift_Diagram.png" alt="Diseño del diagrama frontend de Medical Shift Management."> <br>
 
 Este diagrama detalla la arquitectura de la vista de planificación de turnos. Incluye componentes de drag-and-drop para la asignación de horarios y la lógica de validación visual que previene conflictos de disponibilidad antes de enviar los cambios al servidor.
 
 ### Subscription and Payment Management
 
-<img src="Resources/Images/Frontend-Diagrams/SubscriptionAndPaymentManagement.png" alt="Diseño del diagrama frontend de Subscription and Payment Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Subscription_Diagram.png" alt="Diseño del diagrama frontend de Subscription and Payment Management."> <br>
 
 Muestra la integración con los elementos de pago seguros (Stripe Elements). Se enfoca en el flujo de navegación para la selección de planes, la gestión de estados de pago (éxito/error) y la visualización del historial de facturación del usuario.
 
