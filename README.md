@@ -1568,6 +1568,13 @@ Muestra la integración con los elementos de pago seguros (Stripe Elements). Se 
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagrams.
+El Database Diagram general de CortiSense organiza la persistencia del sistema en tablas principales relacionadas mediante claves primarias y foráneas. El modelo parte de Account como entidad base para la identificación del usuario, desde la cual se relacionan médicos, dispositivos, suscripciones y pagos.
+
+Asimismo, el diagrama representa el flujo operativo del sistema mediante la relación entre Medic, BiometricData, Monitoring y Alert, permitiendo registrar datos biométricos, monitorear niveles de fatiga y generar alertas. También se incluyen las tablas Rest, RestModificationRequest y Shift para gestionar descansos, solicitudes de modificación y turnos médicos.
+
+<img src="Resources/Images/ClassDiagrams/Database.png" 
+     alt="Database Diagrams"
+     width="800">
 
 ---
 # Capítulo V: Product Implementation, Validation & Deployment.
