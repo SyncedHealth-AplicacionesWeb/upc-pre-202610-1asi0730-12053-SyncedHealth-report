@@ -183,7 +183,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <b>AV2</b><p></p>
         <b>TF1</b><p></p>
       <h3>Pareja Calloapaza, Marcelo Fausto</h3>
-        <b>AV1</b><p></p>
+        <b>AV1</b><p>Fuí partícipe del liderazgo compartido del grupo gracias a tomar atención a la creación de diversos tipos de diagramas y a las nomenclaturas asignadas mediante los sistemas de organización arquitectónica. De esta manera, aseguramos un sistema legible y eficiente.</p>
         <b>TP1</b><p></p>
         <b>AV2</b><p></p>
         <b>TF1</b><p></p>
@@ -220,7 +220,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <b>AV2</b><p></p>
         <b>TF1</b><p></p>
       <h3>Pareja Calloapaza, Marcelo Fausto</h3>
-        <b>AV1</b><p></p>
+        <b>AV1</b><p>Colaboré con la planificación del equipo mediante la redacción de User Strroies. Ello me permitió comprender el funcionamiento de los diagramas que sirven para mejorar el flujo en un contexto. Además colaboré en el despliege exitoso en GitHub Pages.</p>
         <b>TP1</b><p></p>
         <b>AV2</b><p></p>
         <b>TF1</b><p></p>
