@@ -1497,7 +1497,7 @@ Para el ciclo de vida de CortiSense, el equipo de PircaIndustries utiliza el sig
   
   + **Lucidchart:** Herramienta en línea para la creación de diagramas y representaciones visuales, como wireframes, flujos de usuario y diagramas de arquitectura. Permite a los equipos colaborar en tiempo real, facilitando la planificación y el diseño estructurado de interfaces y sistemas.<br>https://www.lucidchart.com/<br><br>
 
-  + **PlantUML:** Herramienta en línea para la creación de diagramas y representaciones visuales, como wireframes, flujos de usuario y diagramas de arquitectura. Permite a los equipos colaborar en tiempo real, facilitando la planificación y el diseño estructurado de interfaces y sistemas.<br>https://plantuml.com/es/<br><br>
+  + **PlantUML:** Herramienta de código abierto que permite crear diagramas de arquitectura, de secuencia y modelos UML mediante lenguaje de texto plano ("Diagrams as Code"). Facilita la documentación técnica versionable, permitiendo que los diagramas de CortiSense evolucionen junto con el código fuente y se integren fácilmente en los repositorios de GitHub sin depender de herramientas de dibujo manual.<br>https://plantuml.com/es/<br><br>
 
 + **Software Development**<br>Hace referencia al proceso completo de creación de software, que incluye su diseño, programación, prueba y mantenimiento. En esta etapa se implementan los requisitos previamente definidos, empleando distintos lenguajes, herramientas y tecnologías. El objetivo principal es desarrollar un producto funcional, eficiente y de calidad, que satisfaga las necesidades y expectativas del cliente.<br><br> 
 
@@ -1534,6 +1534,118 @@ Para el ciclo de vida de CortiSense, el equipo de PircaIndustries utiliza el sig
     + **Microsoft Office 365:** Suite de herramientas de productividad en la nube que incluye aplicaciones como Word, Excel y PowerPoint, utilizadas para la elaboración, edición y gestión de documentación del proyecto. Facilita el trabajo colaborativo, el almacenamiento en línea y el acceso compartido a la información.<br>https://www.microsoft.com/microsoft-365<br><br>
 
 ### 5.1.2. Source Code Management.
+
+### 5.1.2. Source Code Management.
+
+Se implementa la metodología Git Flow para gestionar el desarrollo de CortiSense, garantizando que el monitoreo de salud nunca se vea interrumpido por código inestable. Adicionalmente, se eligió GitHub como plataforma de control de versiones, aprovechando su funcionalidad GitHub Pages. Esta característica permite desplegar el proyecto de manera sencilla, facilitando la visualización del sitio web a partir de archivos en formato .html mediante la generación de un enlace accesible. Respecto a la documentación de nuevas funcionalidades, se decidió crear ramas bajo la nomenclatura "feature/sprint-1-development" para cada componente iplementado. De esta forma, se asegura el orden y progreso al momento de desarrollar el proyecto.<br><br>
+
+Enlace de la Landing Page:
+
+Repositorio GitHub de la Landing Page:
+
+Repositorio GitHub de los archivos feature:
+
+### 5.1.3. Source Code Style Guide & Conventions.
+
+Esta seccion define las reglas de codificación y nomenclatura definidas por el equipo de trabajo que serán aplicadas en CortiSense. De esta manera, el grupo asegura la conservación de la legibilidad, mantenibilidad y escalabilidad en las etapas de desarrollo de la solución.
+
+El proyecto utilizará HTML, CSS, JavaScript, Java y Gherkin con el propósito de favorecer a la implementación y validación de comportamiento. Para el código fuente, el idioma empleado será el inglésy el uso de estándares tecnológicos.
+
+#### 5.1.3.1 Principios generales para todos los lenguajes
+
+##### 5.1.3.1.1 Nomenclatura obligatoria en inglés
+
+Todo el código (variables, clases, comentarios, commits) deben ser redactadas estrictamente en inglés.
+
+Reglas transversales:
+
+- Los nombres deben ser descriptivos y orientados al dominio.
+- Las abreviaciones ambiguas (`tmp`, `obj`, `val`) serán prohibidas a excepción de tratarse de contextos locales muy acotados.
+- La semántica del nombre debe anticipar responsabilidad y tipo de dato.
+- Los nombres de una sola letra se reservan para iteradores de alcance corto (`i`, `j`) o coordenadas matemáticas (`x`, `y`, `z`).
+
+##### 5.1.3.1.2 Formato base de código
+
+- Los archivos serán guardados en UTF-8.
+- Las líneas de código excesivamente largas serán evitadas, debido a que se prioriza la legibilidad.
+- Los comentarios serán usados para la documentación de las clases.
+
+##### 5.1.3.1.3 Convenciones de estilo por tecnología
+
+Cada lenguaje conserva su convención estándar:
+
+- HTML/CSS/JavaScript/TypeScript: estilo de Google, MDN y recomendaciones del ecosistema Angular.
+- Java: convenciones oficiales de Google y del ecosistema Spring Boot.
+- Gherkin: enfoque de legibilidad y comportamiento orientado a negocio.
+
+#### 5.1.3.2 Convenciones para HTML
+
+Se adoptará HTML5 con el objetivo de buscar un enfoque semántico y accesible.
+
+##### 5.1.3.2.1 Estructura y sintaxis
+
+- Es necesario declarar `<!doctype html>` al inicio.
+- Se requiere escribir etiquetas y atributos en minúsculas.
+- Se necesita el uso de comillas dobles para valores de atributos.
+
+##### 5.1.3.2.2 Semántica y accesibilidad
+
+- Se requerirá del uso de elementos semánticos (`header`, `main`, `nav`, `section`, `article`, `footer`) en lugar de `div` sin propósito.
+- Se prefiere evitar controladores inline (`onclick`, `onchange`); debido a que se busca que la lógica sea definida en TypeScript o JavaScript.
+- Se exige la inclusión de texto alternativo significativo en imágenes.
+- Se desea asociar etiquetas y controles de formulario (`label` + `for`).
+
+Ejemplo recomendado:
+
+```html
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Account Settings</title>
+  </head>
+  <body>
+    <main>
+      <h1>Account settings</h1>
+      <img src="avatar.png" alt="Profile avatar preview">
+      <a href="/comments">All comments</a>
+    </main>
+  </body>
+</html>
+```
+
+#### 5.1.3.3 Convenciones para CSS
+
+Se adopta CSS con enfoque mantenible, predecible y escalable.
+
+##### 5.1.3.3.1 Nomenclatura
+
+- Se exige nomenclatura de clases en inglés y formato `kebab-case`.
+- Se prioriza semántica de componente/rol (`checkout-form`, `product-card-title`).
+- Se busca evitar nombres crípticos (`.rg`, `.x`, `.blueText`).
+
+##### 5.1.3.3.2 Reglas de estilo
+
+- Un espacio después de `:` en cada declaración.
+- Finalizar cada declaración con `;`.
+- Llave de apertura en la misma línea del selector.
+- Evitar `!important` salvo justificación técnica documentada.
+
+Ejemplo recomendado:
+
+```css
+.checkout-form {
+  padding: 0 1rem 1.5rem;
+  border-top: 0;
+}
+
+.checkout-form__title {
+  margin-bottom: 0.75rem;
+  font: 600 1.25rem/1.4 "Open Sans", sans-serif;
+}
+```
+
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 ### 5.1.4. Software Deployment Configuration.
