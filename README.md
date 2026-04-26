@@ -1120,6 +1120,14 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 
 ## 3.2. Impact Mapping
 
+En esta sección, nuestro equipo presenta el Impact Mapping, el cual es una herramienta visual y colaborativa que ayuda a los equipos a alinear sus objetivos con los resultados deseados.
+
+<b>Segmento 1: Personal Sanitario Operativo</b><br>
+
+<div align="center">
+
+
+</div>
 
 
 
