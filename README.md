@@ -1550,65 +1550,65 @@ El diagrama de contexto presenta a CortiSense como el sistema central. En este s
 
 El diagrama de contenedores muestra la organización general de CortiSense. Se observa la Web App, encargada de servir el contenido estático y la landing page, y la Single Page Application, que representa la aplicación interactiva usada por el personal médico y administrativo.
 
-### 4.6.4. Software Architecture Components Diagrams.
+### 4.6.4. Software Architecture Backend Components Diagrams.
 
-### CortiSense Single Page Application
+### REST API
 
-<img src="Resources/Images/C4-Diagrams/Spa_Diagram.png" alt="Diseño del diagrama de componentes de CortiSense Single Page Application."> <br>
+<img src="Resources/Images/C4-Diagrams/Backend-Diagrams/RestAPI_Diagram.png" alt="Diseño del diagrama de componentes del Rest API."> <br>
 
-Este diagrama muestra la relación entre la Single Page Application, la API Application y la base de datos. Dentro de la API Application se representan los bounded contexts identificados para organizar la lógica principal del backend.
+Este diagrama muestra la relación entre la Single Page Application, la Rest API y la base de datos. Dentro de la Rest API se representan los bounded contexts identificados para organizar la lógica principal del backend.
 
 ### Stress and Fatigue Analysis
 
-<img src="Resources/Images/C4-Diagrams/Stress_Components.png" alt="Diseño del diagrama de componentes de Stress and Fatigue Analysis."> <br>
+<img src="Resources/Images/C4-Diagrams/Backend-Diagrams/Stress_Diagram.png" alt="Diseño del diagrama de componentes de Stress and Fatigue Analysis."> <br>
 
 Este diagrama muestra cómo se analiza la información biométrica para determinar los niveles de estrés y fatiga del personal médico.
 
 ### Biometric Data Management
 
-<img src="Resources/Images/C4-Diagrams/Data_Components.png" alt="Diseño del diagrama de componentes de Biometric Data Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Backend-Diagrams/Data_Diagram.png" alt="Diseño del diagrama de componentes de Biometric Data Management."> <br>
 
 Este diagrama muestra cómo se registran, consultan y almacenan los datos biométricos provenientes de los dispositivos médicos.
 
 ### Alerting and Notification Management
 
-<img src="Resources/Images/C4-Diagrams/Alerting_Components.png" alt="Diseño del diagrama de componentes de Alerting and Notification Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Backend-Diagrams/Alerting_Diagram.png" alt="Diseño del diagrama de componentes de Alerting and Notification Management."> <br>
 
 Este diagrama muestra cómo se generan alertas y se gestionan las notificaciones del sistema.
 
 ### Identity and Access Management
 
-<img src="Resources/Images/C4-Diagrams/Identity_Components.png" alt="Diseño del diagrama de componentes de Identity and Access Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Backend-Diagrams/Identity_Diagram.png" alt="Diseño del diagrama de componentes de Identity and Access Management."> <br>
 
 Este diagrama muestra cómo se gestiona la autenticación, validación de usuarios y control de acceso.
 
 ### Medical Staff Management
 
-<img src="Resources/Images/C4-Diagrams/Staff_Components.png" alt="Diseño del diagrama de componentes de Medical Staff Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Backend-Diagrams/Staff_Diagram.png" alt="Diseño del diagrama de componentes de Medical Staff Management."> <br>
 
 Este diagrama muestra cómo se administra la información del personal médico, incluyendo registro, consulta y búsqueda.
 
 ### Medical Device Management
 
-<img src="Resources/Images/C4-Diagrams/Device_Components.png" alt="Diseño del diagrama de componentes de Medical Device Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Backend-Diagrams/Device_Diagram.png" alt="Diseño del diagrama de componentes de Medical Device Management."> <br>
 
 Este diagrama muestra cómo se gestiona la vinculación, sincronización y configuración de dispositivos médicos.
 
 ### Medical Rest Management
 
-<img src="Resources/Images/C4-Diagrams/Rest_Components.png" alt="Diseño del diagrama de componentes de Medical Rest Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Backend-Diagrams/Rest_Diagram.png" alt="Diseño del diagrama de componentes de Medical Rest Management."> <br>
 
 Este diagrama muestra cómo se administran los descansos médicos, incluyendo programación, modificación y recomendaciones.
 
 ### Medical Shift Management
 
-<img src="Resources/Images/C4-Diagrams/Shift_Components.png" alt="Diseño del diagrama de componentes de Medical Shift Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Backend-Diagrams/Shift_Diagram.png" alt="Diseño del diagrama de componentes de Medical Shift Management."> <br>
 
 Este diagrama muestra cómo se gestionan los turnos médicos, incluyendo asignación, validación y reprogramación.
 
 ### Subscription and Payment Management
 
-<img src="Resources/Images/C4-Diagrams/Subscription_Components.png" alt="Diseño del diagrama de componentes de Subscription and Payment Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Backend-Diagrams/Subscription_Diagram.png" alt="Diseño del diagrama de componentes de Subscription and Payment Management."> <br>
 
 Este diagrama muestra cómo se administran las suscripciones, pagos y acceso a funcionalidades de la plataforma.
 
