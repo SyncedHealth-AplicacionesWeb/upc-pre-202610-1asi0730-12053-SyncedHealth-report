@@ -1550,65 +1550,65 @@ El diagrama de contexto presenta a CortiSense como el sistema central. En este s
 
 El diagrama de contenedores muestra la organización general de CortiSense. Se observa la Web App, encargada de servir el contenido estático y la landing page, y la Single Page Application, que representa la aplicación interactiva usada por el personal médico y administrativo.
 
-### 4.6.4. Software Architecture Components Diagrams.
+### 4.6.4. Software Architecture Backend Components Diagrams.
 
-### CortiSense Single Page Application
+### REST API
 
-<img src="Resources/Images/C4-Diagrams/Spa_Diagram.png" alt="Diseño del diagrama de componentes de CortiSense Single Page Application."> <br>
+<img src="Resources/Images/C4-Diagrams/Backend-Diagrams/RestAPI_Diagram.png" alt="Diseño del diagrama de componentes del Rest API."> <br>
 
-Este diagrama muestra la relación entre la Single Page Application, la API Application y la base de datos. Dentro de la API Application se representan los bounded contexts identificados para organizar la lógica principal del backend.
+Este diagrama muestra la relación entre la Single Page Application, la Rest API y la base de datos. Dentro de la Rest API se representan los bounded contexts identificados para organizar la lógica principal del backend.
 
 ### Stress and Fatigue Analysis
 
-<img src="Resources/Images/C4-Diagrams/Stress_Components.png" alt="Diseño del diagrama de componentes de Stress and Fatigue Analysis."> <br>
+<img src="Resources/Images/C4-Diagrams/Backend-Diagrams/Stress_Diagram.png" alt="Diseño del diagrama de componentes de Stress and Fatigue Analysis."> <br>
 
 Este diagrama muestra cómo se analiza la información biométrica para determinar los niveles de estrés y fatiga del personal médico.
 
 ### Biometric Data Management
 
-<img src="Resources/Images/C4-Diagrams/Data_Components.png" alt="Diseño del diagrama de componentes de Biometric Data Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Backend-Diagrams/Data_Diagram.png" alt="Diseño del diagrama de componentes de Biometric Data Management."> <br>
 
 Este diagrama muestra cómo se registran, consultan y almacenan los datos biométricos provenientes de los dispositivos médicos.
 
 ### Alerting and Notification Management
 
-<img src="Resources/Images/C4-Diagrams/Alerting_Components.png" alt="Diseño del diagrama de componentes de Alerting and Notification Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Backend-Diagrams/Alerting_Diagram.png" alt="Diseño del diagrama de componentes de Alerting and Notification Management."> <br>
 
 Este diagrama muestra cómo se generan alertas y se gestionan las notificaciones del sistema.
 
 ### Identity and Access Management
 
-<img src="Resources/Images/C4-Diagrams/Identity_Components.png" alt="Diseño del diagrama de componentes de Identity and Access Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Backend-Diagrams/Identity_Diagram.png" alt="Diseño del diagrama de componentes de Identity and Access Management."> <br>
 
 Este diagrama muestra cómo se gestiona la autenticación, validación de usuarios y control de acceso.
 
 ### Medical Staff Management
 
-<img src="Resources/Images/C4-Diagrams/Staff_Components.png" alt="Diseño del diagrama de componentes de Medical Staff Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Backend-Diagrams/Staff_Diagram.png" alt="Diseño del diagrama de componentes de Medical Staff Management."> <br>
 
 Este diagrama muestra cómo se administra la información del personal médico, incluyendo registro, consulta y búsqueda.
 
 ### Medical Device Management
 
-<img src="Resources/Images/C4-Diagrams/Device_Components.png" alt="Diseño del diagrama de componentes de Medical Device Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Backend-Diagrams/Device_Diagram.png" alt="Diseño del diagrama de componentes de Medical Device Management."> <br>
 
 Este diagrama muestra cómo se gestiona la vinculación, sincronización y configuración de dispositivos médicos.
 
 ### Medical Rest Management
 
-<img src="Resources/Images/C4-Diagrams/Rest_Components.png" alt="Diseño del diagrama de componentes de Medical Rest Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Backend-Diagrams/Rest_Diagram.png" alt="Diseño del diagrama de componentes de Medical Rest Management."> <br>
 
 Este diagrama muestra cómo se administran los descansos médicos, incluyendo programación, modificación y recomendaciones.
 
 ### Medical Shift Management
 
-<img src="Resources/Images/C4-Diagrams/Shift_Components.png" alt="Diseño del diagrama de componentes de Medical Shift Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Backend-Diagrams/Shift_Diagram.png" alt="Diseño del diagrama de componentes de Medical Shift Management."> <br>
 
 Este diagrama muestra cómo se gestionan los turnos médicos, incluyendo asignación, validación y reprogramación.
 
 ### Subscription and Payment Management
 
-<img src="Resources/Images/C4-Diagrams/Subscription_Components.png" alt="Diseño del diagrama de componentes de Subscription and Payment Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Backend-Diagrams/Subscription_Diagram.png" alt="Diseño del diagrama de componentes de Subscription and Payment Management."> <br>
 
 Este diagrama muestra cómo se administran las suscripciones, pagos y acceso a funcionalidades de la plataforma.
 
@@ -1616,63 +1616,127 @@ Este diagrama muestra cómo se administran las suscripciones, pagos y acceso a f
 
 ### CortiSense Single Page Application
 
-<img src="Resources/Images/C4-Diagrams/Spa_Diagram.png" alt="Diseño del diagrama frontend de CortiSense Single Page Application."> <br>
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/SPA_Diagram.png" alt="Diseño del diagrama frontend de CortiSense Single Page Application."> <br>
 
-Este diagrama muestra la relación entre la Single Page Application, la API Application y la base de datos. Dentro de la API Application se representan los bounded contexts identificados para organizar la lógica principal del backend.
+Este diagrama muestra la relación entre la Single Page Application y la Rest API. Dentro del SPA se representan los bounded contexts identificados para organizar la lógica principal del fronted.
 
 ### Stress and Fatigue Analysis
 
-<img src="Resources/Images/Frontend-Diagrams/StressAndFatigueAnalysis.png" alt="Diseño del diagrama frontend de Stress and Fatigue Analysis."> <br>
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Stress_Diagram.png" alt="Diseño del diagrama frontend de Stress and Fatigue Analysis."> <br>
 
 Este diagrama detalla los componentes de la interfaz encargados de la visualización de datos críticos. Incluye la lógica de los servicios de consumo de API que obtienen los resultados del análisis de estrés y los módulos de visualización (gráficos y medidores) que permiten al personal médico interpretar su estado de fatiga en tiempo real.
 
 ### Biometric Data Management
 
-<img src="Resources/Images/Frontend-Diagrams/BiometricDataManagement.png" alt="Diseño del diagrama frontend de Biometric Data Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Data_Diagram.png" alt="Diseño del diagrama frontend de Biometric Data Management."> <br>
 
 Representa la lógica de presentación para los datos biométricos. Se enfoca en la gestión del flujo de datos desde los servicios de API hacia el State Store de la aplicación, permitiendo que la información de ritmo cardíaco y otros indicadores se actualicen dinámicamente en la UI sin recargar la página.
 
 ### Alerting and Notification Management
 
-<img src="Resources/Images/Frontend-Diagrams/AlertingAndNotificationManagement.png" alt="Diseño del diagrama frontend de Alerting and Notification Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Alerting_Diagram.png" alt="Diseño del diagrama frontend de Alerting and Notification Management."> <br>
 
 Muestra los componentes encargados de la experiencia de notificación. Incluye el manejador de Service Workers para notificaciones push, el componente de "Feed de Alertas" y los interceptores que reaccionan a eventos críticos del backend para mostrar avisos visuales inmediatos al usuario.
 
 ### Identity and Access Management
 
-<img src="Resources/Images/Frontend-Diagrams/IdentityAccessManagement.png" alt="Diseño del diagrama frontend de Identity and Access Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Indentity_Diagram.png" alt="Diseño del diagrama frontend de Identity and Access Management."> <br>
 
 Este diagrama ilustra la integración con el proveedor de identidad (Auth0) desde la perspectiva del cliente. Detalla la gestión de tokens JWT, la persistencia de la sesión en el navegador y los "Guards" o protectores de rutas que restringen el acceso a vistas específicas según el rol del usuario.
 
 ### Medical Staff Management
 
-<img src="Resources/Images/Frontend-Diagrams/MedicalStaffManagement.png" alt="Diseño del diagrama frontend de Medical Staff Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Staff_Diagram.png" alt="Diseño del diagrama frontend de Medical Staff Management."> <br>
 
 Describe los componentes de interfaz para la gestión del personal. Se centra en los módulos de filtrado dinámico, formularios de registro con validación en el lado del cliente y la sincronización con el servicio de búsqueda del backend.
 
 ### Medical Device Management
 
-<img src="Resources/Images/Frontend-Diagrams/MedicalDeviceManagement.png" alt="Diseño del diagrama frontend de Medical Device Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Device_Diagram.png" alt="Diseño del diagrama frontend de Medical Device Management."> <br>
 
 Muestra la lógica necesaria para la vinculación de hardware. Incluye los pasos de configuración guiada (wizards), la visualización del estado de conexión de los dispositivos IoT y la interfaz para el ajuste de umbrales de alerta personalizados.
 
 ### Medical Rest Management
 
-<img src="Resources/Images/Frontend-Diagrams/MedicalRestManagement.png" alt="Diseño del diagrama frontend de Medical Rest Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Rest_Diagram.png" alt="Diseño del diagrama frontend de Medical Rest Management."> <br>
 
 Representa la interfaz de calendario y el sistema de recomendaciones. Detalla cómo los componentes de UI transforman las sugerencias del backend en elementos visuales interactivos para que el personal pueda programar y confirmar sus descansos médicos.
 
 ### Medical Shift Management
 
-<img src="Resources/Images/Frontend-Diagrams/MedicalShiftManagement.png" alt="Diseño del diagrama frontend de Medical Shift Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Shift_Diagram.png" alt="Diseño del diagrama frontend de Medical Shift Management."> <br>
 
 Este diagrama detalla la arquitectura de la vista de planificación de turnos. Incluye componentes de drag-and-drop para la asignación de horarios y la lógica de validación visual que previene conflictos de disponibilidad antes de enviar los cambios al servidor.
 
 ### Subscription and Payment Management
 
-<img src="Resources/Images/Frontend-Diagrams/SubscriptionAndPaymentManagement.png" alt="Diseño del diagrama frontend de Subscription and Payment Management."> <br>
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Subscription_Diagram.png" alt="Diseño del diagrama frontend de Subscription and Payment Management."> <br>
 
 Muestra la integración con los elementos de pago seguros (Stripe Elements). Se enfoca en el flujo de navegación para la selección de planes, la gestión de estados de pago (éxito/error) y la visualización del historial de facturación del usuario.
+
+### 4.6.6. Vue Components by Presentation Layer
+
+Los siguientes diagramas complementan los diagramas de componentes del frontend. En ellos se detalla la capa de presentación de cada bounded context, mostrando los componentes `.vue` que conforman las vistas principales de la Single Page Application.
+
+### Identity and Access Management - Presentation Layer
+
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Vue-Components/Identity_Presentation.png" alt="Vue components of Identity and Access Management."> <br>
+
+Este diagrama muestra los componentes Vue encargados de la autenticación y gestión de acceso, como las vistas de inicio de sesión, registro, perfil y recuperación de contraseña.
+
+### Medical Staff Management - Presentation Layer
+
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Vue-Components/Staff_Presentation.png" alt="Vue components of Medical Staff Management."> <br>
+
+Este diagrama muestra los componentes Vue usados para gestionar el personal médico, incluyendo vistas de listado, búsqueda, registro y detalle.
+
+### Medical Device Management - Presentation Layer
+
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Vue-Components/Device_Presentation.png" alt="Vue components of Medical Device Management."> <br>
+
+Este diagrama muestra los componentes Vue relacionados con la vinculación, visualización y configuración de dispositivos médicos.
+
+### Biometric Data Management - Presentation Layer
+
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Vue-Components/Data_Presentation.png" alt="Vue components of Biometric Data Management."> <br>
+
+Este diagrama muestra los componentes Vue utilizados para visualizar datos biométricos, historial, detalle y sincronización de información.
+
+### Stress and Fatigue Analysis - Presentation Layer
+
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Vue-Components/Stress_Presentation.png" alt="Vue components of Stress and Fatigue Analysis."> <br>
+
+Este diagrama muestra los componentes Vue encargados de presentar el estado de estrés y fatiga, reportes y recomendaciones.
+
+### Alerting and Notification Management - Presentation Layer
+
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Vue-Components/Alerting_Presentation.png" alt="Vue components of Alerting and Notification Management."> <br>
+
+Este diagrama muestra los componentes Vue utilizados para visualizar alertas, detalles, centro de notificaciones y preferencias del usuario.
+
+### Medical Rest Management - Presentation Layer
+
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Vue-Components/Rest_Presentation.png" alt="Vue components of Medical Rest Management."> <br>
+
+Este diagrama muestra los componentes Vue asociados a la programación, consulta, detalle y recomendaciones de descansos médicos.
+
+### Medical Shift Management - Presentation Layer
+
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Vue-Components/Shift_Presentation.png" alt="Vue components of Medical Shift Management."> <br>
+
+Este diagrama muestra los componentes Vue relacionados con la visualización, asignación, detalle y reprogramación de turnos médicos.
+
+### Subscription and Payment Management - Presentation Layer
+
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Vue-Components/Subscription_Presentation.png" alt="Vue components of Subscription and Payment Management."> <br>
+
+Este diagrama muestra los componentes Vue utilizados para la selección de planes, consulta de suscripción, checkout e historial de pagos.
+
+### Shared UI Components - Presentation Layer
+
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Vue-Components/SharedUI_Presentation.png" alt="Shared Vue UI components."> <br>
+
+Este diagrama muestra los componentes Vue reutilizables compartidos entre los bounded contexts, como barra de navegación, sidebar, tablas y modales.
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
