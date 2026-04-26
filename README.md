@@ -1530,6 +1530,36 @@ Muestra la integración con los elementos de pago seguros (Stripe Elements). Se 
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+
+<h2>Diagrama Completo</h2>
+<img src="Resources/Images/ClassDiagrams/ClassDiagrams.png" alt="Class Diagrams Complete">
+
+<h3>Alerting and Notification Management</h3>
+<img src="Resources/Images/ClassDiagrams/alertingAndNotificationManagement.png" alt="Alerting and Notification Management Class Diagram">
+
+<h3>Biometric Data Management</h3>
+<img src="Resources/Images/ClassDiagrams/biometricDataManagement.png" alt="Biometric Data Management Class Diagram">
+
+<h3>Identity and Access Management</h3>
+<img src="Resources/Images/ClassDiagrams/identityAndAccessManagement.png" alt="Identity and Access Management Class Diagram">
+
+<h3>Medical Device Management</h3>
+<img src="Resources/Images/ClassDiagrams/medicalDeviceManagement.png" alt="Medical Device Management Class Diagram">
+
+<h3>Medical Rest Management</h3>
+<img src="Resources/Images/ClassDiagrams/medicalRestManagement.png" alt="Medical Rest Management Class Diagram">
+
+<h3>Medical Shift Management</h3>
+<img src="Resources/Images/ClassDiagrams/medicalShiftManagement.png" alt="Medical Shift Management Class Diagram">
+
+<h3>Medical Staff Management</h3>
+<img src="Resources/Images/ClassDiagrams/medicalStaffManagement.png" alt="Medical Staff Management Class Diagram">
+
+<h3>Subscription and Payment Management</h3>
+<img src="Resources/Images/ClassDiagrams/subscriptionAndPaymentManagement.png" alt="Subscription and Payment Management Class Diagram">
+
+<h3>Stress and Fatigue Analysis</h3>
+<img src="Resources/Images/ClassDiagrams/stressandfatigueanalysis.png" alt="Stress and Fatigue Analysis Class Diagram">
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagrams.
 
