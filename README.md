@@ -1369,6 +1369,30 @@ El estilo de comunicación de CortiSense se define como:
 Este enfoque permite proyectar una identidad visual coherente con el propósito del sistema, centrado en el monitoreo inteligente para un bienestar seguro.
 
 ### 4.1.2. Web Style Guidelines.
+
+**Header** <br>
+
+En esta sección podremos encontrar el logo de CortiSence a la izquierda, acompañado del menú de navegación principal (*Home*, *Description*, *Goals*, *Pricing*, *Impact*, *IoT Systems*, *Support*, , *Language*) y el boton de acción *Join US* a la derecha. El fondo es de color blanco *#FFFFFF* y los botones de un cyan un poco mas claro *#41EFF2*.
+
+<div align="center">
+<img src="Resources/Images/Style-Guidelines/Web_Style/header.png" alt="Imagen referencial del header"/> 
+<div align="justify"> <br>
+
+**Main Section** <br>
+
+La sección principal de la landing page está diseñada para captar la atención del usuario desde el primer momento, mostrando un título llamativo, una breve descripción del servicio y un botón de búsqueda principal junto a un recurso visual ilustrativo. En su adaptación responsive, la composición se ajusta a un formato vertical propio de dispositivos móviles, conservando la claridad del mensaje y la facilidad de interacción.
+
+<div align="center">
+<img src="Resources/Images/Style-Guidelines/Web_Style/main_section.png" alt="Imagen referencial del main section"/>
+<div align="justify"> <br>
+
+**Footer**<br>
+El footer de la landing page reúne la información complementaria de la plataforma, incluyendo la identidad visual de la marca. En la versión web, estos elementos se distribuyen de manera horizontal para aprovechar el espacio y mantener un orden visual equilibrado, mientras que, en la versión responsive, se reorganizan verticalmente para facilitar la lectura y conservar la claridad y accesibilidad del contenido en dispositivos móviles.
+
+<div align="center">
+<img src="Resources/Images/Style-Guidelines/Web_Style/footer.png" alt="Imagen referencial del footer""/>
+<div align="justify"> <br>
+
 ## 4.2. Information Architecture.
 En CortiSense, la arquitectura de la información se ha diseñado para priorizar la rapidez y la precisión, factores críticos en entornos hospitalarios de alta intensidad. Organizamos el contenido de manera que tanto el personal médico como los administradores puedan acceder a indicadores biométricos y alertas de estrés sin fricciones. Implementamos sistemas de organización basados en la urgencia y la jerarquía visual, facilitando la interpretación de datos complejos de cortisol y HRV. Con una navegación estructurada y sistemas de búsqueda optimizados para la gestión de turnos, CortiSense garantiza que la toma de decisiones para prevenir el burnout sea inmediata, fluida y basada en evidencia científica.
 
