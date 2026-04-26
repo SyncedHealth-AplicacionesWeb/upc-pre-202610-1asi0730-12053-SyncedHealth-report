@@ -1125,8 +1125,7 @@ En esta sección, nuestro equipo presenta el Impact Mapping, el cual es una herr
 <b>Segmento 1: Personal Sanitario Operativo</b><br>
 
 <div align="center">
-
-
+<img src="Resources/Images/impact-mapping/impact-map-segmento1.png" alt="Impact Map segmento 1 - Personal Sanitario Operativo">
 </div>
 
 
