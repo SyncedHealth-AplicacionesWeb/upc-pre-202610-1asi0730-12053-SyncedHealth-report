@@ -2091,13 +2091,13 @@ En resumen, Github Pages usa la rama main como origen de producción. Paralelame
 
 Durante este Sprint, el equipo ha organizado el trabajo en base a las Epics definidas en el Product Backlog. La asignación de líderes y colaboradores se ha realizado considerando la responsabilidad real de cada miembro en los distintos aspectos del proyecto, según se documenta en la planificación interna del equipo.
 
-| Team Member (Last Name, First Name) | GitHub Username | EP01 | EP02 | EP03 | EP04 | EP05 | EP06 | EP07 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Gutierrez Santillán, Sebastián Augusto | SebastianGutierrezSantillan | C | L | C | C | C | C | L |
-| León Morales, Johan Yonel | TheCap213 | C | C | L | C | C | C | C |
-| Mauricio Silva, Guiou Justinn | Justinn2006 | L | C | C | C | L | C | C |
-| Pareja Calloapaza, Marcelo Fausto | marc3lllob7 | C | C | C | L | C | L | C |
-| Santiago Atanacio, Jairo Mathias | Msa-ware | C | C | C | C | C | C | C |
+| Team Member (Last Name, First Name) | GitHub Username | EP01 | EP02 | EP03 | EP04 | EP05 | EP06 | EP07 | EP08 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Gutierrez Santillán, Sebastián Augusto | SebastianGutierrezSantillan | C | L | C | C | C | C | C | C |
+| León Morales, Johan Yonel | TheCap213 | C | C | L | C | C | C | L | C |
+| Mauricio Silva, Guiou Justinn | Justinn2006 | L | C | C | C | L | C | C | C |
+| Pareja Calloapaza, Marcelo Fausto | marc3lllob7 | C | C | C | L | C | L | C | C |
+| Santiago Atanacio, Jairo Mathias | Msa-ware | C | C | C | C | C | C | C | L |
 
 **Leyenda:** L = Líder, C = Colaborador
 
