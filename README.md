@@ -177,8 +177,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <b>TP1</b><p></p>
         <b>AV2</b><p></p>
         <b>TF1</b><p></p>
-      <h3>Mauricio Silva, Guiou Justinn</h3>
-        <b>AV1</b><p></p>
+      <h3>Mauricio Silva, Ghiou Justinn</h3>
+        <b>AV1</b><p>Durante el desarrollo del proyecto, contribuí al trabajo en equipo participando activamente en el análisis de la problemática mediante la metodología 5W2H. Asimismo, lideré parte de la fase de Need Finding, elaborando el User Persona, User Task Matrix , User Journey Mapping y Empathy Mapping, lo que permitió al equipo comprender mejor las necesidades del usuario. También apoyé en la construcción de User Stories y el Product Backlog, facilitando la organización del trabajo y la toma de decisiones en conjunto.</p>
         <b>TP1</b><p></p>
         <b>AV2</b><p></p>
         <b>TF1</b><p></p>
@@ -214,8 +214,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <b>TP1</b><p></p>
         <b>AV2</b><p></p>
         <b>TF1</b><p></p>
-      <h3>Mauricio Silva, Guiou Justinn</h3>
-        <b>AV1</b><p></p>
+      <h3>Mauricio Silva, Ghiou Justinn</h3>
+        <b>AV1</b><p>Durante esta etapa, cumplí con las tareas asignadas de manera responsable, desarrollando el análisis 5W2H y la fase de Need Finding. Además, contribuí en la planificación del proyecto mediante la elaboración de User Stories y el Product Backlog, lo que permitió definir claramente las tareas del equipo. Finalmente, apoyé en el diseño del sistema mediante la creación de diagramas (clases y base de datos) y wireframes y wireflow, asegurando el cumplimiento de los objetivos establecidos.</p>
         <b>TP1</b><p></p>
         <b>AV2</b><p></p>
         <b>TF1</b><p></p>
