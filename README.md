@@ -1533,56 +1533,56 @@ En esta sección, nuestro equipo presenta el Impact Mapping, el cual es una herr
 
 | Orden | User Story Id | Título | Descripción | Story Points |
 |---|---|---|---|---|
-| 1 | US-17 | Búsqueda en Landing | Como visitante quiero buscar información para encontrar contenido rápidamente | 3 |
-| 2 | US-19 | Navegación en Landing | Como visitante quiero navegar por el menú para conocer el producto | 2 |
-| 3 | US-20 | Comparación de planes | Como visitante quiero comparar planes para elegir una opción adecuada | 3 |
-| 4 | US-21 | Testimonios | Como visitante quiero ver opiniones para confiar en el sistema | 2 |
-| 5 | US-22 | Contacto rápido | Como visitante quiero contactar al equipo para solicitar información | 2 |
-| 6 | US-39 | Ver demo | Como visitante quiero ver una demo para entender el sistema | 3 |
-| 7 | US-41 | Registro de interés | Como visitante quiero dejar mis datos para ser contactado | 3 |
-| 8 | US-18 | Cambio idioma | Como visitante quiero cambiar idioma para entender mejor la plataforma | 2 |
-| 9 | US-04 | Vincular wearable | Como médico quiero conectar mi dispositivo para monitoreo automático | 5 |
-| 10 | US-05 | Ver biomarcadores | Como médico quiero ver HRV y cortisol para evaluar mi fatiga | 5 |
-| 11 | US-23 | Alerta batería | Como usuario quiero saber si el wearable tiene batería baja | 2 |
-| 12 | US-30 | Desvincular wearable | Como usuario quiero desconectar dispositivo para cambiarlo | 2 |
-| 13 | US-31 | Estado dispositivo | Como usuario quiero ver estado del wearable para asegurar conexión | 2 |
-| 14 | US-32 | Sincronización automática | Como usuario quiero sincronización continua para no perder datos | 3 |
-| 15 | US-06 | Configurar umbrales | Como usuario quiero personalizar alertas para mayor precisión | 3 |
-| 16 | US-07 | Alerta de fatiga | Como médico quiero recibir alertas para evitar errores clínicos | 5 |
-| 17 | US-08 | Descansos sugeridos | Como usuario quiero pausas recomendadas para recuperarme | 3 |
-| 18 | US-09 | Pausas activas | Como usuario quiero ejercicios guiados para reducir estrés | 3 |
-| 19 | US-33 | Silenciar alertas | Como usuario quiero pausar alertas durante procedimientos críticos | 2 |
-| 20 | US-34 | Historial alertas | Como usuario quiero revisar alertas pasadas para analizar mi estado | 2 |
-| 21 | US-35 | Escalar alertas | Como sistema quiero escalar alertas críticas para prevenir riesgos | 5 |
-| 22 | US-10 | Reporte bienestar | Como médico quiero reportes para sustentar mi estado clínico | 5 |
-| 23 | US-11 | Mapa de calor | Como admin quiero ver estrés por áreas para tomar decisiones | 5 |
-| 24 | US-12 | Médicos en riesgo | Como admin quiero identificar personal en riesgo para prevenir errores | 5 |
-| 25 | US-36 | Filtrar médicos | Como admin quiero filtrar personal por nivel de estrés | 3 |
-| 26 | US-37 | Ver estadísticas | Como admin quiero ver métricas globales para decisiones estratégicas | 3 |
-| 27 | US-38 | Notificaciones masivas | Como admin quiero alertar a todo el personal ante riesgos | 3 |
-| 28 | US-25 | Exportar datos | Como admin quiero exportar datos para análisis externo | 3 |
-| 29 | US-13 | Integración HIS | Como admin quiero sincronizar turnos con sistema hospitalario | 5 |
-| 30 | US-14 | Predicción burnout | Como sistema quiero predecir fatiga para anticipar riesgos | 8 |
-| 31 | US-42 | Ajuste IA | Como sistema quiero mejorar la precisión del modelo predictivo | 5 |
-| 32 | US-43 | Reentrenamiento IA | Como sistema quiero aprender de nuevos datos para mejorar | 5 |
-| 33 | US-16 | Feedback IA | Como usuario quiero evaluar alertas para mejorar el sistema | 3 |
-| 34 | US-44 | Feedback negativo | Como usuario quiero reportar errores para mejorar el sistema | 3 |
-| 35 | US-15 | Técnicas bienestar | Como usuario quiero acceder a contenido para reducir estrés | 3 |
-| 36 | US-45 | Guardar favoritos | Como usuario quiero guardar técnicas para acceso rápido | 2 |
-| 37 | US-46 | Recomendaciones | Como sistema quiero sugerir acciones según estrés | 5 |
-| 38 | US-47 | Seguimiento progreso | Como usuario quiero ver evolución de mi bienestar | 3 |
-| 39 | US-01 | Registro usuario | Como médico quiero registrarme para usar el sistema | 3 |
-| 40 | US-02 | Editar perfil | Como usuario quiero actualizar mis datos personales | 2 |
-| 41 | US-03 | Login biométrico | Como usuario quiero acceder rápido en emergencias | 3 |
-| 42 | US-27 | Recuperar contraseña | Como usuario quiero recuperar acceso a mi cuenta | 2 |
-| 43 | US-28 | Cerrar sesión | Como usuario quiero cerrar sesión de forma segura | 1 |
-| 44 | US-29 | Ver perfil | Como usuario quiero ver mi información personal | 1 |
-| 45 | US-24 | Modo oscuro | Como usuario quiero interfaz nocturna para menor fatiga visual | 2 |
-| 46 | US-26 | Contacto emergencia | Como usuario quiero registrar contacto de emergencia | 3 |
-| 47 | US-48 | Seguridad datos | Como sistema quiero proteger datos clínicos | 5 |
-| 48 | US-49 | Control accesos | Como sistema quiero restringir acceso por roles | 5 |
-| 49 | US-50 | Auditoría | Como sistema quiero registrar actividad para control | 3 |
-| 50 | US-40 | Descargar brochure | Como visitante quiero descargar información del producto | 2 |
+| 1 | US-27 | Visualización de propuesta de valor | Como visitante quiero ver la propuesta de valor para entender cómo CortiSense previene el burnout médico | 3 |
+| 2 | US-33 | Header y Footer | Como visitante quiero usar un menú fijo y footer para acceder rápido a secciones importantes | 2 |
+| 3 | US-28 | Descripción de aplicación | Como director médico quiero conocer los módulos de la plataforma para entender su funcionamiento | 3 |
+| 4 | US-32 | Wearables | Como profesional sanitario quiero conocer las especificaciones del wearable para evaluar su uso médico | 3 |
+| 5 | US-29 | Metas de aplicación | Como administrador quiero conocer beneficios y metas para justificar la implementación | 3 |
+| 6 | US-30 | Planes de pago | Como tomador de decisiones quiero ver planes para evaluar la suscripción | 3 |
+| 7 | US-31 | Fidelización de clientes | Como usuario potencial quiero ver testimonios para confiar en la solución | 2 |
+| 8 | US-17 | Búsqueda interactiva en Landing Page | Como visitante quiero buscar secciones para encontrar información rápidamente | 3 |
+| 9 | US-18 | Cambio de idioma en Landing | Como visitante quiero cambiar idioma para comprender mejor el contenido | 2 |
+| 10 | US-19 | Navegación fluida por el Menú Principal | Como visitante quiero navegar por el menú para acceder a las características del sistema | 2 |
+| 11 | US-20 | Comparación de Planes de Bienestar | Como director hospitalario quiero comparar planes para elegir el más adecuado | 3 |
+| 12 | US-21 | Visualización de Testimonios Médicos | Como visitante quiero leer testimonios para ganar confianza en el producto | 2 |
+| 13 | US-22 | Acceso rápido a Contacto | Como visitante quiero acceder al contacto para solicitar información comercial | 2 |
+| 14 | US-39 | Visualización de demo del sistema | Como visitante quiero ver una demo para entender el funcionamiento del sistema | 3 |
+| 15 | US-40 | Descarga de brochure informativo | Como visitante quiero descargar información del producto para evaluarlo | 2 |
+| 16 | US-41 | Registro de interés comercial | Como visitante quiero dejar mis datos para ser contactado por el equipo comercial | 3 |
+| 17 | US-04 | Vinculación de wearable IoT | Como médico quiero sincronizar mi wearable para monitorear cortisol automáticamente | 5 |
+| 18 | US-05 | Visualización de HRV en tiempo real | Como médico quiero ver mi HRV para entender mi nivel de fatiga operativa | 5 |
+| 19 | US-23 | Alerta de Batería Baja del Wearable | Como médico quiero recibir alerta de batería baja para evitar perder datos | 2 |
+| 20 | US-06 | Personalización de umbrales de alerta | Como usuario quiero definir mis niveles de alerta para evitar notificaciones innecesarias | 3 |
+| 21 | US-07 | Recibir alerta de fatiga crítica | Como médico quiero recibir alertas de estrés para prevenir errores médicos | 5 |
+| 22 | US-08 | Consulta de descansos sugeridos | Como usuario quiero ver descansos recomendados para recuperar energías | 3 |
+| 23 | US-09 | Sugerencia de pausas activas | Como médico quiero ejercicios cortos para bajar mi estrés rápidamente | 3 |
+| 24 | US-34 | Historial de alertas | Como médico quiero revisar alertas pasadas para analizar patrones de estrés | 3 |
+| 25 | US-35 | Escalamiento automático de alertas | Como sistema quiero escalar alertas críticas para prevenir riesgos graves | 5 |
+| 26 | US-10 | Generación de reporte de bienestar | Como médico quiero generar reportes para sustentar mi estado ante la administración | 5 |
+| 27 | US-11 | Visualización de mapa de calor | Como director médico quiero ver un mapa de calor para identificar departamentos agotados | 5 |
+| 28 | US-12 | Identificación de médicos en riesgo | Como jefe de área quiero identificar médicos en fatiga crítica para prevenir errores | 5 |
+| 29 | US-36 | Filtrado de médicos por estado | Como administrador quiero filtrar médicos por estrés para priorizar decisiones | 3 |
+| 30 | US-37 | Visualización de estadísticas globales | Como administrador quiero ver métricas globales para tomar decisiones estratégicas | 3 |
+| 31 | US-38 | Notificaciones masivas | Como administrador quiero enviar alertas masivas para prevenir riesgos colectivos | 3 |
+| 32 | US-25 | Exportación de datos HRV a CSV | Como administrador quiero exportar datos históricos para integrarlos con Recursos Humanos | 3 |
+| 33 | US-13 | Sincronización de horarios médicos | Como administrador quiero sincronizar horarios para ajustar alertas a guardias reales | 5 |
+| 34 | US-14 | Recepción de resumen dominical | Como usuario quiero recibir un resumen semanal para planificar mis días libres | 3 |
+| 35 | US-42 | Optimización del modelo predictivo | Como sistema quiero mejorar el modelo de IA para predecir burnout con mayor precisión | 5 |
+| 36 | US-43 | Reentrenamiento del modelo IA | Como sistema quiero reentrenar el modelo con nuevos datos para adaptarme al usuario | 5 |
+| 37 | US-16 | Feedback de precisión | Como médico quiero calificar alertas para que la IA aprenda de mi percepción | 3 |
+| 38 | US-44 | Feedback negativo del usuario | Como usuario quiero reportar alertas incorrectas para mejorar el sistema | 3 |
+| 39 | US-15 | Acceso a biblioteca de técnicas | Como médico quiero acceder a técnicas de relajación para bajar mi cortisol | 3 |
+| 40 | US-45 | Guardar técnicas favoritas | Como usuario quiero guardar técnicas favoritas para acceder rápidamente | 2 |
+| 41 | US-46 | Recomendaciones personalizadas | Como sistema quiero recomendar técnicas basadas en biomarcadores para reducir estrés | 5 |
+| 42 | US-47 | Seguimiento de progreso | Como usuario quiero visualizar mi progreso para mejorar mi bienestar | 3 |
+| 43 | US-01 | Registro de Médico Colegiado | Como médico quiero registrarme para establecer mi cuenta profesional | 3 |
+| 44 | US-02 | Editar perfil del usuario | Como usuario quiero modificar mi información para mantener datos actualizados | 2 |
+| 45 | US-03 | Iniciar sesión biométrico | Como usuario quiero acceder con biometría para no perder tiempo en emergencias | 3 |
+| 46 | US-24 | Modo Oscuro para Guardias Nocturnas | Como médico quiero activar modo oscuro para evitar fatiga visual | 2 |
+| 47 | US-26 | Configuración de contacto de emergencia | Como médico quiero registrar un contacto de emergencia para casos críticos | 3 |
+| 48 | US-48 | Protección de datos sensibles | Como sistema quiero proteger datos médicos para garantizar privacidad | 5 |
+| 49 | US-49 | Control de acceso por roles | Como sistema quiero restringir accesos según roles para mayor seguridad | 5 |
+| 50 | US-50 | Registro de actividad del sistema | Como sistema quiero registrar acciones para auditoría | 3 |
 ---
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
