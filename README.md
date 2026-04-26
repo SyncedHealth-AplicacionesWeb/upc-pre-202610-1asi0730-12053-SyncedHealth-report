@@ -1167,8 +1167,99 @@ La sesión fue desarrollada mediante el uso de la *Step by Step Guide to run you
 * **Conclusiones:** El Big Picture Event Storming revela a CortiSense no solo como una aplicación de monitoreo, sino como un mecanismo de sincronización vital entre el bienestar biológico y la logística administrativa de los hospitales inteligentes. Este mapeo permitió ordenar los comportamientos del software, donde cada nota azul se convierte en una funcionalidad del sistema y cada nota lila en una regla de negocio clínica que protege tanto al profesional sanitario como la seguridad del paciente.
 
 ## 2.5. Ubiquitous Language
+Este glosario define los términos clave del dominio de CortiSense, producto desarrollado por SyncedHealth, con el propósito de mantener un lenguaje común y sin ambigüedades entre los equipos de desarrollo, el personal sanitario, los proveedores de dispositivos IoT y los demás stakeholders involucrados.
+
+El proceso de elaboración se realizó en conjunto con el equipo multidisciplinario, tomando como referencia el libro "Domain-Driven Design: Tackling Complexity in the Heart of Software" de Eric Evans (2003). Durante la fase de Event Storming y Needfinding, se identificaron los conceptos más recurrentes en entrevistas, flujos y artefactos clínicos, los cuales se estandarizaron en el presente glosario.
 
 ---
+
+### IoT Telemetry
+
+| Term (English) | Definición (Español) |
+| - | - |
+| Wearable Device (Dispositivo wearable) | Sensor portátil usado por el personal médico durante su jornada para capturar biomarcadores en tiempo real. |
+| Biomarker (Biomarcador) | Indicador fisiológico medible —cortisol y HRV— que refleja el estado físico y mental del médico en un momento determinado. |
+| Telemetry (Telemetría) | Transmisión continua de datos biométricos desde el wearable hacia la plataforma para su procesamiento. |
+| Pulse Signal (Señal de pulso) | Dato crudo de frecuencia cardíaca emitido por el sensor antes de ser procesado por el sistema de análisis. |
+| Device Pairing (Emparejamiento) | Proceso de vinculación Bluetooth entre el wearable y la cuenta del médico dentro de la plataforma. |
+| Signal Loss (Pérdida de señal) | Interrupción en la transmisión de datos del sensor que activa de forma automática una alerta de desconexión. |
+| Sampling Threshold (Umbral de muestreo) | Frecuencia mínima con la que el sensor debe enviar lecturas para que el análisis biométrico sea considerado válido. |
+
+---
+
+### Health Analytics
+
+| Term (English) | Definición (Español) |
+| - | - |
+| Cortisol Level (Nivel de cortisol) | Concentración de la hormona del estrés medida en el organismo del médico, utilizada como indicador primario de fatiga ocupacional. |
+| Heart Rate Variability — HRV (Variabilidad de frecuencia cardíaca) | Variación en el intervalo entre latidos cardíacos; a menor HRV, mayor estado de estrés acumulado en el profesional. |
+| Resilience Score (Índice de resiliencia) | Puntuación calculada por el algoritmo que resume la capacidad actual del médico para responder a la demanda laboral sin riesgo de colapso. |
+| Fatigue State (Estado de fatiga) | Clasificación del nivel de agotamiento del médico en tres categorías: Normal, Medio y Crítico. |
+| Risk Threshold (Umbral de riesgo) | Valor límite de cortisol o HRV a partir del cual el sistema considera que el médico se encuentra en peligro de colapso por burnout. |
+| Biometric Baseline (Línea base biológica) | Perfil fisiológico individual calibrado durante las primeras sesiones de uso, sobre el cual se comparan todas las lecturas posteriores. |
+| Biometric Anomaly (Anomalía biométrica) | Patrón inusual en los datos que se desvía significativamente de la línea base registrada para el médico. |
+| Burnout Trend (Tendencia de agotamiento) | Proyección algorítmica de la probabilidad de colapso por burnout en el corto plazo, basada en el historial biométrico acumulado. |
+
+---
+
+### Shift Orchestrator
+
+| Term (English) | Definición (Español) |
+| - | - |
+| Shift (Guardia) | Período de trabajo asignado a un médico, con hora de inicio, hora de fin y área clínica definida. |
+| Critical Shift (Turno crítico) | Guardia en la que el médico asignado presenta niveles de fatiga que superan el umbral de riesgo establecido por el sistema. |
+| Shift Rescheduling (Reprogramación de turno) | Acción de reasignar o modificar una guardia basándose en el estado biométrico actual del médico. |
+| Relief Assignment (Relevo) | Asignación de un médico de reemplazo cuando el titular de la guardia supera el umbral de riesgo crítico. |
+| Workload (Carga laboral) | Volumen y complejidad de las atenciones asignadas a un médico durante su guardia. |
+| Availability (Disponibilidad) | Estado de un médico que indica si puede ser asignado a un turno según su descanso acumulado y su índice de resiliencia. |
+| Rest Block (Bloque de descanso) | Período protegido dentro del cronograma en el que el médico no puede recibir nuevas asignaciones de guardia. |
+
+---
+
+### Notification Engine
+
+| Term (English) | Definición (Español) |
+| - | - |
+| Fatigue Alert (Alerta de fatiga) | Notificación generada cuando los biomarcadores superan el umbral de riesgo, dirigida al médico y, de corresponder, al administrador. |
+| Escalated Alert (Alerta escalada) | Notificación enviada automáticamente al dashboard gerencial cuando el médico ignora una alerta inicial por más de diez minutos. |
+| Preventive Notification (Notificación preventiva) | Aviso emitido antes de alcanzar el umbral crítico, con el fin de anticipar el agotamiento y permitir una intervención temprana. |
+| Rest Suggestion (Sugerencia de pausa) | Recomendación personalizada de descanso generada a partir del estado biométrico actual del médico. |
+| Omission Incident (Incidencia de omisión) | Registro automático que se genera cuando un médico no responde a una alerta de fatiga crítica. |
+
+---
+
+### Identity & Access Management
+
+| Term (English) | Definición (Español) |
+| - | - |
+| Medical Staff (Personal sanitario operativo) | Médicos, residentes y enfermeros que usan el wearable y consultan sus propios datos de salud en la plataforma. |
+| Medical Director (Director médico) | Administrador con acceso al dashboard gerencial y capacidad de aprobar reprogramaciones de turno basadas en datos biométricos. |
+| Medical License Number (Número de colegiatura) | Identificador único de un médico registrado, utilizado para vincular su perfil profesional con la plataforma. |
+| Private Profile (Perfil privado) | Configuración en la que los datos biométricos del médico son visibles únicamente para él mismo. |
+| Access Control (Control de acceso) | Conjunto de permisos que define qué información puede visualizar o modificar cada rol dentro del sistema. |
+
+---
+
+### Medical Staff & Rest Management
+
+| Term (English) | Definición (Español) |
+| - | - |
+| Burnout (Burnout) | Síndrome de agotamiento profesional crónico producido por la sobrecarga laboral sostenida sin recuperación adecuada. |
+| Mandatory Rest (Descanso obligatorio) | Período de reposo que el sistema impone automáticamente cuando el índice de resiliencia cae por debajo del mínimo operativo. |
+| Cortisol Recovery (Recuperación de cortisol) | Proceso fisiológico de normalización hormonal durante un período de descanso, monitorizado en tiempo real por la plataforma. |
+| Active Break (Pausa activa) | Interrupción breve guiada —respiración, movimiento— sugerida por la aplicación para reducir el cortisol entre procedimientos. |
+| Wellbeing Report (Reporte de bienestar) | Documento generado por la plataforma con el historial de fatiga, alertas y recuperación de un médico en un período definido. |
+| Heat Map (Mapa de calor) | Visualización del dashboard que muestra el nivel de estrés agregado del personal por área del hospital. |
+| At-Risk Unit (Área en riesgo) | Departamento hospitalario donde el nivel de fatiga colectiva supera el umbral seguro de operación clínica. |
+
+---
+
+### Conclusión
+
+El Ubiquitous Language establece una base de comunicación compartida entre los dominios médico, tecnológico y de negocio de CortiSense. Gracias a este glosario, el equipo puede mantener coherencia conceptual en el modelado del software, los flujos de trabajo clínico y la documentación del proyecto. Este lenguaje será actualizado de manera iterativa conforme se avance hacia el modelado de dominio y la implementación del MVP.
+
+
+
 # Capítulo III: Requirements Specification
 
 ## 3.1. User Stories.
