@@ -1417,8 +1417,72 @@ Muestra la integración con los elementos de pago seguros (Stripe Elements). Se 
 ---
 # Capítulo V: Product Implementation, Validation & Deployment.
 ## 5.1. Software Configuration Management.
+En esta sección se detallan las decisiones tecnológicas, herramientas de colaboración y convenciones de código que garantizan la integridad y escalabilidad de CortiSense, permitiendo un flujo de trabajo sincronizado entre el desarrollo de la lógica de negocio en el backend y la visualización de datos biométricos en el frontend.
+
 ### 5.1.1. Software Development Environment Configuration.
+
+Para el ciclo de vida de CortiSense, el equipo de PircaIndustries utiliza el siguiente ecosistema de herramientas:
+
++ **Project Management**<br>Esta sección se encarga de planificar, estructurar, coordinar y supervisar los recursos y actividades necesarios para llevar a cabo un proyecto de software con éxito. Abarca aspectos como la definición del alcance, la gestión del tiempo, los costos, la calidad, los riesgos, el trabajo colaborativo y la comunicación. Su propósito es asegurar que el proyecto se entregue dentro de los plazos y presupuestos previstos, cumpliendo con los objetivos y requisitos establecidos.<br><br>
+
+  +	<b>Jira Software:</b> Herramienta de gestión de proyectos ágil que permite planificar, rastrear y gestionar el trabajo de seguimiento para tareas mediante tableros Scrum o Kanban, facilitando la colaboración entre equipos de desarrollo. <br>https://www.atlassian.com/software/jira<br><br>
+
++ **Requirements Management**<br>Corresponde al conjunto de actividades orientadas a identificar, documentar, validar y administrar los requisitos tanto del sistema como del software. Este proceso implica comprender las necesidades de los usuarios y de los stakeholders, transformándolas en requisitos funcionales y no funcionales bien definidos. Su finalidad es asegurar que el producto desarrollado cumpla con las expectativas y necesidades del usuario final.<br><br>
+
+  + **Jira Software:** Además de su uso en la gestión de proyectos, Jira también permite gestionar requisitos mediante la creación y seguimiento de historias de usuario, épicas y tareas. Facilita la trazabilidad de los requisitos a lo largo del ciclo de desarrollo, permitiendo priorizarlos, validarlos y mantenerlos actualizados conforme evolucionan las necesidades del proyecto.<br> https://www.atlassian.com/software/jira<br><br>
+
++ **Product UX/UI Design**<br>Este componente se enfoca en el diseño de la experiencia de usuario (UX) y de la interfaz de usuario (UI) dentro del producto de software. La UX busca analizar y optimizar cómo interactúan los usuarios con el sistema, mientras que la UI se centra en la apariencia visual y la facilidad de uso de la interfaz. En conjunto, se pretende ofrecer una experiencia intuitiva, atractiva y eficiente. En este contexto, se desarrolla un prototipo de sitio web adaptable tanto a computadoras como a dispositivos móviles.<br><br>
+
+  + **Figma:** Herramienta colaborativa en la nube que sirve para el diseño de interfaces y prototipos de alta fidelidad para el Dashboard médico y gestión de dispositivos. Permite a equipos diseñar, prototipar y compartir experiencias digitales en tiempo real.<br>https://www.figma.com/design/ <br><br>
+
+  + **UXPressia:** Plataforma de diseño de experiencia de usuario que permite crear customer journey maps, user personas y impact maps para mejorar la comprensión del usuario y la toma de decisiones centradas en UX.<br>https://uxpressia.com/ <br><br>
+
+  + **MIRO:** Plataforma colaborativa en línea que permite crear diagramas, mapas mentales y tableros visuales para facilitar la ideación, planificación y trabajo en equipo.<br>https://miro.com/app/dashboard/ <br><br> 
+
+  + **Canva:** Herramienta de diseño gráfico en línea que permite crear presentaciones, infografías y contenido visual de manera sencilla mediante plantillas y recursos prediseñados.<br>https://www.canva.com/<br><br> 
+
+  + **Structurizr:** Herramienta de modelado de arquitectura de software que permite crear diagramas basados en el modelo C4, facilitando la visualización y documentación de sistemas de manera clara y estructurada. Fundamental para la visualización de la interacción de microservicios. <br> https://structurizr.com/ <br><br>
+  
+  + **Lucidchart:** Herramienta en línea para la creación de diagramas y representaciones visuales, como wireframes, flujos de usuario y diagramas de arquitectura. Permite a los equipos colaborar en tiempo real, facilitando la planificación y el diseño estructurado de interfaces y sistemas.<br>https://www.lucidchart.com/<br><br>
+
+  + **PlantUML:** Herramienta en línea para la creación de diagramas y representaciones visuales, como wireframes, flujos de usuario y diagramas de arquitectura. Permite a los equipos colaborar en tiempo real, facilitando la planificación y el diseño estructurado de interfaces y sistemas.<br>https://plantuml.com/es/<br><br>
+
++ **Software Development**<br>Hace referencia al proceso completo de creación de software, que incluye su diseño, programación, prueba y mantenimiento. En esta etapa se implementan los requisitos previamente definidos, empleando distintos lenguajes, herramientas y tecnologías. El objetivo principal es desarrollar un producto funcional, eficiente y de calidad, que satisfaga las necesidades y expectativas del cliente.<br><br> 
+
+  + **GitHub:** Plataforma de desarrollo colaborativo cuya principal función es el control de versiones y alojamiento de repositorios de código utilizando Git, facilitando el trabajo en equipo. <br> https://github.com/SyncedHealth-AplicacionesWeb <br><br> 
+
+  + **Visual Studio Code:** Editor de código fuente ligero y multiplataforma que incluye herramientas como depuración, control de versiones e integración de extensiones para múltiples lenguajes. <br>https://code.visualstudio.com/ <br><br>
+
+  + **HTML:** Lenguaje de marcado estándar utilizado para estructurar el contenido de páginas web mediante etiquetas y elementos. <br>https://www.jetbrains.com/help/webstorm/editing-html-files.html<br><br> 
+
+  + **CSS:** Lenguaje de estilos utilizado para definir la apariencia y el diseño visual de páginas web, incluyendo colores, fuentes y disposición de elementos.<br>https://www.jetbrains.com/help/webstorm/style-sheets.html#ws_css_completion <br><br> 
+
+  + **JavaScript:** Lenguaje de programación interpretado que permite agregar interactividad y dinamismo a las páginas web.<br> https://www.jetbrains.com/help/webstorm/javascript-specific-guidelines.html<br><br> 
+
+  + **TypeScript:** Lenguaje de programación tipado que compila a JavaScript y permite construir aplicaciones con mayor robustez, mantenibilidad y escalabilidad.<br>https://www.typescriptlang.org/<br><br> 
+
+  + **C#:** Lenguaje de programación orientado a objetos desarrollado por Microsoft, utilizado principalmente para el desarrollo de aplicaciones en la plataforma .NET.<br>https://learn.microsoft.com/es-es/dotnet/csharp/ <br><br> 
+ 
+  + **Java:** Lenguaje de programación de propósito general orientado a objetos, usado ampliamente para construir servicios backend, APIs y sistemas empresariales robustos que se pueden integrar con tecnologías frontend.<br>https://www.java.com/<br><br> 
+ 
+  + **Angular Material:** Biblioteca oficial de componentes UI para Angular, basada en Material Design. Proporciona componentes accesibles, consistentes y listos para producción (tablas, formularios, diálogos, navegación y feedback visual), además de utilidades de theming e integración con Angular CDK para construir interfaces escalables y mantenibles.<br>https://material.angular.io/<br><br>  
+
++ **Software Testing**<br>Consiste en el proceso de evaluación del software con el fin de comprobar su correcto funcionamiento y nivel de calidad. Incluye la realización de pruebas tanto funcionales como no funcionales para detectar fallos, errores o inconsistencias antes de su implementación final. Su propósito es garantizar que el sistema sea estable, confiable y cumpla con los requisitos definidos.<br><br> 
+
+  + **Lenguaje Gherkin (Cucumber):** Se trata de un lenguaje específico de dominio (DSL) empleado en el desarrollo de software con el obejtivo de redactar pruebas de aceptación para validar escenarios de forma clara y comprensible para las personas. Usa palabras clave como Given, When y Then para expresar la condición inicial, la acción realizada y el resultado que se espera en un escenario de prueba. Ello ayuda a mejorar la comunicación y el trabajo conjunto entre los equipos al momento de hacer la definición de requisitos y la validación de comportamientos.<br>https://cucumber.io/<br><br> 
+
++ **Software Deployment**<br> Se refiere al conjunto de actividades necesarias para poner el software en funcionamiento dentro de un entorno productivo o en los dispositivos de los usuarios. Este proceso incluye tareas como la instalación, configuración, migración de información y puesta en marcha del sistema. Su finalidad es lograr una implementación eficiente y sin inconvenientes en el entorno final.<br><br> 
+
+  + **Github Pages:** Servicio de hosting estático que permite publicar sitios web directamente desde repositorios de GitHub. <br>https://pages.github.com/ <br><br>
+
++	**Software Documentation**<br>Hace referencia a la elaboración y actualización de documentos que describen distintos aspectos del software, como su arquitectura, diseño, funcionamiento, instalación, configuración y mantenimiento. Esta documentación sirve como guía tanto para desarrolladores como para usuarios finales, administradores y demás interesados, proporcionando información clara y detallada sobre el sistema. <br><br> 
+
+    + **Markdown:** Es un lenguaje de marcado sencillo que facilita la redacción de texto con formato de manera clara y práctica, el cual posteriormente puede transformarse en HTML u otros formatos de visualización. Se utiliza ampliamente en la documentación de proyectos de software gracias a su simplicidad y flexibilidad. Además, permite incorporar elementos básicos de formato, como títulos, listas, enlaces e imágenes, mediante una sintaxis intuitiva y fácil de aprender.<br>https://www.markdownguide.org/getting-started/<br><br>
+	
+    + **Microsoft Office 365:** Suite de herramientas de productividad en la nube que incluye aplicaciones como Word, Excel y PowerPoint, utilizadas para la elaboración, edición y gestión de documentación del proyecto. Facilita el trabajo colaborativo, el almacenamiento en línea y el acceso compartido a la información.<br>https://www.microsoft.com/microsoft-365<br><br>
+
 ### 5.1.2. Source Code Management.
+
 ### 5.1.3. Source Code Style Guide & Conventions.
 ### 5.1.4. Software Deployment Configuration.
 ## 5.2. Landing Page, Services & Applications Implementation.
