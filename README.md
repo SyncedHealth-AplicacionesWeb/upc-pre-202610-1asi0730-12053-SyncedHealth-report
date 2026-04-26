@@ -188,7 +188,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <b>AV2</b><p></p>
         <b>TF1</b><p></p>
       <h3>Santiago Atanacio, Jairo Mathias</h3>
-        <b>AV1</b><p></p>
+        <b>AV1</b><p>Contribuí al liderazgo compartido del equipo enfocándome en la base estratégica. Aporté desarrollando el Lean UX Process y el Impact Mapping para alinear la visión de nuestro producto. Asimismo, estructuré los Epics y User Stories, y realicé una entrevista al segmento objetivo, facilitando información clave que nos sirvió de guía a todos para tomar decisiones conjuntas.</p>
         <b>TP1</b><p></p>
         <b>AV2</b><p></p>
         <b>TF1</b><p></p>
@@ -225,7 +225,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <b>AV2</b><p></p>
         <b>TF1</b><p></p>
       <h3>Santiago Atanacio, Jairo Mathias</h3>
-        <b>AV1</b><p></p>
+        <b>AV1</b><p>Apoyé en la planificación del equipo redactando las Technical Stories. Además, cumplí puntualmente con mis objetivos asignados en este sprint: diseñé los wireframes de la Landing Page, programé su código fuente y la desplegué exitosamente en GitHub Pages.</p>
         <b>TP1</b><p></p>
         <b>AV2</b><p></p>
         <b>TF1</b><p></p>
