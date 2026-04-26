@@ -1174,6 +1174,11 @@ En esta sección, nuestro equipo presenta el Impact Mapping, el cual es una herr
 <img src="Resources/Images/impact-mapping/impact-map-segmento1.png" alt="Impact Map segmento 1 - Personal Sanitario Operativo">
 </div>
 
+<b>Segmento 2: Administradores y Directores Médicos</b><br>
+
+<div align="center">
+<img src="Resources/Images/impact-mapping/impact-map-segmento2.png" alt="Impact Map segmento 1 - Personal Sanitario Operativo">
+</div>
 
 
 ## 3.3. Product Backlog
