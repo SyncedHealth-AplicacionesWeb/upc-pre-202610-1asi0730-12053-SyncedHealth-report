@@ -983,6 +983,16 @@ En esta sección presentamos los registros de las entrevistas realizadas para ca
 ## 2.3 Needfinding
 
 ### 2.3.1. User Personas.
+
+En esta sección se presentan las fichas de User Persona correspondientes a los segmentos objetivo identificados en el proceso de investigación. La construcción de estos arquetipos se basa en el análisis de entrevistas realizadas a representantes del sector salud, así como en la evaluación de la competencia y el contexto del problema abordado.
+
+A partir de la información recolectada, se identificaron patrones comunes en cuanto a características demográficas, comportamientos, necesidades, motivaciones y frustraciones de los usuarios. Estos elementos permitieron definir perfiles representativos que reflejan de manera realista a los actores clave dentro del dominio del problema.
+
+Los User Personas desarrollados permiten comprender de forma integral a los usuarios, facilitando la toma de decisiones en las etapas posteriores del diseño y desarrollo de la solución. Asimismo, estos arquetipos sirven como base para la elaboración de otros artefactos de experiencia de usuario, como el User Task Matrix, User Journey Mapping y Empathy Mapping, asegurando coherencia y alineación con las necesidades reales de los segmentos identificados.
+
+<img src="Resources/Images/Needfinding/User-Persona-Seg1.png" alt="User Persona del segmento 1 - Personal Sanitario Operativo">
+<img src="Resources/Images/Needfinding/User-Persona-Seg2.png" alt="User Persona del segmento 2 - Administradores y Directores Médicos">
+
 ### 2.3.2. User Task Matrix.
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
