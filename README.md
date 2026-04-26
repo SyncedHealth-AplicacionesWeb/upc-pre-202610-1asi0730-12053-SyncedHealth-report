@@ -2125,6 +2125,16 @@ Enlace Sprint Backlog 1 en Trello: https://trello.com/invite/b/69edb4e56f8b54525
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+Introducción y Estado Actual
+Durante el Sprint 1, el equipo concentró sus esfuerzos técnicos exclusivamente en el diseño UI/UX, maquetación y despliegue de la Landing Page del proyecto CortiSense (alineado con la Épica EP08). El objetivo principal de esta iteración fue validar la propuesta de valor frente al mercado y establecer los canales de captación temprana de leads.
+
+Debido a esta priorización en el Product Backlog, la implementación del backend, la construcción de los controladores y el despliegue de los Web Services no formaron parte del alcance (scope) de este primer Sprint.
+
+Planificación de Web Services
+Si bien la arquitectura a nivel de diseño (Domain-Driven Software Architecture) y las Technical Stories correspondientes a la API ya se encuentran definidas y estructuradas en el capítulo de Requirements Specification, su desarrollo técnico ha sido programado para el Sprint 2.
+
+Por lo tanto, la relación de endpoints documentados con OpenAPI (Swagger), las capturas de interacción con datos de muestra (Postman/Swagger UI), y los enlaces a los repositorios específicos de los microservicios en Spring Boot serán presentados como evidencia de ejecución en la próxima revisión del proyecto (Sprint Review 2), una vez que los servicios hayan sido desarrollados y desplegados en sus respectivos entornos.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 ## 5.3. Validation Interviews.
