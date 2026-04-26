@@ -1058,6 +1058,86 @@ En esta sección presentamos los registros de las entrevistas realizadas para ca
 </tbody>
 </table>
 
+<table>
+<colgroup></colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1 - Segmento #2: Administradores y Directores Médicos<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Carlos Jesús</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Gutiérrez Ríos</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>30 años</td>
+  </tr>
+  <tr>
+    <td>Institución</td>
+    <td>Ministerio de Salud y clínica privada</td>
+  </tr>
+  <tr>
+    <td>Cargo</td>
+    <td>Coordinador de Recursos Humanos del personal médico de emergencias</td>
+  </tr>
+  <tr>
+    <td>Años de experiencia</td>
+    <td>5 a 6 años</td>
+  </tr>
+  <tr>
+    <td>Personal a cargo</td>
+    <td>20 personas en el área de emergencias</td>
+  </tr>
+  <tr>
+    <td>Tecnologías usadas en su campo laboral</td>
+    <td>Laptop, Google Drive, hojas de cálculo Excel, Google Chrome y suite de Google (Gmail con código de DNI como identificador institucional)</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td>Su principal motivación es contar con herramientas que le permitan detectar en tiempo real el nivel de fatiga de su personal, con el fin de proteger tanto la salud del médico como la seguridad del paciente. Reconoce que el problema de los turnos consecutivos de 24 horas es recurrente y urgente, y que actualmente carece de recursos tecnológicos para abordarlo de forma preventiva. Le interesa poder anticiparse a las crisis antes de que se manifiesten en errores clínicos, y utilizar los datos para diseñar políticas de horarios más sostenibles para su equipo.</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td>La mayor frustración del entrevistado es la ausencia total de herramientas tecnológicas para gestionar la fatiga del personal. La elaboración de horarios depende del acuerdo entre los propios médicos, y el coordinador solo valida lo que ellos proponen. Cuando ocurre un caso de agotamiento extremo, el evento no se tipifica como una crisis psicológica o psicosomática, sino que se registra simplemente como una ausencia, lo que impide visibilizar la magnitud real del problema. Además, las limitaciones presupuestarias propias de las entidades del Estado dificultan la adquisición de soluciones tecnológicas.</td>
+  </tr>
+  <tr>
+    <td>Sistemas que usa para detectar o reducir el impacto de la carga laboral</td>
+    <td>No dispone de ningún sistema formal de monitoreo de fatiga. La gestión de horarios se realiza mediante Excel en Google Drive. Ante casos de agotamiento, se orienta al personal hacia la Oficina de Medicina Ocupacional y al área de Psicología del Trabajo. Como medida operativa, se asigna más de un médico por turno para que puedan relevarse mutuamente ante situaciones de fatiga extrema.</td>
+  </tr>
+  <tr>
+    <td>Preferencias</td>
+    <td>
+      <ul>
+        <li>Panel de visualización de fatiga en tiempo real como funcionalidad prioritaria, por encima de alertas automáticas o reportes.</li>
+        <li>Resúmenes periódicos (mensuales o bimestrales) para identificar al personal con mayor riesgo acumulado y diseñar intervenciones preventivas.</li>
+        <li>Reportes exportables a Excel con datos de horas trabajadas, horas en estado de fatiga y productividad perdida.</li>
+        <li>Integración completa con la suite de Google (Drive, Gmail, Sheets) por ser la plataforma que ya utiliza la institución.</li>
+        <li>Seguridad y privacidad de datos como requisito mínimo no negociable, dado que los niveles de estrés y fatiga constituyen condiciones de salud de carácter privado según la normativa vigente.</li>
+        <li>Cumplimiento de las normativas del Ministerio de Salud.</li>
+        <li>Precio accesible o esquema de adquisición flexible, considerando las limitaciones presupuestarias del sector público.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td>Por agregar</td>
+  </tr>
+  <tr>
+    <td>Duración</td>
+    <td>20:00 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Carlos Gutiérrez es coordinador de Recursos Humanos del área de emergencias en el Ministerio de Salud, con 5 a 6 años de experiencia gestionando un equipo de 20 médicos. En la entrevista describe un modelo de gestión de horarios completamente manual y dependiente del acuerdo entre el propio personal, sin ningún mecanismo tecnológico de monitoreo de fatiga. Identifica como problema crítico la práctica habitual de médicos que encadenan turnos de 12 horas en distintas instituciones, llegando a acumular 24 horas continuas de trabajo. Señala que estos casos no se registran formalmente como crisis de salud, sino únicamente como ausencias, lo que invisibiliza el problema ante la administración. Valora positivamente la implementación de un sistema de monitoreo biométrico en tiempo real, priorizando la visualización del nivel de fatiga por encima de cualquier otra funcionalidad, ya que considera que con esa información puede gestionar él mismo los relevos y notificaciones. Establece como requisitos mínimos indispensables la seguridad y privacidad de los datos biométricos, el cumplimiento normativo del MINSA, la compatibilidad con la suite de Google y un costo de adquisición accesible para entidades del Estado.</td>
+  </tr>
+</tbody>
+</table>
 
 
 ### 2.2.3 Análisis de entrevistas
