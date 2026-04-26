@@ -1125,8 +1125,12 @@ En esta sección presentamos los registros de las entrevistas realizadas para ca
     </td>
   </tr>
   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="Resources/Interview-evidences/interview-carlos-gutierrez.PNG" alt="Entrevista Carlos Gutierrez"></div></td>
+  </tr>
+  <tr>
     <td>Link</td>
-    <td>Por agregar</td>
+    <td><p><a target="_blank" href="https://drive.google.com/file/d/1DsKAj6ceQ0UX6NWjwXI8-3jTV6jH7xYH/view?usp=drive_link" title="Video de la entrevista">Ver grabación aquí</a></p></td>
   </tr>
   <tr>
     <td>Duración</td>
