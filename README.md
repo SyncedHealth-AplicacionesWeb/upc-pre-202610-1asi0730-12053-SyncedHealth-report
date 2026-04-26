@@ -1904,7 +1904,25 @@ En resumen, Github Pages usa la rama main como origen de producción. Paralelame
 | **Sprint 1 Velocity**                  | 14 Story Points                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | **Sum of Story Points**                | **14 Story Points**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 #### 5.2.1.2. Aspect Leaders and Collaborators.
+
+Durante este Sprint, el equipo ha organizado el trabajo en base a las Epics definidas en el Product Backlog. La asignación de líderes y colaboradores se ha realizado considerando la responsabilidad real de cada miembro en los distintos aspectos del proyecto, según se documenta en la planificación interna del equipo.
+
+| Team Member (Last Name, First Name) | GitHub Username | EP01 | EP02 | EP03 | EP04 | EP05 | EP06 | EP07 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Gutierrez Santillán, Sebastián Augusto | SebastianGutierrezSantillan | C | L | C | C | C | C | L |
+| León Morales, Johan Yonel | TheCap213 | C | C | L | C | C | C | C |
+| Mauricio Silva, Guiou Justinn | Justinn2006 | L | C | C | C | L | C | C |
+| Pareja Calloapaza, Marcelo Fausto | marc3lllob7 | C | C | C | L | C | L | C |
+| Santiago Atanacio, Jairo Mathias | Msa-ware | C | C | C | C | C | C | C |
+
+**Leyenda:** L = Líder, C = Colaborador
+
 #### 5.2.1.3. Sprint Backlog 1.
+
+Nuestro objetivo principal con este Sprint 1 es desplegar la versión inicial de la Landing Page de CortiSense con el propósito de atrapar el interés del mercado y establecer un canal de comunicación directo con nuestros prospectos. Para lograr este objetivo, se ha realizado una distribución estratégica de tareas entre los integrantes del equipo. Esto nos permitirá asegurar que cada sección del sitio transmita nuestra propuesta de valor con claridad, genere confianza en el sector construcción y cuente con llamados a la acción funcionales para capturar los primeros registros.
+
+Enlace Sprint Backlog 1 en Trello:
+
 #### 5.2.1.4. Development Evidence for Sprint Review.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
@@ -1918,4 +1936,11 @@ En resumen, Github Pages usa la rama main como origen de producción. Paralelame
 ---
 # Conclusiones
 # Bibliografía
+
+Chatuev, M. (2020, 21 de setiembre). *Big Picture Event Storming*. Medium. https://medium.com/@chatuev/big-picture-event-storming-7a1fe18ffabb
+
+Draft.io (s.f.). *EventStorming*. Draft.io. https://draft.io/example/eventstorming
+
+Qlerify (s.f.). *What is Big Picture Event Storming?*. Qlerify. https://www.qlerify.com/event-storming-concepts/what-is-big-picture-event-storming
+
 # Anexos
