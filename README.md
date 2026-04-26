@@ -1774,16 +1774,15 @@ En esta sección se detallan los esquemas de baja fidelidad, estructurados segú
 
 <a name="wireframes-mobile"></a>
 **Interfaces Móviles** </br>
-<img src="Resources/Images/Wireframes/Registro_mobile_wireframe.png?raw=true" alt="Wireframe de registro en formato móvil de VitalWatch"/>
+<img src="Resources/Images/Wireframes/Registro_mobile_wireframe.png?raw=true" width="250">
 <br>
-<img src="Resources/Images/Wireframes/Login_mobile_wireframe.png?raw=true" alt="Wireframe de inicio de sesión en formato móvil de VitalWatch"/>
+<img src="Resources/Images/Wireframes/Login_mobile_wireframe.png?raw=true" width="250">
 <br>
-<img src="Resources/Images/Wireframes/Segmento_admin_mobile_wireframe.png?raw=true" alt="Wireframe del dashboard administrativo en formato móvil de VitalWatch"/>
+<img src="Resources/Images/Wireframes/Segmento_admin_mobile_wireframe.png?raw=true" width="250">
 <br>
-<img src="Resources/Images/Wireframes/Segmento_clinico_mobile_wireframe_1.png?raw=true" alt="Wireframe de monitoreo clínico (vista 1) en formato móvil de VitalWatch"/>
+<img src="Resources/Images/Wireframes/Segmento_clinico_mobile_wireframe_1.png?raw=true" width="250">
 <br>
-<img src="Resources/Images/Wireframes/Segmento_clinico_mobile_wireframe_2.png?raw=true" alt="Wireframe de monitoreo clínico (vista 2) en formato móvil de VitalWatch"/>
-<br>
+<img src="Resources/Images/Wireframes/Segmento_clinico_mobile_wireframe_2.png?raw=true" width="250">
 <br>
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
