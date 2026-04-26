@@ -183,7 +183,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <b>AV2</b><p></p>
         <b>TF1</b><p></p>
       <h3>Pareja Calloapaza, Marcelo Fausto</h3>
-        <b>AV1</b><p></p>
+        <b>AV1</b><p>Contribuí al desarrollo del proyecto mediante la implementación del Big Picture Event Storming e Information Architecture. Ello me permitió definir los contextos de forma sencilla del dominio y también definir la arquitectura del sistema. De esa manera, pude generar un order respecto a como han de ser respetados los avances.</p>
         <b>TP1</b><p></p>
         <b>AV2</b><p></p>
         <b>TF1</b><p></p>
@@ -195,7 +195,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
           <br>
       </td>
       <td colspan="3">
-        <b>AV1</b><p></p>
+        <b>AV1</b><p>Se logró completar la primera parte del trabajo sin problemas mayores. De esta manera, hemos asegurado nuestro avance como grupo.</p>
         <b>TP1</b><p></p>
         <b>AV2</b><p></p>
         <b>TF1</b><p></p>
@@ -220,7 +220,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <b>AV2</b><p></p>
         <b>TF1</b><p></p>
       <h3>Pareja Calloapaza, Marcelo Fausto</h3>
-        <b>AV1</b><p></p>
+        <b>AV1</b><p>Contribuí en la entrega de tareas responsablemente, desarrollando el análisis del Big Picture y de las reglas de arquitectura, además de otros apartados. De esa manera, pude asegurar el cumplimiento de los objetivos establecidos.</p>
         <b>TP1</b><p></p>
         <b>AV2</b><p></p>
         <b>TF1</b><p></p>
@@ -232,7 +232,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 		  <br>
       </td>
       <td colspan="3">
-        <b>AV1</b><p></p>
+        <b>AV1</b><p>Se logró culminar el primer avance de manera correcta. Ello nos permitirá seguir para la proxima actividad.</p>
         <b>TP1</b><p></p>
         <b>AV2</b><p></p>
         <b>TF1</b><p></p>
