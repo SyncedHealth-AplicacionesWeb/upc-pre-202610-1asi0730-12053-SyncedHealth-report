@@ -1560,6 +1560,7 @@ Muestra la integración con los elementos de pago seguros (Stripe Elements). Se 
 
 <h3>Stress and Fatigue Analysis</h3>
 <img src="Resources/Images/ClassDiagrams/stressandfatigueanalysis.png" alt="Stress and Fatigue Analysis Class Diagram">
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagrams.
 
