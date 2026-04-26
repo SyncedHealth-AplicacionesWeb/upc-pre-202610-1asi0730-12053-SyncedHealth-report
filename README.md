@@ -55,6 +55,47 @@ https://github.com/SyncedHealth-AplicacionesWeb/upc-pre-202610-1asi0730-12053-Sy
 
 <strong>*Entrega TB1:*</strong>
 
++ Desarrollo de Actividades
+    Para el entregable TB1, el equipo utilizó Discord en todas sus reuniones virtuales y coordinaciones por consenso general. La carga de trabajo del informe se distribuyó equitativamente con plazos adecuados. Finalmente, las sesiones presenciales fueron clave para obtener retroalimentación del docente y resolver dudas, optimizando el avance frente a los horarios limitados del grupo.
+
++ **Evidencias de colaboración y commits - Github:**
+    * **Análiticos de colaboración** <br><br>
+        + **Pulse Image of Github Insights**
+        <div align="center"><img src="/Resources/Collaboration-Insights/Insight-1.png"></div><br><br>
+
+
+        + **Contributors Image of Github Insights**
+        <div align="center"><img src="/Resources/Collaboration-Insights/Insight-2.png"></div><br><br>
+
+
+    * **Commits**
+
+         A continuacion se muestran algunos commits realizados en este entrega de TB1.
+
+        + **Marcelo Pareja**
+            <div style="display: flex; align-items: center;">
+            <img src="/Resources/Collaboration-Insights/Insight-Marcelo-Commits.png" >
+            </div><br>
+
+        + **Guiou Mauricio**
+            <div style="display: flex; align-items: center;">
+            <img src="/Resources/Collaboration-Insights/Insight-Justinn-Commits.png">
+            </div><br>
+
+        + **Sebastian Gutierrez**
+            <div style="display: flex; align-items: center;">
+            <img src="/Resources/Collaboration-Insights/Insight-Sebastian-Commits.png">
+            </div><br>
+        + **Johan Yonel**
+            <div style="display: flex; align-items: center;">
+            <img src="/Resources/Collaboration-Insights/Insight-Johan-Commits.png">
+            </div><br>
+        + **Jairo Santiago**
+            <div style="display: flex; align-items: center;">
+            <img src="/Resources/Collaboration-Insights/Insight-Jairo-Commits.png">
+            </div><br><br>
+
+
 
 
 
