@@ -1732,6 +1732,7 @@ Barra de Navegación Persistente: Menú lateral (App) y superior (Landing) que p
 - **Breadcrumbs:** Utilizadas en multiples áreas, sin embargo, destacan en la administrativa. Un ejemplo es la sección de reportes complejos, para que el administrador pueda retroceder fácilmente entre niveles siguiendo una ruta estable (Hospital > Área > Médico > Reporte).
 
 ## 4.3. Landing Page UI Design.
+
 ### 4.3.1. Landing Page Wireframe.
 El wireframe define la estructura básica de la landing page en bloques principales:
 <img src="Resources/landing-page-wireframe/Landing-Page-Wireframe1.png">
@@ -1756,7 +1757,36 @@ El wireframe define la estructura básica de la landing page en bloques principa
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
+En esta sección se detallan los esquemas de baja fidelidad, estructurados según el entorno de visualización para garantizar una experiencia de usuario óptima tanto en escritorio como en dispositivos móviles.
+
+<a name="wireframes-web"></a>
+**Interfaces Web (Desktop)** </br>
+<img src="Resources/Images/Wireframes/Registro_wireframe.png?raw=true" alt="Wireframe de registro en formato web de VitalWatch"/>
+<br>
+<img src="Resources/Images/Wireframes/Login_wireframe.png?raw=true" alt="Wireframe de inicio de sesión en formato web de VitalWatch"/>
+<br>
+<img src="Resources/Images/Wireframes/Segmento_admin_wireframe.png?raw=true" alt="Wireframe del dashboard administrativo en formato web de VitalWatch"/>
+<br>
+<img src="Resources/Images/Wireframes/Segmento_clinico_wireframe.png?raw=true" alt="Wireframe de gestión clínica en formato web de VitalWatch"/>
+<br>
+<img src="Resources/Images/Wireframes/Alerta_segmento_admin_wireframe.png?raw=true" alt="Wireframe de alerta al administrador en formato web de VitalWatch"/>
+<br>
+
+<a name="wireframes-mobile"></a>
+**Interfaces Móviles** </br>
+<img src="Resources/Images/Wireframes/Registro_mobile_wireframe.png?raw=true" alt="Wireframe de registro en formato móvil de VitalWatch"/>
+<br>
+<img src="Resources/Images/Wireframes/Login_mobile_wireframe.png?raw=true" alt="Wireframe de inicio de sesión en formato móvil de VitalWatch"/>
+<br>
+<img src="Resources/Images/Wireframes/Segmento_admin_mobile_wireframe.png?raw=true" alt="Wireframe del dashboard administrativo en formato móvil de VitalWatch"/>
+<br>
+<img src="Resources/Images/Wireframes/Segmento_clinico_mobile_wireframe_1.png?raw=true" alt="Wireframe de monitoreo clínico (vista 1) en formato móvil de VitalWatch"/>
+<br>
+<img src="Resources/Images/Wireframes/Segmento_clinico_mobile_wireframe_2.png?raw=true" alt="Wireframe de monitoreo clínico (vista 2) en formato móvil de VitalWatch"/>
+<br>
+<br>
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
 **Flujo desde landing page a la página de login o register**
 <img src="Resources/Images/Wireflows/login_from_landing_page.png?raw=true" alt=""/>
 <br>
@@ -1768,6 +1798,7 @@ El wireframe define la estructura básica de la landing page en bloques principa
 **Flujo desde la página principal hacia la sección de alertas**
 <img src="Resources/Images/Wireflows/principal_menu_to_alerts.png?raw=true" alt=""/>
 <br>
+
 ### 4.4.3. Web Applications Mock-ups.
 ### 4.4.4. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
