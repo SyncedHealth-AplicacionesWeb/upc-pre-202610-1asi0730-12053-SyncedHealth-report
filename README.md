@@ -978,6 +978,88 @@ En esta sección presentamos los registros de las entrevistas realizadas para ca
   </tr>
 </tbody>
 </table>
+
+
+**Segmento #2: Administradores y Directores Médicos**<br>
+
+
+<table>
+<colgroup></colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #4<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Valeria</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Vertiz Tejeda</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>46 años</td>
+  </tr>
+  <tr>
+    <td>Tipo de institución</td>
+    <td>Clínica Privada de Alta Complejidad</td>
+  </tr>
+  <tr>
+    <td>Área</td>
+    <td>Dirección Médica / Gestión de Personal</td>
+  </tr>
+  <tr>
+    <td>Tecnologías usadas en su campo laboral</td>
+    <td>Laptop institucional, Smartphone, Sistema HIS (Hospital Information System), Microsoft Excel, Firma digital/biométrica.</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td>Su principal motor es la transformación de la gestión hospitalaria reactiva en una proactiva basada en datos científicos. Busca eliminar el "factor adivinanza" en la asignación de turnos y tener argumentos técnicos (biomarcadores) para justificar ante la gerencia financiera la necesidad de mayor presupuesto o personal. Su meta final es reducir la tasa de eventos adversos y asegurar que el personal bajo su mando trabaje en condiciones humanas y seguras.</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td>La ineficiencia de los procesos manuales; le frustra depender de cuadros de Excel que no reflejan la realidad biológica del médico. Siente una gran presión por la responsabilidad de los errores médicos derivados del cansancio acumulado, los cuales solo detecta cuando el incidente ya ocurrió. Además, le preocupa la falta de protocolos formales de "burnout" y la desconexión entre los sistemas de asistencia actuales y el bienestar real del personal.</td>
+  </tr>
+  <tr>
+    <td>Sistemas que usa para detectar o reducir el impacto de la carga laboral</td>
+    <td>Uso de roles de retén (personal de reserva), reuniones de jefatura de guardia, y seguimiento manual por parte de Salud Ocupacional ante quejas o incidentes reportados.</td>
+  </tr>
+  <tr>
+    <td>Preferencias</td>
+    <td>
+		<ul>
+			<li>Dashboard administrativo con mapas de calor (rojo/amarillo/verde) por departamentos.</li>
+			<li>Alertas push inmediatas al smartphone en caso de niveles de fatiga roja en áreas críticas.</li>
+			<li>Integración total con el sistema HIS y planillas para automatizar reemplazos.</li>
+			<li>Cumplimiento estricto de la Ley de Protección de Datos Personales en Salud.</li>
+			<li>Reportes exportables para auditorías internas y sustento presupuestario.</li>
+		</ul>
+	</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="Resources/Interview-evidences/interview-valeria-vetiz.PNG" alt="Entrevista Valeria Vertiz"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202418755_upc_edu_pe/IQCSJixvUAiVQYU7PPuGFn5QAeCNk1McHMV2_GJeQT7m8qI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vXh6If" title="Video de la entrevista">Ver grabación aquí</a></p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>10:57 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Directora Médica con amplia experiencia que supervisa a más de 100 profesionales. Describe un entorno de alta presión donde la gestión de turnos es arcaica y manual. Valora a CortiSense como una herramienta estratégica para la toma de decisiones gerenciales, destacando que la capacidad de ver la fatiga en tiempo real "salva vidas" al permitir retirar a un médico del área crítica antes de que ocurra un error. Considera indispensable la precisión del hardware y la confidencialidad de la data para la aprobación institucional.</td>
+  </tr>
+</tbody>
+</table>
+
+
+
 ### 2.2.3 Análisis de entrevistas
 
 ## 2.3 Needfinding
