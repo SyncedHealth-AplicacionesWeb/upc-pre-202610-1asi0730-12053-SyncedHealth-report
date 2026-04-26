@@ -1535,8 +1535,6 @@ Para el ciclo de vida de CortiSense, el equipo de PircaIndustries utiliza el sig
 
 ### 5.1.2. Source Code Management.
 
-### 5.1.2. Source Code Management.
-
 Se implementa la metodología Git Flow para gestionar el desarrollo de CortiSense, garantizando que el monitoreo de salud nunca se vea interrumpido por código inestable. Adicionalmente, se eligió GitHub como plataforma de control de versiones, aprovechando su funcionalidad GitHub Pages. Esta característica permite desplegar el proyecto de manera sencilla, facilitando la visualización del sitio web a partir de archivos en formato .html mediante la generación de un enlace accesible. Respecto a la documentación de nuevas funcionalidades, se decidió crear ramas bajo la nomenclatura "feature/sprint-1-development" para cada componente iplementado. De esta forma, se asegura el orden y progreso al momento de desarrollar el proyecto.<br><br>
 
 Enlace de la Landing Page:
