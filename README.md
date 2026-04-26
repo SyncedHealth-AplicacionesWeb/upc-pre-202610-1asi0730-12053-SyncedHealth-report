@@ -1001,9 +1001,30 @@ Los User Personas desarrollados permiten comprender de forma integral a los usua
 ---
 
 ### 2.3.2. User Task Matrix.
+| Tareas del usuario                                         | Frecuencia (Liz) | Importancia (Liz) | Frecuencia (Luis) | Importancia (Luis) |
+|------------------------------------------------------------|------------------|-------------------|-------------------|--------------------|
+| Atender pacientes en situaciones de emergencia             | Alta             | Alta              | Baja              | Media              |
+| Monitorear signos vitales de los pacientes                 | Alta             | Alta              | Baja              | Media              |
+| Coordinar con el equipo médico                             | Alta             | Alta              | Alta              | Alta               |
+| Coordinar la atención de múltiples pacientes               | Alta             | Alta              | Media             | Alta               |
+| Mantener registros y reportes clínicos                     | Media            | Alta              | Alta              | Alta               |
+| Tomar decisiones bajo presión                              | Alta             | Alta              | Alta              | Alta               |
+| Mantener el rendimiento durante turnos prolongados         | Alta             | Alta              | Baja              | Media              |
+| Solicitar o brindar apoyo dentro del equipo                | Media            | Alta              | Alta              | Alta               |
+| Supervisar el desempeño del personal                       | Baja             | Media             | Alta              | Alta               |
+| Asignar turnos y distribuir la carga laboral               | Baja             | Media             | Alta              | Alta               |
+| Evaluar riesgos en la atención                             | Media            | Alta              | Alta              | Alta               |
+| Elaborar reportes para auditorías                          | Baja             | Media             | Alta              | Alta               |
 
+### Análisis e interpretación del User Task Matrix
 
----
+A partir del análisis del User Task Matrix, construido en base a la información recolectada en las entrevistas, se observa que el personal sanitario operativo, representado por Liz López, concentra la mayoría de sus tareas en actividades de ejecución directa, como la atención de pacientes en emergencias, el monitoreo de signos vitales y la toma de decisiones bajo presión. Estas tareas presentan tanto una alta frecuencia como una alta importancia, lo que evidencia un entorno de trabajo exigente donde el desempeño individual impacta directamente en la seguridad del paciente.
+
+Por otro lado, el personal administrativo, representado por Luis Ramírez, desarrolla principalmente tareas de carácter estratégico y de gestión, como la asignación de turnos, la supervisión del desempeño del personal y la elaboración de reportes para auditorías. Estas actividades, aunque no son operativas, tienen un impacto crítico en la organización del servicio y en la eficiencia del sistema de salud.
+
+Se identifican coincidencias en tareas como la coordinación con el equipo médico y la toma de decisiones bajo presión, las cuales presentan alta frecuencia e importancia en ambos segmentos, evidenciando la interdependencia entre el personal operativo y administrativo. Sin embargo, la principal diferencia radica en el enfoque de sus responsabilidades: mientras el segmento operativo se enfoca en la ejecución de tareas clínicas, el segmento administrativo se orienta a la planificación, supervisión y optimización de los recursos humanos.
+
+En conjunto, el análisis permite identificar que las tareas críticas para ambos segmentos están relacionadas con la gestión eficiente del tiempo, la toma de decisiones y la coordinación del equipo. Esto evidencia la necesidad de contar con herramientas que mejoren la visibilidad del estado del personal, permitan anticipar riesgos asociados a la fatiga y optimicen la distribución de la carga laboral.
 
 ### 2.3.3. User Journey Mapping.
 
