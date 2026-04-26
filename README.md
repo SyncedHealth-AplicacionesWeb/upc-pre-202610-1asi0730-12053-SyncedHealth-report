@@ -1142,6 +1142,74 @@ En esta sección presentamos los registros de las entrevistas realizadas para ca
 
 ### 2.2.3 Análisis de entrevistas
 
+En esta sección se presenta el análisis consolidado de las entrevistas realizadas a los dos segmentos objetivo identificados para CortiSense. El proceso de análisis siguió un enfoque cualitativo basado en la identificación de patrones recurrentes, frustraciones comunes y necesidades prioritarias expresadas por los entrevistados. Los hallazgos obtenidos sirven como insumo directo para la construcción de los artefactos de Needfinding y la validación de las hipótesis del Lean UX Process.
+
+---
+
+#### Segmento #1: Personal Sanitario Operativo
+
+A partir de las tres entrevistas realizadas a profesionales del área de emergencias y laboratorio clínico, se identificaron los siguientes patrones dominantes:
+
+**Condiciones laborales y carga de trabajo**
+
+Los tres entrevistados coinciden en que sus jornadas laborales son extensas y de alta demanda. Las guardias de 12 horas son la norma, y en varios casos el personal encadena turnos en distintas instituciones, acumulando hasta 24 horas continuas de trabajo. Esta práctica es especialmente frecuente en el sector público, donde la escasez de personal obliga a los profesionales a cubrir múltiples turnos para garantizar la continuidad del servicio. Ricardo Huamán señala una carga mensual de aproximadamente 150 horas laborales, mientras que Rusbel Cajaleón describe guardias de entre 12 y 24 horas con alta frecuencia semanal.
+
+**Ausencia de mecanismos formales de prevención**
+
+El hallazgo más relevante y transversal a los tres entrevistados es la inexistencia de sistemas formales para detectar o prevenir el agotamiento del personal. Maribel Fernández indica que las horas de salud mental que antes se ofrecían fueron eliminadas, dejando al equipo sin ningún soporte institucional estructurado. Rusbel Cajaleón señala que ante un caso de fatiga extrema el equipo actúa de forma reactiva, redistribuyendo informalmente la carga entre compañeros. Ricardo Huamán menciona el programa de Salud Ocupacional como única herramienta existente, aunque reconoce que los tamizajes demoran días en arrojar resultados concretos, lo que los hace ineficaces para situaciones de urgencia.
+
+**Percepción del agotamiento y sus consecuencias**
+
+Los entrevistados describen el agotamiento extremo en términos como "fatiga extrema", "estar quemado" o "presencia física sin presencia mental", vocabulario que coincide directamente con la definición clínica del burnout y que refuerza la pertinencia del Ubiquitous Language definido en el dominio de CortiSense. Todos reconocen que este estado afecta directamente la capacidad de concentración, la toma de decisiones y el desempeño clínico, incrementando el riesgo de errores médicos.
+
+**Disposición hacia la tecnología de monitoreo**
+
+Los tres entrevistados manifiestan una disposición favorable hacia el uso de wearables para el monitoreo biométrico, siempre que se cumplan ciertas condiciones mínimas. Las más mencionadas son la privacidad y confidencialidad de los datos, la discreción física del dispositivo (pequeño, ligero, no invasivo) y la confiabilidad del software. Existe consenso en que el dispositivo ideal sería similar a un reloj inteligente o pulsera, que no interfiera con los procedimientos clínicos y que cuente con una batería de larga duración.
+
+**Funcionalidades prioritarias identificadas**
+
+Del análisis cualitativo se desprende que las funcionalidades más valoradas por este segmento son el monitoreo en tiempo real de biomarcadores, las alertas tempranas ante niveles críticos de estrés y la visualización del propio estado de salud durante la guardia. La privacidad de los datos aparece no solo como preferencia, sino como condición indispensable para aceptar el sistema.
+
+---
+
+#### Segmento #2: Administradores y Directores Médicos
+
+A partir de las dos entrevistas realizadas a un coordinador de Recursos Humanos del Ministerio de Salud y a una Directora Médica de clínica privada, se identificaron los siguientes patrones:
+
+**Gestión de horarios manual y sin base científica**
+
+Ambos entrevistados describen un modelo de gestión de turnos completamente manual. Carlos Gutiérrez indica que la elaboración de horarios depende del acuerdo entre los propios médicos, limitándose él a validar lo que el personal propone. Valeria Vertiz señala que la gestión se apoya en hojas de Excel que no reflejan la realidad biológica ni el estado de fatiga acumulada del profesional. Ninguno de los dos dispone de herramientas tecnológicas que vinculen la carga laboral con el estado fisiológico real del médico, lo que valida directamente la hipótesis central del Lean UX Process de CortiSense.
+
+**Registro inadecuado de los eventos de agotamiento**
+
+Ambos entrevistados coinciden en que los episodios de agotamiento extremo no se tipifican como crisis de salud dentro de sus instituciones. Carlos Gutiérrez señala que estos casos se registran simplemente como ausencias, invisibilizando la magnitud real del problema ante la administración y dificultando la toma de decisiones preventivas. Valeria Vertiz añade que solo detecta los errores derivados de la fatiga durante auditorías posteriores al incidente, cuando la intervención ya es tardía.
+
+**Definición operativa del riesgo de fatiga**
+
+Carlos Gutiérrez define como "turno de riesgo" a todo médico que ingresa a una guardia de emergencias habiendo concluido previamente otro turno de 12 horas en una institución diferente. Valeria Vertiz complementa esta definición señalando que los indicadores observables incluyen la disminución en la velocidad de atención y la aparición de errores en la práctica clínica, ambos detectables solo de forma retrospectiva con los sistemas actuales. Esta caracterización coincide con los conceptos de `Critical Shift` y `Fatigue State` definidos en el Ubiquitous Language del dominio.
+
+**Decisiones que tomarían con datos en tiempo real**
+
+Ante la posibilidad de contar con un panel de fatiga en tiempo real, Carlos Gutiérrez indica que con esa información sería capaz de gestionar él mismo los relevos y notificaciones sin necesidad de automatizaciones adicionales. Valeria Vertiz plantea acciones concretas como retirar al médico del área crítica, activar un personal de retén y reorganizar la distribución de pacientes. Ambos coinciden en que el acceso a esta información debe estar restringido a los roles de coordinación y dirección, respetando la privacidad del médico monitoreado.
+
+**Funcionalidades prioritarias identificadas**
+
+Ambos entrevistados priorizan la visualización de fatiga en tiempo real por encima de cualquier otra funcionalidad. Carlos Gutiérrez argumenta que con esa capacidad puede ejecutar él mismo el resto de acciones (alertas, notificaciones, reportes). Valeria Vertiz añade como complemento indispensable los reportes exportables para auditorías internas y el cumplimiento normativo. Ambos requieren resúmenes periódicos (mensuales o bimestrales) para identificar patrones de riesgo acumulado y diseñar políticas preventivas de largo plazo.
+
+**Criterios mínimos de adopción institucional**
+
+Los requisitos mínimos para aprobar la implementación del sistema coinciden en ambos entrevistados: seguridad y privacidad de los datos biométricos como condición no negociable, cumplimiento de las normativas vigentes (Ministerio de Salud y legislación de datos personales en salud), compatibilidad con las herramientas ya utilizadas por la institución (suite de Google, Excel, HIS) y un modelo de adquisición con precio accesible o flexible, especialmente en el caso del sector público.
+
+---
+
+#### Conclusiones del análisis
+
+El análisis transversal de ambos segmentos permite identificar una brecha crítica y compartida: la ausencia total de herramientas tecnológicas que vinculen el estado fisiológico real del personal médico con la gestión operativa de sus guardias. Esta brecha valida las tres hipótesis planteadas en el Lean UX Process y refuerza la propuesta de valor central de CortiSense.
+
+Los hallazgos también permiten confirmar que el vocabulario recogido en las entrevistas, como "fatiga extrema", "estar quemado", "turno de riesgo", "relevo", "descanso obligatorio", coincide con el Ubiquitous Language definido para el dominio, lo que garantiza coherencia entre el modelo conceptual del sistema y el lenguaje real de los usuarios. Esta alineación es fundamental para asegurar que los bounded contexts de Health Analytics, Shift Orchestrator y Notification Engine respondan a necesidades reales y verificadas del negocio, y no a suposiciones del equipo de desarrollo.
+
+Finalmente, la privacidad de los datos biométricos emerge como el factor crítico de adopción en ambos segmentos. Su gestión adecuada no es solo una preferencia del usuario, sino una condición legal y ética establecida por la normativa del sector salud en el Perú, lo que eleva su importancia al nivel de requisito no funcional prioritario para el bounded context de Identity & Access Management.
+
 ## 2.3 Needfinding
 
 ### 2.3.1. User Personas.
