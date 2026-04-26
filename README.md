@@ -1643,13 +1643,13 @@ Se implementa la metodología Git Flow para gestionar el desarrollo de CortiSens
 Enlace de la Landing Page:
 
 <div align="center">
-    <img src="/Resources/Code-Management/landing-desplegada.png" alt="Landing Page">
+    <img src="/Resources/Code_Management/landing-desplegada.png" alt="Landing Page">
 </div><br>
 
 Repositorio GitHub de la Landing Page: https://github.com/SyncedHealth-AplicacionesWeb/upc-pre-202610-1asi0730-12053-SyncedHealth-website.git <br><br>
 
 <div align="center">
-    <img src="/Resources/Code-Management/landing-repositorio.png"  alt="Repositorio landing page">
+    <img src="/Resources/Code_Management/landing-repositorio.png"  alt="Repositorio landing page">
 </div><br>
 
 Repositorio GitHub de los archivos feature:
