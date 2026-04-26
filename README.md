@@ -1647,7 +1647,7 @@ Para el ciclo de vida de CortiSense, el equipo de PircaIndustries utiliza el sig
 
 Se implementa la metodología Git Flow para gestionar el desarrollo de CortiSense, garantizando que el monitoreo de salud nunca se vea interrumpido por código inestable. Adicionalmente, se eligió GitHub como plataforma de control de versiones, aprovechando su funcionalidad GitHub Pages. Esta característica permite desplegar el proyecto de manera sencilla, facilitando la visualización del sitio web a partir de archivos en formato .html mediante la generación de un enlace accesible. Respecto a la documentación de nuevas funcionalidades, se decidió crear ramas bajo la nomenclatura "feature/sprint-1-development" para cada componente iplementado. De esta forma, se asegura el orden y progreso al momento de desarrollar el proyecto.<br><br>
 
-Enlace de la Landing Page:
+Enlace de la Landing Page: https://syncedhealth-aplicacionesweb.github.io/upc-pre-202610-1asi0730-12053-SyncedHealth-website/
 
 <div align="center">
     <img src="/Resources/Code_Management/landing-desplegada.png" alt="Landing Page">
@@ -1964,7 +1964,8 @@ Durante este Sprint, el equipo ha organizado el trabajo en base a las Epics defi
 
 Nuestro objetivo principal con este Sprint 1 es desplegar la versión inicial de la Landing Page de CortiSense con el propósito de atrapar el interés del mercado y establecer un canal de comunicación directo con nuestros prospectos. Para lograr este objetivo, se ha realizado una distribución estratégica de tareas entre los integrantes del equipo. Esto nos permitirá asegurar que cada sección del sitio transmita nuestra propuesta de valor con claridad, genere confianza en el sector construcción y cuente con llamados a la acción funcionales para capturar los primeros registros.
 
-Enlace Sprint Backlog 1 en Trello:
+Enlace Sprint Backlog 1 en Trello: https://trello.com/invite/b/69edb4e56f8b545259285224/ATTI4223d4c1388fe29def281fbeae6553a0CD55EAEA/cortisense-app-web
+<img src="Resources/Sprint-1/trello-sprint1.png" alt="Imagen Sprint 1 Trello"/>
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
