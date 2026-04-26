@@ -1674,6 +1674,70 @@ Este diagrama detalla la arquitectura de la vista de planificación de turnos. I
 
 Muestra la integración con los elementos de pago seguros (Stripe Elements). Se enfoca en el flujo de navegación para la selección de planes, la gestión de estados de pago (éxito/error) y la visualización del historial de facturación del usuario.
 
+### 4.6.6. Vue Components by Presentation Layer
+
+Los siguientes diagramas complementan los diagramas de componentes del frontend. En ellos se detalla la capa de presentación de cada bounded context, mostrando los componentes `.vue` que conforman las vistas principales de la Single Page Application.
+
+### Identity and Access Management - Presentation Layer
+
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Vue-Components/Identity_Presentation.png" alt="Vue components of Identity and Access Management."> <br>
+
+Este diagrama muestra los componentes Vue encargados de la autenticación y gestión de acceso, como las vistas de inicio de sesión, registro, perfil y recuperación de contraseña.
+
+### Medical Staff Management - Presentation Layer
+
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Vue-Components/Staff_Presentation.png" alt="Vue components of Medical Staff Management."> <br>
+
+Este diagrama muestra los componentes Vue usados para gestionar el personal médico, incluyendo vistas de listado, búsqueda, registro y detalle.
+
+### Medical Device Management - Presentation Layer
+
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Vue-Components/Device_Presentation.png" alt="Vue components of Medical Device Management."> <br>
+
+Este diagrama muestra los componentes Vue relacionados con la vinculación, visualización y configuración de dispositivos médicos.
+
+### Biometric Data Management - Presentation Layer
+
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Vue-Components/Data_Presentation.png" alt="Vue components of Biometric Data Management."> <br>
+
+Este diagrama muestra los componentes Vue utilizados para visualizar datos biométricos, historial, detalle y sincronización de información.
+
+### Stress and Fatigue Analysis - Presentation Layer
+
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Vue-Components/Stress_Presentation.png" alt="Vue components of Stress and Fatigue Analysis."> <br>
+
+Este diagrama muestra los componentes Vue encargados de presentar el estado de estrés y fatiga, reportes y recomendaciones.
+
+### Alerting and Notification Management - Presentation Layer
+
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Vue-Components/Alerting_Presentation.png" alt="Vue components of Alerting and Notification Management."> <br>
+
+Este diagrama muestra los componentes Vue utilizados para visualizar alertas, detalles, centro de notificaciones y preferencias del usuario.
+
+### Medical Rest Management - Presentation Layer
+
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Vue-Components/Rest_Presentation.png" alt="Vue components of Medical Rest Management."> <br>
+
+Este diagrama muestra los componentes Vue asociados a la programación, consulta, detalle y recomendaciones de descansos médicos.
+
+### Medical Shift Management - Presentation Layer
+
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Vue-Components/Shift_Presentation.png" alt="Vue components of Medical Shift Management."> <br>
+
+Este diagrama muestra los componentes Vue relacionados con la visualización, asignación, detalle y reprogramación de turnos médicos.
+
+### Subscription and Payment Management - Presentation Layer
+
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Vue-Components/Subscription_Presentation.png" alt="Vue components of Subscription and Payment Management."> <br>
+
+Este diagrama muestra los componentes Vue utilizados para la selección de planes, consulta de suscripción, checkout e historial de pagos.
+
+### Shared UI Components - Presentation Layer
+
+<img src="Resources/Images/C4-Diagrams/Frontend-Diagrams/Vue-Components/SharedUI_Presentation.png" alt="Shared Vue UI components."> <br>
+
+Este diagrama muestra los componentes Vue reutilizables compartidos entre los bounded contexts, como barra de navegación, sidebar, tablas y modales.
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 
