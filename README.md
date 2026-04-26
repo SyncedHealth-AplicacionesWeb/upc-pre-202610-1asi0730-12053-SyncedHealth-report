@@ -1642,7 +1642,15 @@ Se implementa la metodología Git Flow para gestionar el desarrollo de CortiSens
 
 Enlace de la Landing Page:
 
-Repositorio GitHub de la Landing Page:
+<div align="center">
+    <img src="/Resources/Code-Management/landing-desplegada.png" alt="Landing Page">
+</div><br>
+
+Repositorio GitHub de la Landing Page: https://github.com/SyncedHealth-AplicacionesWeb/upc-pre-202610-1asi0730-12053-SyncedHealth-website.git <br><br>
+
+<div align="center">
+    <img src="/Resources/Code-Management/landing-repositorio.png"  alt="Repositorio landing page">
+</div><br>
 
 Repositorio GitHub de los archivos feature:
 
@@ -1876,13 +1884,41 @@ Con el objetivo de realizar el despliegue de nuestra landing page, seleccionamos
 
 **1.  Ingresamos al repositorio de la landing page**
 
+<div align="center">
+  <img src="/Resources/Deployment-Landing/deployment-step-1.png" alt="landing repo">
+</div>
+
+<br>
+
 **2.  Nos dirigimos al apartado de settings**
+
+<div align="center">
+  <img src="/Resources/Deployment-Landing/deployment-step-2.png" alt="landing repo">
+</div>
+
+<br>
 
 **3.  Vamos a la sección de Github Pages**
 
+<div align="center">
+  <img src="/Resources/Deployment-Landing/deployment-step-3.png" alt="landing repo">
+</div>
+
+<br>
+
 **4.  Seleccionamos la rama main de github-pages en el apartado de source y damos click en save para desplegar.**
 
+<div align="center">
+  <img src="/Resources/Deployment-Landing/deployment-step-4.png" alt="landing repo">
+</div>
+
+<br>
+
 **5.  Finalmente estaría todo listo.**
+
+<div align="center">
+  <img src="/Resources/Deployment-Landing/deployment-step-5.png" alt="landing repo">
+</div><br>
 
 En resumen, Github Pages usa la rama main como origen de producción. Paralelamente, se configuró un flujo con GitHub actions que reacciona a los commits de la rama develop que compila con el código estático. Es así que, cuando las modificaciones son revisadas y aprobadas por el equipo en su fase de producción, la plataforma actualiza el sitio en una nueva versión.
 
