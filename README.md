@@ -2108,7 +2108,21 @@ Nuestro objetivo principal con este Sprint 1 es desplegar la versión inicial de
 Enlace Sprint Backlog 1 en Trello: https://trello.com/invite/b/69edb4e56f8b545259285224/ATTI4223d4c1388fe29def281fbeae6553a0CD55EAEA/cortisense-app-web
 <img src="Resources/Sprint-1/trello-sprint1.png" alt="Imagen Sprint 1 Trello"/>
 
+| User Story | Work-Item / Task                                       |        |                              |                                          |                        |                 |            |
+| :-----------| :-------------------------------------------------------| :-------| :-----------------------------| :-----------------------------------------| :-----------------------| :----------------| :-----------|
+| **Id**     | **Title**                                              | **Id** | **Title**                    | **Description**                          | **Estimation (Hours)** | **Assigned To** | **Status** |
+| **US-27**  | Visualización de propuesta de valor     | TK-01  | Hero Section                  | Implementación de la sección Hero   | 1                      | Sebastián Gutierrez     | Done       |
+| **US-27**  | Visualización de propuesta de valor     | TK-01  | Adaptabilidad Móvil           | Implementación de la adaptabilidad móvil   | 1                      | Sebastián Gutierrez     | Done       |
+| **US-28**  | Descripción de aplicación               | TK-02  | Description Section           | Implementación de la sección Description | 1                      | Johan Yonel   | Done       |
+| **US-29**  | Metas de aplicación                     | TK-03  | Goals Section                 | Implementación de la sección Goals        | 1                      | Guiou Mauricio       | Done       |
+| **US-30**  | Planes de pago                          | TK-04  | Pricing Section               | Implementación de la sección Pricing       | 1                      | Marcelo Pareja   | Done       |
+| **US-31**  | Fidelización de clientes                | TK-05  | Impact                        | Implementación de la sección Impact       | 1                      | Marcelo Pareja   | Done       |
+| **US-32**  | Wearables                               | TK-06  | IoT Systems                   | Implementación de la sección IoT Systems      | 1                      | Guiou Mauricio  | Done       |
+| **US-33**  | Header y Footer                         | TK-07  | Sticky Header                 | Implementación de la sección del Header   | 1                      | Jairo Santiago  | Done       |
+| **US-33**  | Header y Footer                         | TK-08  | Accesibilidad del Footer      | Implementación de la seccion del Footer   | 1                      | Jairo Santiago     | Done       |
+
 #### 5.2.1.4. Development Evidence for Sprint Review.
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
