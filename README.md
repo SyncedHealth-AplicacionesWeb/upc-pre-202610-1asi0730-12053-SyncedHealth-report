@@ -962,7 +962,7 @@ En esta sección presentamos los registros de las entrevistas realizadas para ca
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="Resources/Interview-evidences/entrevista-seg1.jpg" alt="Entrevista Rusbel Cajaleón"></div></td>
+    <td><div align="center"><img src="Resources/Interview-evidences/interview-rusbel-arnaldo-cajaleon-gamez.jpg" alt="Entrevista Rusbel Cajaleón"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -990,11 +990,21 @@ A partir de la información recolectada, se identificaron patrones comunes en cu
 
 Los User Personas desarrollados permiten comprender de forma integral a los usuarios, facilitando la toma de decisiones en las etapas posteriores del diseño y desarrollo de la solución. Asimismo, estos arquetipos sirven como base para la elaboración de otros artefactos de experiencia de usuario, como el User Task Matrix, User Journey Mapping y Empathy Mapping, asegurando coherencia y alineación con las necesidades reales de los segmentos identificados.
 
-<img src="Resources/Images/Needfinding/User-Persona-Seg1.png" alt="User Persona del segmento 1 - Personal Sanitario Operativo">
+<img src="Resources/Images/Needfinding/User-Persona-Seg1.png" alt="User Persona del segmento 1 - Personal Sanitario Operativo">  
 <img src="Resources/Images/Needfinding/User-Persona-Seg2.png" alt="User Persona del segmento 2 - Administradores y Directores Médicos">
 
 ### 2.3.2. User Task Matrix.
 ### 2.3.3. User Journey Mapping.
+
+En esta sección se presentan los User Journey Maps correspondientes a los User Personas definidos para cada segmento objetivo. Estos mapas describen el recorrido actual (As-Is) de los usuarios en relación con sus actividades dentro del entorno laboral, permitiendo visualizar de manera integral las etapas, acciones, emociones y puntos críticos que experimentan en su día a día.
+
+A partir del análisis de entrevistas, se identificaron los momentos clave que definen la experiencia del usuario, así como los principales problemas asociados a la sobrecarga laboral, el estrés y la falta de mecanismos de monitoreo y prevención. El objetivo de estos mapas es comprender el contexto real en el que operan los usuarios antes de la implementación de la solución propuesta.
+
+Los User Journey Maps permiten evidenciar oportunidades de mejora en el proceso actual, sirviendo como base para el diseño de soluciones centradas en el usuario que respondan a sus necesidades reales.
+
+<img src="Resources/Images/Needfinding/Journey-Seg1.png" alt="User Journey Map del segmento 1 - Personal Sanitario Operativo">  
+<img src="Resources/Images/Needfinding/Journey-Seg2.png" alt="User Journey Map del segmento 2 - Administradores y Directores Médicos">
+
 ### 2.3.4. Empathy Mapping.
 
 ## 2.4. Big Picture Event Storming.
