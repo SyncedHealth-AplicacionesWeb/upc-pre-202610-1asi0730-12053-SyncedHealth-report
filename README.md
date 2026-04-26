@@ -990,10 +990,21 @@ A partir de la información recolectada, se identificaron patrones comunes en cu
 
 Los User Personas desarrollados permiten comprender de forma integral a los usuarios, facilitando la toma de decisiones en las etapas posteriores del diseño y desarrollo de la solución. Asimismo, estos arquetipos sirven como base para la elaboración de otros artefactos de experiencia de usuario, como el User Task Matrix, User Journey Mapping y Empathy Mapping, asegurando coherencia y alineación con las necesidades reales de los segmentos identificados.
 
-<img src="Resources/Images/Needfinding/User-Persona-Seg1.png" alt="User Persona del segmento 1 - Personal Sanitario Operativo">  
+**Segmento 1: Personal Sanitario Operativo**
+
+<img src="Resources/Images/Needfinding/User-Persona-Seg1.png" alt="User Persona del segmento 1 - Personal Sanitario Operativo">
+
+**Segmento 2: Administradores y Directores Médicos**
+
 <img src="Resources/Images/Needfinding/User-Persona-Seg2.png" alt="User Persona del segmento 2 - Administradores y Directores Médicos">
 
+---
+
 ### 2.3.2. User Task Matrix.
+
+
+---
+
 ### 2.3.3. User Journey Mapping.
 
 En esta sección se presentan los User Journey Maps correspondientes a los User Personas definidos para cada segmento objetivo. Estos mapas describen el recorrido actual (As-Is) de los usuarios en relación con sus actividades dentro del entorno laboral, permitiendo visualizar de manera integral las etapas, acciones, emociones y puntos críticos que experimentan en su día a día.
@@ -1002,10 +1013,31 @@ A partir del análisis de entrevistas, se identificaron los momentos clave que d
 
 Los User Journey Maps permiten evidenciar oportunidades de mejora en el proceso actual, sirviendo como base para el diseño de soluciones centradas en el usuario que respondan a sus necesidades reales.
 
-<img src="Resources/Images/Needfinding/Journey-Seg1.png" alt="User Journey Map del segmento 1 - Personal Sanitario Operativo">  
+**Segmento 1: Personal Sanitario Operativo**
+
+<img src="Resources/Images/Needfinding/Journey-Seg1.png" alt="User Journey Map del segmento 1 - Personal Sanitario Operativo">
+
+**Segmento 2: Administradores y Directores Médicos**
+
 <img src="Resources/Images/Needfinding/Journey-Seg2.png" alt="User Journey Map del segmento 2 - Administradores y Directores Médicos">
 
+---
+
 ### 2.3.4. Empathy Mapping.
+
+En esta sección se presentan los Empathy Maps correspondientes a los User Personas definidos para cada segmento objetivo. Estos mapas permiten profundizar en la comprensión de los usuarios, analizando sus pensamientos, emociones, comportamientos y percepciones dentro de su contexto laboral.
+
+El proceso de elaboración se basó en el análisis de entrevistas realizadas, a partir de las cuales se identificaron patrones relacionados con lo que los usuarios dicen, piensan, sienten, hacen, ven y escuchan. Asimismo, se determinaron los principales pain points (problemas) y gains (beneficios esperados), lo que permite comprender de manera más empática las necesidades reales de los segmentos.
+
+Estos Empathy Maps complementan los artefactos previamente desarrollados, como los User Personas y User Journey Maps, y sirven como base para diseñar soluciones centradas en el usuario que respondan de manera efectiva a sus expectativas y problemáticas.
+
+**Segmento 1: Personal Sanitario Operativo**
+
+<img src="Resources/Images/Needfinding/Empathy-Seg1.png" alt="Empathy Map del segmento 1 - Personal Sanitario Operativo">
+
+**Segmento 2: Administradores y Directores Médicos**
+
+<img src="Resources/Images/Needfinding/Empathy-Seg2.png" alt="Empathy Map del segmento 2 - Administradores y Directores Médicos">
 
 ## 2.4. Big Picture Event Storming.
 
