@@ -173,7 +173,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <b>AV2</b><p></p>
         <b>TF1</b><p></p>
       <h3>León Morales, Johan Yonel</h3>
-        <b>AV1</b><p></p>
+        <b>AV1</b><p>Durante el desarrollo de este oroyecto, gestione la participacion grupal en la elaboración de las secciones como Style Guidelines y como Domain-Driven Software Architecture, contribuyendo tanto en el diseño visual como en la estructuración lógica del sistema.</p>
         <b>TP1</b><p></p>
         <b>AV2</b><p></p>
         <b>TF1</b><p></p>
@@ -210,7 +210,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <b>AV2</b><p></p>
         <b>TF1</b><p></p>
       <h3>León Morales, Johan Yonel</h3>
-        <b>AV1</b><p></p>
+        <b>AV1</b><p>Durante el desarrollo de este proyecto, apoyé en la coordinación de las actividades y reuniones. Cumpliendo con los objetivos en la gestión del diseño del Desing Level Event Storming como su implementación en el Domain-Driven Software Architecture.</p>
         <b>TP1</b><p></p>
         <b>AV2</b><p></p>
         <b>TF1</b><p></p>
